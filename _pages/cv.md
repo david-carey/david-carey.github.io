@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://david-carey.github.io/files/D_Carey_cv_Oct2019.pdf)
+[Download CV here](http://david-carey.github.io/files/D_Carey_cv_Oct2019.pdf) (_infrequently updated so likely out of date_).
 
 <!-- Education
 ======
