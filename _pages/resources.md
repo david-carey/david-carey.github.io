@@ -5,6 +5,8 @@ permalink: /resources/
 author_profile: true
 ---
 
+{{% toc %}}
+
 This is a semi-structured collection of sports analytics, statistics, data science and programming resources. I have found them useful and would like to share them with others.
 
 # Resarch papers
