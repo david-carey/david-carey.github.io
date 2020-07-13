@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
@@ -13,12 +13,5 @@ In most cases I will reply to full text requests sent via <a href="{{author.rese
 
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1249/mss.0000000000001685"></div>
 
-<!-- {% if author.googlescholar %}
-  You can find all of my research papers on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
