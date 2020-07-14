@@ -8,12 +8,13 @@ toc: true
 
 {% include base_path %}
 
-{% include toc %}
+{{% include toc %}}
 
 This is a semi-structured collection of sports analytics, statistics, data science and programming resources. I have found them useful and would like to share them with others.
 
-# Resarch papers
+# Research papers
 
+Good papers.
 
 ### Clinical prediction models
 
@@ -50,24 +51,28 @@ https://www.youtube.com/watch?v=djD-yL3vWNQ
 2017 NESSIS - Talk by Ronald Yurko
 "NFLWAR: A reproducible method for offensive player evaluation in football" presented by Ronald Yurko at the 2017 New England Symposium on Statistics in Sports, held on Sept 23, 2017, at the Harvard University Science Center.
 
-https://www.youtube.com/watch?v=RN2FLKoKC50
+<https://www.youtube.com/watch?v=RN2FLKoKC50>
 2017 NESSIS - Talk by Nathan Sandholtz
 "Replaying the NBA: Using Markov Decision Processes to test decision-making from the 2015-2016 regular season” presented by Nathan Sandholtz at the 2017 New England Symposium on Statistics in Sports, held on Sept 23, 2017, at the Harvard
 
-https://www.youtube.com/user/42analytics/videos
+<https://www.youtube.com/user/42analytics/videos>
 Sloan sports analytics conference presentations
 Library of many past sports analytics presentations.
 
-https://www.anziam.org.au/MathSport+Proceedings
+<https://www.anziam.org.au/MathSport+Proceedings>
 MathSport Proceedings
 ANZIAM Mathsport has placed conference proceedings online to make the papers available to researchers everywhere.
 
 # Books
 
-http://appliedpredictivemodeling.com/
+[http://appliedpredictivemodeling.com/](http://appliedpredictivemodeling.com/)
+
 Applied Predictive Modeling - by Max Kuhn and Kjell Johnson
-This text is intended for a broad audience as both an introduction to predictive models as well as a guide to applying them. Non-mathematical readers will appreciate the intuitive explanations of the techniques while an emphasis on problem-solving with real data across a wide variety of applications will aid practitioners who wish to extend their expertise. Readers should have knowledge of basic statistical ideas, such as correlation and linear regression analysis. While the text is biased against complex equations, a mathematical background is needed for advanced topics.
+
+{This text is intended for a broad audience as both an introduction to predictive models as well as a guide to applying them. Non-mathematical readers will appreciate the intuitive explanations of the techniques while an emphasis on problem-solving with real data across a wide variety of applications will aid practitioners who wish to extend their expertise. Readers should have knowledge of basic statistical ideas, such as correlation and linear regression analysis. While the text is biased against complex equations, a mathematical background is needed for advanced topics. .notice}
 
 https://www-bcf.usc.edu/~gareth/ISL/
+
 An Introduction to Statistical Learning with Applications in R - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
-This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist.
+
+> This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist.
