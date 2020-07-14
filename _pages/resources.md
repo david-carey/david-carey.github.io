@@ -1,11 +1,14 @@
 ---
-layout: archive
+# layout: archive
 title: "Resources"
 permalink: /resources/
 author_profile: true
+toc: true
 ---
 
-{{% toc %}}
+{% include base_path %}
+
+{% include toc %}
 
 This is a semi-structured collection of sports analytics, statistics, data science and programming resources. I have found them useful and would like to share them with others.
 

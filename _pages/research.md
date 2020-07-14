@@ -1,15 +1,16 @@
 ---
-layout: archive
+# layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+toc: true
 ---
 
 {% include base_path %}
 
-You can find all of my research papers on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+You can find all of my research papers on [my Google Scholar profile](https://scholar.google.com.au/citations?user=5N0aByUAAAAJ&hl=en).
 
-In most cases I will reply to full text requests sent via <a href="{{author.researchgate}}">Researchgate</a> (or other channels).
+In most cases I will reply to full text requests sent via [Researchgate](https://www.researchgate.net/profile/David_Carey8) (or other channels).
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 

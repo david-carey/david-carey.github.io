@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://david-carey.github.io/files/D_Carey_cv_Oct2019.pdf) (_infrequently updated so likely out of date_).
+[Download CV here](http://david-carey.github.io/files/D_Carey_cv_website.pdf) (_infrequently updated so likely out of date_).
 
-<embed src="{{ site.baseurl }}/files/D_Carey_cv_Oct2019.pdf" width="650" height="800" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/D_Carey_cv_website.pdf" width="650" height="800" type='application/pdf'>
 
 <!-- Education
 ======
