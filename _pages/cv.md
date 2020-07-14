@@ -11,6 +11,8 @@ redirect_from:
 
 [Download CV here](http://david-carey.github.io/files/D_Carey_cv_Oct2019.pdf) (_infrequently updated so likely out of date_).
 
+<embed src="{{ site.baseurl }}/files/D_Carey_cv_Oct2019.pdf" width="650" height="800" type='application/pdf'>
+
 <!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
