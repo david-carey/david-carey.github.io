@@ -4,11 +4,12 @@ title: "Research"
 permalink: /research/
 author_profile: true
 toc: true
+toc_sticky: true
 ---
 
 {% include base_path %}
 
-{% include toc %}
+<!-- {% include toc %} -->
 
 You can find all of my research papers on [my Google Scholar profile](https://scholar.google.com.au/citations?user=5N0aByUAAAAJ&hl=en).
 
