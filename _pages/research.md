@@ -8,6 +8,8 @@ toc: true
 
 {% include base_path %}
 
+{% include toc %}
+
 You can find all of my research papers on [my Google Scholar profile](https://scholar.google.com.au/citations?user=5N0aByUAAAAJ&hl=en).
 
 In most cases I will reply to full text requests sent via [Researchgate](https://www.researchgate.net/profile/David_Carey8) (or other channels).

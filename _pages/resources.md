@@ -8,7 +8,7 @@ toc: true
 
 {% include base_path %}
 
-{{% include toc %}}
+{% include toc %}
 
 This is a semi-structured collection of sports analytics, statistics, data science and programming resources. I have found them useful and would like to share them with others.
 
