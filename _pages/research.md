@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+{% include base_path %}
+
 You can find all of my research papers on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 
 In most cases I will reply to full text requests sent via <a href="{{author.researchgate}}">Researchgate</a> (or other channels).
