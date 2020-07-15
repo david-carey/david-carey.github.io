@@ -4,6 +4,7 @@ title: "Resources"
 permalink: /resources/
 author_profile: true
 toc: true
+toc_sticky: true
 ---
 
 {% include base_path %}

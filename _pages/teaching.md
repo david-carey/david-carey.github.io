@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 toc: true
+toc_sticky: true
 ---
 
 {% include toc %}
