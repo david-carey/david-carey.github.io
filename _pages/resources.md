@@ -11,11 +11,13 @@ toc_sticky: true
 
 {% include toc %}
 
-This is a semi-structured collection of sports analytics, statistics, data science and programming resources. I have found them useful and would like to share them with others.
+<br>
+
+This is a semi-structured collection of sports analytics, statistics, data science and programming resources that I've found useful and educational.
 
 # Research papers
 
-Good papers.
+They're good papers Brent.
 
 ### Clinical prediction models
 
@@ -66,14 +68,21 @@ ANZIAM Mathsport has placed conference proceedings online to make the papers ava
 
 # Books
 
-[http://appliedpredictivemodeling.com/](http://appliedpredictivemodeling.com/)
+**Applied Predictive Modeling** - by Max Kuhn and Kjell Johnson
 
-Applied Predictive Modeling - by Max Kuhn and Kjell Johnson
+<http://appliedpredictivemodeling.com/>
 
-{This text is intended for a broad audience as both an introduction to predictive models as well as a guide to applying them. Non-mathematical readers will appreciate the intuitive explanations of the techniques while an emphasis on problem-solving with real data across a wide variety of applications will aid practitioners who wish to extend their expertise. Readers should have knowledge of basic statistical ideas, such as correlation and linear regression analysis. While the text is biased against complex equations, a mathematical background is needed for advanced topics. .notice}
+>This text is intended for a broad audience as both an introduction to predictive models as well as a guide to applying them. Non-mathematical readers will appreciate the intuitive explanations of the techniques while an emphasis on problem-solving with real data across a wide variety of applications will aid practitioners who wish to extend their expertise. Readers should have knowledge of basic statistical ideas, such as correlation and linear regression analysis. While the text is biased against complex equations, a mathematical background is needed for advanced topics.
 
-https://www-bcf.usc.edu/~gareth/ISL/
 
-An Introduction to Statistical Learning with Applications in R - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+**An Introduction to Statistical Learning with Applications in R** - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+
+<https://www-bcf.usc.edu/~gareth/ISL/>
 
 > This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist.
+
+**Computer Age Statistical Inference**
+
+<https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf>
+
+>The twenty-first century has seen a breathtaking expansion of statistical methodology, both in scope and in influence. 'Big data', 'data science', and 'machine learning' have become familiar terms in the news, as statistical methods are brought to bear upon the enormous data sets of modern science and commerce. How did we get here? And where are we going? This book takes us on an exhilarating journey through the revolution in data analysis following the introduction of electronic computation in the 1950s. Beginning with classical inferential theories - Bayesian, frequentist, Fisherian - individual chapters take up a series of influential topics: survival analysis, logistic regression, empirical Bayes, the jackknife and bootstrap, random forests, neural networks, Markov chain Monte Carlo, inference after model selection, and dozens more. The distinctly modern approach integrates methodology and algorithms with statistical inference. The book ends with speculation on the future direction of statistics and data science.
