@@ -29,21 +29,24 @@ toc_sticky: true
 ## Supervision
 
 **Master of sport analytics research theses:**
+
+Industry partners shown in brackets.
+
 * **2020**
-  * Analysis of centre bounce and centre field stoppage strategies in AFL.
-  * A machine learning approach to dynamic win probability in AFL.
-  * Automation of GPS data analysis for sport science.
-  * Rugby Union: Investigating the Potential Gain from Different 22-Metre Kicking Strategies
-  * Predicting professional athletes’ career outcomes using a nearest neighbour model
+  * Analysis of centre bounce and centre field stoppage strategies in AFL. *(St. Kilda Football Club)*
+  * A machine learning approach to dynamic win probability in AFL. *(Carlton Football Club)*
+  * Automation of GPS data analysis for sport science. *(Melbourne Rebels)*
+  * Rugby Union: Investigating the Potential Gain from Different 22-Metre Kicking Strategies.
+  * Predicting professional athletes’ career outcomes using a nearest neighbour model.
 * **2019**
-  * Constructing a field equity model for Rugby League using location data and phases of play
+  * Constructing a field equity model for Rugby League using location data and phases of play. *(Champion Data)*
 * **2018**
-  * What is ‘Draftable’ in Australian Rules Football
-  * Optimising First Serve Selection in Men’s Professional Tennis Using Hawk-Eye Data
-  * Common Rider Type Combinations in World Tour Cycling Teams
-  * Team Cohesion and Player Performance in NBA Basketball
+  * What is ‘Draftable’ in Australian Rules Football. *(AFL Victoria)*
+  * Optimising First Serve Selection in Men’s Professional Tennis Using Hawk-Eye Data. *(Tennis Australia)*
+  * Common Rider Type Combinations in World Tour Cycling Teams. *(Dimension Data Cycling Team)*
+  * Team Cohesion and Player Performance in NBA Basketball. *(GainLine Analytics)*
   * Does ball movement efficiency impact the scoring output of successful sides in the Australian Football League?
-  * Modelling Team Sports with Bayesian Networks
+  * Modelling Team Sports with Bayesian Networks.
 
 ## Short courses
 
