@@ -3,18 +3,17 @@
 title: "Research"
 permalink: /research/
 author_profile: true
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 {% include base_path %}
 
-{% include toc %}
+<!-- {% include toc %} -->
 
-You can find all of my research papers on [my Google Scholar profile](https://scholar.google.com.au/citations?user=5N0aByUAAAAJ&hl=en).
+This is an abbreviated list of publications - you can find all of my research papers on [my Google Scholar profile](https://scholar.google.com.au/citations?user=5N0aByUAAAAJ&hl=en).
 
 In most cases I will reply to full text requests sent via [Researchgate](https://www.researchgate.net/profile/David_Carey8) (or other channels).
-{: .notice}
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 

@@ -15,24 +15,117 @@ toc_sticky: true
 
 This is a semi-structured collection of sports analytics, statistics, data science and programming resources that I've found useful and educational.
 
+# Sports analytics topics and problems
+
+### Working in sports analytics
+
+* Ben Baumer: https://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375985?needAccess=true
+
+### Forecasting player performance
+
+* https://en.wikipedia.org/wiki/PECOTA
+* https://fivethirtyeight.com/features/how-were-predicting-nba-player-career/
+* http://ceur-ws.org/Vol-1971/paper-02.pdf
+
+### Drafting
+
+* Draft efficiency - https://statsbylopez.com/2017/04/25/evaluating-the-evaluators/
+* 
+
+### Randomness and skill vs. luck in sport
+
+* https://arxiv.org/pdf/1701.05976.pdf
+* https://www.researchgate.net/publication/305388606_IDENTIFICATION_AND_MEASUREMENT_OF_LUCK_IN_SPORT
+* https://www.degruyter.com/view/journals/jqas/12/4/article-p151.xml
+
+### In-game win probability
+
+NFL:
+
+* https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c
+* https://statsbylopez.com/2017/03/08/all-win-probability-models-are-wrong-some-are-useful/
+* https://arxiv.org/pdf/1704.00197.pdf
+
+AFL:
+
+* https://thearcfooty.com/within-game-win-probabilities/
+* https://thearcfooty.com/2017/02/07/win-probability-estimates-what-are-they-good-for/
+* AFLaytics - Quantifying what makes a good game of footy
+    * https://www.aflalytics.com/blog/2018/7/quantifying-good-match-footy/
+
+
+
+***************
+
+# Statistics and data science
+
+### Harrell - Biostatistics
+
+http://hbiostat.org/doc/bbr.pdf
+
+
+### Statistical tests vs. Linear models
+
+https://lindeloev.github.io/tests-as-linear/#1_the_simplicity_underlying_common_tests
+
+### GAMs
+
+https://m-clark.github.io/documents.html
+
+
+### Interpretable machine learning
+
+https://christophm.github.io/interpretable-ml-book/
+
+
+
+
+***************
+
 # Research papers
 
-They're good papers Brent.
+Losely organised by topic.
 
 ### Clinical prediction models
 
-https://www.ncbi.nlm.nih.gov/pubmed/25560730
-https://www.ncbi.nlm.nih.gov/pubmed/22397945
-https://www.ncbi.nlm.nih.gov/pubmed/22397946
-https://www.ncbi.nlm.nih.gov/pubmed/29741602
-https://www.ncbi.nlm.nih.gov/pubmed/27362778
-https://www.ncbi.nlm.nih.gov/pubmed/23393430
-https://www.ncbi.nlm.nih.gov/pubmed/20010215
-https://www.ncbi.nlm.nih.gov/pubmed/24898551 
+* https://www.ncbi.nlm.nih.gov/pubmed/25560730
+* https://www.ncbi.nlm.nih.gov/pubmed/22397945
+* https://www.ncbi.nlm.nih.gov/pubmed/22397946
+* https://www.ncbi.nlm.nih.gov/pubmed/29741602
+* https://www.ncbi.nlm.nih.gov/pubmed/27362778
+* https://www.ncbi.nlm.nih.gov/pubmed/23393430
+* https://www.ncbi.nlm.nih.gov/pubmed/20010215
+* https://www.ncbi.nlm.nih.gov/pubmed/24898551 
+
+### Sample size calculations for clinical prediction models
+
+* R package: https://cran.r-project.org/web/packages/pmsampsize/index.html
+* Continuous variables: https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7993
+* Binary/Time to event: https://onlinelibrary.wiley.com/doi/full/10.1002/sim.7992
 
 
 
-# Conference presentations
+
+***************
+
+# Conferences and presentations
+
+
+### KDD-Sports Analytics
+
+http://large-scale-sports-analytics.org
+
+### Euro-KDD Sports analytics
+
+https://dtai.cs.kuleuven.be/events/MLSA19/links.php
+
+
+### CVPR-sports
+
+http://www.vap.aau.dk/cvsports/
+
+
+### Videos
 
 https://www.youtube.com/watch?v=WjFdD7PDGw0&t=9s&index=2&list=WL
 Imitation Learning Tutorial ICML 2018
@@ -65,6 +158,10 @@ Library of many past sports analytics presentations.
 <https://www.anziam.org.au/MathSport+Proceedings>
 MathSport Proceedings
 ANZIAM Mathsport has placed conference proceedings online to make the papers available to researchers everywhere.
+
+
+***************
+
 
 # Books
 
