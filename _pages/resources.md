@@ -59,6 +59,19 @@ AFL:
 
 # Statistics and data science
 
+
+### Causal inference
+
+
+**Jennifer Hill** - Causal inferences that capitalizes on machine learning and statistics: opportunities and challenges
+
+http://www.birs.ca/events/2018/5-day-workshops/18w5054/videos/watch/201801180952-Hill.html
+
+https://cds.nyu.edu/wp-content/uploads/2014/04/causal-and-data-science-and-BART.pdf
+
+
+
+
 ### Harrell - Biostatistics
 
 http://hbiostat.org/doc/bbr.pdf
