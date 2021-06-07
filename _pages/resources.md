@@ -20,7 +20,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 
 ### Other compilations
 
-* Devin Pleuler: Soccer Analytics Handbook https://github.com/devinpleuler/analytics-handbook
+* Devin Pleuler: Soccer Analytics Handbook <https://github.com/devinpleuler/analytics-handbook>
 
 
 ### Working in sports analytics
@@ -29,37 +29,44 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 
 ### Forecasting player performance
 
-* https://en.wikipedia.org/wiki/PECOTA
-* https://fivethirtyeight.com/features/how-were-predicting-nba-player-career/
-* http://ceur-ws.org/Vol-1971/paper-02.pdf
+* <https://en.wikipedia.org/wiki/PECOTA>
+* <https://fivethirtyeight.com/features/how-were-predicting-nba-player-career/>
+* <http://ceur-ws.org/Vol-1971/paper-02.pdf>
 
 ### Drafting
 
-* Draft efficiency - https://statsbylopez.com/2017/04/25/evaluating-the-evaluators/
-* [What Does It Mean to Draft Perfectly in the NHL?](https://hockeygraphsdotcom.files.wordpress.com/2016/10/2-nandakumar-vanhac-slides.pdf)
+* Draft efficiency - <https://statsbylopez.com/2017/04/25/evaluating-the-evaluators/>
+* What Does It Mean to Draft Perfectly in the NHL?
+  * <https://hockeygraphsdotcom.files.wordpress.com/2016/10/2-nandakumar-vanhac-slides.pdf> - slides
+  * <https://repository.upenn.edu/joseph_wharton_scholars/26/> - paper
 
 ### Randomness and skill vs. luck in sport
 
-* https://arxiv.org/pdf/1701.05976.pdf
-* https://www.researchgate.net/publication/305388606_IDENTIFICATION_AND_MEASUREMENT_OF_LUCK_IN_SPORT
-* https://www.degruyter.com/view/journals/jqas/12/4/article-p151.xml
+* <https://arxiv.org/pdf/1701.05976.pdf>
+* <https://www.researchgate.net/publication/305388606_IDENTIFICATION_AND_MEASUREMENT_OF_LUCK_IN_SPORT>
+* <https://www.degruyter.com/view/journals/jqas/12/4/article-p151.xml>
 
 ### In-game win probability
 
 NFL:
 
-* https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c
-* https://statsbylopez.com/2017/03/08/all-win-probability-models-are-wrong-some-are-useful/
-* https://arxiv.org/pdf/1704.00197.pdf
+* <https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c>
+* <https://statsbylopez.com/2017/03/08/all-win-probability-models-are-wrong-some-are-useful/>
+* <https://arxiv.org/pdf/1704.00197.pdf>
 
 AFL:
 
-* https://thearcfooty.com/within-game-win-probabilities/
-* https://thearcfooty.com/2017/02/07/win-probability-estimates-what-are-they-good-for/
-* AFLaytics - Quantifying what makes a good game of footy
-    * https://www.aflalytics.com/blog/2018/7/quantifying-good-match-footy/
+* <https://thearcfooty.com/within-game-win-probabilities/>
+* <https://thearcfooty.com/2017/02/07/win-probability-estimates-what-are-they-good-for/>
+* AFLaytics - Quantifying what makes a good game of footy - <https://www.aflalytics.com/blog/2018/7/quantifying-good-match-footy/>
 
 
+### Match prediction
+
+* Forecasting football matches by predicting match statistics - <https://content.iospress.com/download/journal-of-sports-analytics/jsa200462?id=journal-of-sports-analytics%2Fjsa200462>
+  * Soccer. Predict shots on/off target, corners, and goals for each team. Combine those forecasts to predict match result.
+* A Critical Comparison of Machine Learning Classifiers to Predict Match Outcomes in the NFL - <https://sciendo.com/de/article/10.2478/ijcss-2020-0009>
+* Multifactorial analysis of factors influencing elite Australian football match outcomes: a machine learning approach - <https://sciendo.com/article/10.2478/ijcss-2019-0020>
 
 ***************
 
@@ -69,35 +76,33 @@ AFL:
 ### Causal inference
 
 
-**Jennifer Hill** - Causal inferences that capitalizes on machine learning and statistics: opportunities and challenges
-
-http://www.birs.ca/events/2018/5-day-workshops/18w5054/videos/watch/201801180952-Hill.html
-
-https://cds.nyu.edu/wp-content/uploads/2014/04/causal-and-data-science-and-BART.pdf
-
-
+* **Jennifer Hill** - Causal inferences that capitalizes on machine learning and statistics: opportunities and challenges
+  * <http://www.birs.ca/events/2018/5-day-workshops/18w5054/videos/watch/201801180952-Hill.html>
+  * <https://cds.nyu.edu/wp-content/uploads/2014/04/causal-and-data-science-and-BART.pdf>
 
 
 ### Harrell - Biostatistics
 
-http://hbiostat.org/doc/bbr.pdf
+<http://hbiostat.org/doc/bbr.pdf>
 
 
 ### Statistical tests vs. Linear models
 
-https://lindeloev.github.io/tests-as-linear/#1_the_simplicity_underlying_common_tests
+<https://lindeloev.github.io/tests-as-linear/#1_the_simplicity_underlying_common_tests>
 
 ### GAMs
 
-https://m-clark.github.io/documents.html
+<https://m-clark.github.io/documents.html>
 
 
 ### Interpretable machine learning
 
-https://christophm.github.io/interpretable-ml-book/
+<https://christophm.github.io/interpretable-ml-book/>
 
 
+### Bayesian
 
+* Practical Bayes Part I - <https://m-clark.github.io/posts/2021-02-28-practical-bayes-part-i/>
 
 ***************
 
@@ -118,9 +123,9 @@ Losely organised by topic.
 
 ### Sample size calculations for clinical prediction models
 
-* R package: https://cran.r-project.org/web/packages/pmsampsize/index.html
-* Continuous variables: https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7993
-* Binary/Time to event: https://onlinelibrary.wiley.com/doi/full/10.1002/sim.7992
+* R package: <https://cran.r-project.org/web/packages/pmsampsize/index.html>
+* Continuous variables: <https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7993>
+* Binary/Time to event: <https://onlinelibrary.wiley.com/doi/full/10.1002/sim.7992>
 
 
 
@@ -132,37 +137,37 @@ Losely organised by topic.
 
 ### KDD-Sports Analytics
 
-http://large-scale-sports-analytics.org
+<http://large-scale-sports-analytics.org>
 
 ### Euro-KDD Sports analytics
 
-https://dtai.cs.kuleuven.be/events/MLSA19/links.php
+<https://dtai.cs.kuleuven.be/events/MLSA19/links.php>
 
 
 ### CVPR-sports
 
-http://www.vap.aau.dk/cvsports/
+<http://www.vap.aau.dk/cvsports/>
 
 
 ### Videos
 
-https://www.youtube.com/watch?v=WjFdD7PDGw0&t=9s&index=2&list=WL
+<https://www.youtube.com/watch?v=WjFdD7PDGw0&t=9s&index=2&list=WL>
 Imitation Learning Tutorial ICML 2018
 Tutorial session at the International Conference on Machine Learning (ICML 2018) - Yisong Yue (Caltech) & Hoang M. Le (Caltech). This is a high level talk about the machine learning techniques that people are using to train AI sports players like the ‘Ghosting’ video we watched in class.
 
-https://www.youtube.com/watch?v=VkhPT2cPGLA&index=4&list=PLRPywWPWMCkoTF6yQQsI5Mes95ystQbXU&t=2248s
+<https://www.youtube.com/watch?v=VkhPT2cPGLA&index=4&list=PLRPywWPWMCkoTF6yQQsI5Mes95ystQbXU&t=2248s>
 Lecture: Machine Learning in Sports by Sam Robertson
 Good overview lecture on machine learning applications in sports.
 
-https://www.youtube.com/watch?v=YBY9viGTdU0&index=2&list=PLRPywWPWMCkoTF6yQQsI5Mes95ystQbXU&t=388s
+<https://www.youtube.com/watch?v=YBY9viGTdU0&index=2&list=PLRPywWPWMCkoTF6yQQsI5Mes95ystQbXU&t=388s>
 2015 NESSIS - Talk by Sam Robertson (Western Bulldogs)
 "A method to assess the influence of individual player performance distribution on match outcome in team sports” presented by Sam Robertson at the 2015 New England Symposium on Statistics in Sports, held on Sept 26, 2015, at the Harvard University
 
-https://www.youtube.com/watch?v=O0rKs6P0rnY&index=5&list=PLRPywWPWMCkoTF6yQQsI5Mes95ystQbXU&t=62s
+<https://www.youtube.com/watch?v=O0rKs6P0rnY&index=5&list=PLRPywWPWMCkoTF6yQQsI5Mes95ystQbXU&t=62s>
 Statistical Models for Sport in R – Stephanie Kovalchik (Tennis Australia)
 A hand on tutorial and walkthrough on doing sports analytics in R.
 
-https://www.youtube.com/watch?v=djD-yL3vWNQ
+<https://www.youtube.com/watch?v=djD-yL3vWNQ>
 2017 NESSIS - Talk by Ronald Yurko
 "NFLWAR: A reproducible method for offensive player evaluation in football" presented by Ronald Yurko at the 2017 New England Symposium on Statistics in Sports, held on Sept 23, 2017, at the Harvard University Science Center.
 
