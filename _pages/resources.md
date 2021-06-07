@@ -17,9 +17,15 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 
 # Sports analytics topics and problems
 
+
+### Other compilations
+
+* Devin Pleuler: Soccer Analytics Handbook https://github.com/devinpleuler/analytics-handbook
+
+
 ### Working in sports analytics
 
-* Ben Baumer: https://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375985?needAccess=true
+* Ben Baumer: <https://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375985?needAccess=true>
 
 ### Forecasting player performance
 
@@ -30,7 +36,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 ### Drafting
 
 * Draft efficiency - https://statsbylopez.com/2017/04/25/evaluating-the-evaluators/
-* 
+* [What Does It Mean to Draft Perfectly in the NHL?](https://hockeygraphsdotcom.files.wordpress.com/2016/10/2-nandakumar-vanhac-slides.pdf)
 
 ### Randomness and skill vs. luck in sport
 
