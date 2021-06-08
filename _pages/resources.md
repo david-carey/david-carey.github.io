@@ -68,6 +68,27 @@ AFL:
 * A Critical Comparison of Machine Learning Classifiers to Predict Match Outcomes in the NFL - <https://sciendo.com/de/article/10.2478/ijcss-2020-0009>
 * Multifactorial analysis of factors influencing elite Australian football match outcomes: a machine learning approach - <https://sciendo.com/article/10.2478/ijcss-2019-0020>
 
+
+### Causal Inference in sport
+
+* Is Soccer Wrong About Long Shots?
+  * <https://fivethirtyeight.com/features/is-soccer-wrong-about-long-shots/> - blog
+  * <https://dtai.cs.kuleuven.be/sports/ssac21/MaaikeVanRoyLeavingGoalsRPpaper.pdf> - paper
+
+
+### Action valuation
+
+* Evaluating actions in football using machine learning - <https://soccermatics.medium.com/evaluating-actions-in-football-using-machine-learning-69517e376e0c>
+
+
+### Defensive valuation
+
+* What Happened Next? Using Deep Learning to Value Defensive Actions in Football Event-Data - <https://arxiv.org/pdf/2106.01786.pdf>
+* https://fivethirtyeight.com/features/a-better-way-to-evaluate-nba-defense/
+* Counterpoints: Advanced Defensive Metrics for NBA Basketball - <http://www.lukebornn.com/papers/franks_ssac_2015.pdf>
+* Using In-Game Shot Trajectories to Better Understand Defensive Impact in the NBA - <https://arxiv.org/pdf/1905.00822.pdf>
+
+
 ***************
 
 # Statistics and data science
@@ -75,7 +96,8 @@ AFL:
 
 ### Causal inference
 
-
+* **The Effect: An Introduction to Research Design and Causality**
+  * <https://theeffectbook.net/index.html>
 * **Jennifer Hill** - Causal inferences that capitalizes on machine learning and statistics: opportunities and challenges
   * <http://www.birs.ca/events/2018/5-day-workshops/18w5054/videos/watch/201801180952-Hill.html>
   * <https://cds.nyu.edu/wp-content/uploads/2014/04/causal-and-data-science-and-BART.pdf>
