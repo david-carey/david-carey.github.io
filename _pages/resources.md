@@ -18,10 +18,16 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 # Sports analytics topics and problems
 
 
-### Other compilations
+### Computer vision in sport
+
+* Computer vision in sport papers - <https://github.com/avijit9/awesome-computer-vision-in-sports>
+* 
+
+
+### Compilations
 
 * Devin Pleuler: Soccer Analytics Handbook <https://github.com/devinpleuler/analytics-handbook>
-
+* "A curated list of awesome machine learning applications in the sports domain" - <https://github.com/AtomScott/awesome-sports-analytics>
 
 ### Working in sports analytics
 
@@ -155,6 +161,10 @@ Losely organised by topic.
 ***************
 
 # Conferences and presentations
+
+### Sloan Sports Analytics Research Papers
+
+* <https://www.sloansportsconference.com/research-paper-competition#Research-Paper-Finalists>
 
 
 ### KDD-Sports Analytics
