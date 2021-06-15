@@ -28,6 +28,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 
 * Devin Pleuler: Soccer Analytics Handbook <https://github.com/devinpleuler/analytics-handbook>
 * "A curated list of awesome machine learning applications in the sports domain" - <https://github.com/AtomScott/awesome-sports-analytics>
+* SFU seminars: <http://www.sfu.ca/sportsanalytics/Seminars.html>
 
 ### Working in sports analytics
 
@@ -80,7 +81,13 @@ AFL:
 * Is Soccer Wrong About Long Shots?
   * <https://fivethirtyeight.com/features/is-soccer-wrong-about-long-shots/> - blog
   * <https://dtai.cs.kuleuven.be/sports/ssac21/MaaikeVanRoyLeavingGoalsRPpaper.pdf> - paper
-
+* Modeling Player and Team Performance in Basketball - <https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-040720-015536>
+  * We conclude with a discussion on the future of basketball analytics and, in particular, highlight the need for causal inference in sports.
+* Understanding causal inference: the future direction in sports injury prevention - <https://pubmed.ncbi.nlm.nih.gov/17513917/>
+* What Might a Theory of Causation Do for Sport? - <https://www.mdpi.com/2409-9287/4/2/34/pdf>
+* Derrick Yam, Michael J. Lopez, “What was lost? A causal estimate of fourth down behavior in the National Football League”, Journal of Sports Analytics, 2019.
+  * <https://content.iospress.com/articles/journal-of-sports-analytics/jsa190294>
+*  
 
 ### Action valuation
 
@@ -93,6 +100,7 @@ AFL:
 * https://fivethirtyeight.com/features/a-better-way-to-evaluate-nba-defense/
 * Counterpoints: Advanced Defensive Metrics for NBA Basketball - <http://www.lukebornn.com/papers/franks_ssac_2015.pdf>
 * Using In-Game Shot Trajectories to Better Understand Defensive Impact in the NBA - <https://arxiv.org/pdf/1905.00822.pdf>
+* <https://mladenjovanovic.github.io/bmbstats-book/causal-inference.html>
 
 
 ***************
