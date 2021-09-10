@@ -17,18 +17,38 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 
 # Sports analytics topics and problems
 
+### Compilations
+
+* Devin Pleuler: Soccer Analytics Handbook <https://github.com/devinpleuler/analytics-handbook>
+* "A curated list of awesome machine learning applications in the sports domain" - <https://github.com/AtomScott/awesome-sports-analytics>
+* SFU seminars: <http://www.sfu.ca/sportsanalytics/Seminars.html>
+* Soccer Analytics 2020 Review <https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html>
+
 
 ### Computer vision in sport
 
 * Computer vision in sport papers - <https://github.com/avijit9/awesome-computer-vision-in-sports>
 * 
 
+### Reinforcement learning/AI in sport
 
-### Compilations
+* How A Bot Made Team New Zealand Faster and Smarter <https://www.sailingworld.com/story/racing/how-a-bot-made-team-new-zealand-faster-and-smarter/>
+* Discovering Diverse Athletic Jumping Strategies <https://arpspoof.github.io/project/jump/jump.html>
+* Game Plan: What AI can do for Football, and What Football can do for AI - <https://arxiv.org/pdf/2011.09192.pdf>
+* Advancing sports analytics through AI research - <https://deepmind.com/blog/article/advancing-sports-analytics-through-ai>
 
-* Devin Pleuler: Soccer Analytics Handbook <https://github.com/devinpleuler/analytics-handbook>
-* "A curated list of awesome machine learning applications in the sports domain" - <https://github.com/AtomScott/awesome-sports-analytics>
-* SFU seminars: <http://www.sfu.ca/sportsanalytics/Seminars.html>
+
+### Action detection/recognition
+
+* Group Activity Detection from Trajectory and Video Data in Soccer <https://arxiv.org/pdf/2004.10299.pdf>
+* Actor-Transformers for Group Activity Recognition <https://arxiv.org/pdf/2003.12737.pdf>
+* 
+
+### Player/Team ID
+
+* Pose Guided Gated Fusion for Person Re-identification <https://openaccess.thecvf.com/content_WACV_2020/papers/Bhuiyan_Pose_Guided_Gated_Fusion_for_Person_Re-identification_WACV_2020_paper.pdf>
+* 
+
 
 ### Working in sports analytics
 
@@ -67,6 +87,14 @@ AFL:
 * <https://thearcfooty.com/2017/02/07/win-probability-estimates-what-are-they-good-for/>
 * AFLaytics - Quantifying what makes a good game of footy - <https://www.aflalytics.com/blog/2018/7/quantifying-good-match-footy/>
 
+Soccer:
+
+* A Bayesian Approach to In-Game Win Probability in Soccer <https://dl.acm.org/doi/10.1145/3447548.3467194> 
+  * blog: <https://dtai.cs.kuleuven.be/sports/blog/a-bayesian-approach-to-in-game-win-probability>
+
+Basketball:
+
+* A Data Snapshot Approach for Making Real-Time Predictions in Basketball
 
 ### Match prediction
 
@@ -87,7 +115,9 @@ AFL:
 * What Might a Theory of Causation Do for Sport? - <https://www.mdpi.com/2409-9287/4/2/34/pdf>
 * Derrick Yam, Michael J. Lopez, “What was lost? A causal estimate of fourth down behavior in the National Football League”, Journal of Sports Analytics, 2019.
   * <https://content.iospress.com/articles/journal-of-sports-analytics/jsa190294>
-*  
+* <https://mladenjovanovic.github.io/bmbstats-book/causal-inference.html>
+* Implementation of path analysis and piecewise structural equation modelling to improve the interpretation of key performance indicators in team sports: An example in professional rugby union
+  * <https://www.tandfonline.com/doi/full/10.1080/02640414.2021.1943169?s=03&journalCode=rjsp20#.YM-z2hohnOg.twitter>
 
 ### Action valuation
 
@@ -97,10 +127,45 @@ AFL:
 ### Defensive valuation
 
 * What Happened Next? Using Deep Learning to Value Defensive Actions in Football Event-Data - <https://arxiv.org/pdf/2106.01786.pdf>
-* https://fivethirtyeight.com/features/a-better-way-to-evaluate-nba-defense/
+* <https://fivethirtyeight.com/features/a-better-way-to-evaluate-nba-defense/>
 * Counterpoints: Advanced Defensive Metrics for NBA Basketball - <http://www.lukebornn.com/papers/franks_ssac_2015.pdf>
 * Using In-Game Shot Trajectories to Better Understand Defensive Impact in the NBA - <https://arxiv.org/pdf/1905.00822.pdf>
-* <https://mladenjovanovic.github.io/bmbstats-book/causal-inference.html>
+
+
+
+***************
+
+# Deep Learning
+
+* Troubleshooting Deep Neural Networks - <http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf>
+* An overview of gradient descent optimization algorithms - <https://ruder.io/optimizing-gradient-descent/>
+* 
+
+
+## Reinforcement learning
+
+* Deep Reinforcement Learning: Pong from Pixels - <http://karpathy.github.io/2016/05/31/rl/>
+
+
+## Graph neural networks
+
+* A Gentle Introduction to Graph Neural Networks - <https://distill.pub/2021/gnn-intro/>
+* Understanding Convolutions on Graphs - <https://distill.pub/2021/understanding-gnns/>
+
+
+
+## Computer vision
+
+### Image feature matching/ Homography
+
+* DFM: A Performance Baseline for Deep Feature Matching <https://github.com/ufukefe/DFM>
+* Perceptual Loss for Robust Unsupervised Homography Estimation <https://arxiv.org/pdf/2104.10011.pdf>
+* LoFTR: Detector-Free Local Feature Matching with Transformers <https://zju3dv.github.io/loftr/>
+* 
+
+### Sport camera calibration
+
+* Optimizing Through Learned Errors for Accurate Sports Field Registration <https://openaccess.thecvf.com/content_WACV_2020/papers/Jiang_Optimizing_Through_Learned_Errors_for_Accurate_Sports_Field_Registration_WACV_2020_paper.pdf>
 
 
 ***************
@@ -115,6 +180,8 @@ AFL:
 * **Jennifer Hill** - Causal inferences that capitalizes on machine learning and statistics: opportunities and challenges
   * <http://www.birs.ca/events/2018/5-day-workshops/18w5054/videos/watch/201801180952-Hill.html>
   * <https://cds.nyu.edu/wp-content/uploads/2014/04/causal-and-data-science-and-BART.pdf>
+
+* Causal design patterns for data analysts - <https://emilyriederer.netlify.app/post/causal-design-patterns/?s=03 >
 
 
 ### Harrell - Biostatistics
@@ -140,13 +207,17 @@ AFL:
 
 * Practical Bayes Part I - <https://m-clark.github.io/posts/2021-02-28-practical-bayes-part-i/>
 
+
+### Mixed effect models
+
+* Plotting partial pooling in mixed-effects models <https://www.tjmahr.com/plotting-partial-pooling-in-mixed-effects-models/?s=03 >
+
+
 ***************
 
-# Research papers
+# Clinical prediction models
 
-Losely organised by topic.
-
-### Clinical prediction models
+### Developing and reporting models
 
 * https://www.ncbi.nlm.nih.gov/pubmed/25560730
 * https://www.ncbi.nlm.nih.gov/pubmed/22397945
