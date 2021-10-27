@@ -124,7 +124,6 @@ Basketball:
 
 * Evaluating actions in football using machine learning - <https://soccermatics.medium.com/evaluating-actions-in-football-using-machine-learning-69517e376e0c>
 
-
 ### Defensive valuation
 
 * What Happened Next? Using Deep Learning to Value Defensive Actions in Football Event-Data - <https://arxiv.org/pdf/2106.01786.pdf>
