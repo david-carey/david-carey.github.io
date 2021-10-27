@@ -59,6 +59,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * <https://en.wikipedia.org/wiki/PECOTA>
 * <https://fivethirtyeight.com/features/how-were-predicting-nba-player-career/>
 * <http://ceur-ws.org/Vol-1971/paper-02.pdf>
+* Can Elite Australian Football Player’s Game Performance Be Predicted? - <https://sciendo.com/de/article/10.2478/ijcss-2021-0004>
 
 ### Drafting
 
@@ -166,6 +167,17 @@ Basketball:
 ### Sport camera calibration
 
 * Optimizing Through Learned Errors for Accurate Sports Field Registration <https://openaccess.thecvf.com/content_WACV_2020/papers/Jiang_Optimizing_Through_Learned_Errors_for_Accurate_Sports_Field_Registration_WACV_2020_paper.pdf>
+
+
+***************
+
+# Tracking and trajectories
+
+
+### Curve fitting with outliers
+
+* Robust Curve Fitting Example - <https://minisam.readthedocs.io/robust_curve_fitting.html>
+* RANAC curve fitting - <https://stackoverflow.com/questions/55682156/iteratively-fitting-polynomial-curve>
 
 
 ***************
