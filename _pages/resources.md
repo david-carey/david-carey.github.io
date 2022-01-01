@@ -36,6 +36,9 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Discovering Diverse Athletic Jumping Strategies <https://arpspoof.github.io/project/jump/jump.html>
 * Game Plan: What AI can do for Football, and What Football can do for AI - <https://arxiv.org/pdf/2011.09192.pdf>
 * Advancing sports analytics through AI research - <https://deepmind.com/blog/article/advancing-sports-analytics-through-ai>
+* A Reinforcement Learning Based Approach to Play Calling in Football - <https://drive.google.com/file/d/1j0kBqbRUL3HTdEDWYVLVYc6B21MT56G_/view>
+* TOWARDS OPTIMIZED ACTIONS IN CRITICAL SITUATIONS OF SOCCER GAMES WITH DEEP REINFORCEMENT LEARNING - <https://arxiv.org/pdf/2109.06625v1.pdf>
+* Markov Cricket: Using Forward and Inverse Reinforcement Learning to Model, Predict And Optimize Batting Performance in One-Day International Cricket - <https://arxiv.org/ftp/arxiv/papers/2103/2103.04349.pdf>
 
 
 ### Action detection/recognition
@@ -47,19 +50,33 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 ### Player/Team ID
 
 * Pose Guided Gated Fusion for Person Re-identification <https://openaccess.thecvf.com/content_WACV_2020/papers/Bhuiyan_Pose_Guided_Gated_Fusion_for_Person_Re-identification_WACV_2020_paper.pdf>
-* 
+* Contrastive Learning for Sports Video: Unsupervised Player Classification - <https://arxiv.org/pdf/2104.10068v2.pdf>
 
 
 ### Working in sports analytics
 
 * Ben Baumer: <https://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375985?needAccess=true>
 
+
+### Playing 'style' and player 'similarity' (teams and players)
+
+* Player Vectors: Characterizing Soccer Players’ Playing Style from Match Event Streams - <https://ecmlpkdd2019.org/downloads/paper/701.pdf>
+* A pilot study to measure game style within Australian football - <https://www.tandfonline.com/doi/pdf/10.1080/24748668.2017.1372163>
+* MEASURING THE SIMILARITY BETWEEN PLAYERS IN AUSTRALIAN FOOTBALL - <https://www.researchgate.net/profile/Karl-Jackson-6/publication/305388519_MEASURING_THE_SIMILARITY_BETWEEN_PLAYERS_IN_AUSTRALIAN_FOOTBALL/links/578c16f308ae59aa667c4c91/MEASURING-THE-SIMILARITY-BETWEEN-PLAYERS-IN-AUSTRALIAN-FOOTBALL.pdf>
+* 6MapNet: Representing Soccer Players from Tracking Data by a Triplet Network - <https://arxiv.org/pdf/2109.04720v1.pdf>
+* Archetypoid analysis for sports analytics - <https://dl.acm.org/doi/abs/10.1007/s10618-017-0514-1>
+* A scalable framework for NBA player and team comparisons using player tracking data - <https://content.iospress.com/articles/journal-of-sports-analytics/jsa0022>
+
+* Coach2vec: autoencoding the playing style of soccer coaches - <https://arxiv.org/ftp/arxiv/papers/2106/2106.15444.pdf>
+
 ### Forecasting player performance
 
 * <https://en.wikipedia.org/wiki/PECOTA>
 * <https://fivethirtyeight.com/features/how-were-predicting-nba-player-career/>
-* <http://ceur-ws.org/Vol-1971/paper-02.pdf>
+* Predicting the Potential of Professional Soccer Players - <http://ceur-ws.org/Vol-1971/paper-02.pdf>
 * Can Elite Australian Football Player’s Game Performance Be Predicted? - <https://sciendo.com/de/article/10.2478/ijcss-2021-0004>
+* What does not get observed can be used to make age curves stronger: estimating player age curves using regression and imputation - <https://arxiv.org/pdf/2110.14017.pdf>
+* Forecasting basketball players' performance using sparse functional data - <https://onlinelibrary.wiley.com/doi/pdf/10.1002/sam.11436?casa_token=OwxCz_66t3MAAAAA:yqa3qwEjzcj_O0H6MphXXyydwyvZr8S3KmJQqGqJrVBT2VaG35Un_8jvdwHZn-SewKpdC_cJhqiMuQ>
 
 ### Drafting
 
@@ -80,7 +97,8 @@ NFL:
 
 * <https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c>
 * <https://statsbylopez.com/2017/03/08/all-win-probability-models-are-wrong-some-are-useful/>
-* <https://arxiv.org/pdf/1704.00197.pdf>
+* Going deep: models for continuous-time within-play valuation of game outcomes in American football with tracking data - <https://www.degruyter.com/document/doi/10.1515/jqas-2019-0056/html>
+* iWinRNFL: A Simple, Interpretable & Well-Calibrated In-Game Win Probability Model for NFL - <https://arxiv.org/pdf/1704.00197.pdf>
 
 AFL:
 
@@ -103,6 +121,7 @@ Basketball:
   * Soccer. Predict shots on/off target, corners, and goals for each team. Combine those forecasts to predict match result.
 * A Critical Comparison of Machine Learning Classifiers to Predict Match Outcomes in the NFL - <https://sciendo.com/de/article/10.2478/ijcss-2020-0009>
 * Multifactorial analysis of factors influencing elite Australian football match outcomes: a machine learning approach - <https://sciendo.com/article/10.2478/ijcss-2019-0020>
+* A Two-Stage Bayesian Model for Predicting Winners in Major League Baseball - <http://citeseerx.ist.psu.edu/viewdoc/download?rep=rep1&type=pdf&doi=10.1.1.124.4257>
 
 
 ### Causal Inference in sport
@@ -123,6 +142,10 @@ Basketball:
 ### Action valuation
 
 * Evaluating actions in football using machine learning - <https://soccermatics.medium.com/evaluating-actions-in-football-using-machine-learning-69517e376e0c>
+* Valuing Player Actions in Counter-Strike: Global Offensive - <https://arxiv.org/pdf/2011.01324v2.pdf>
+
+
+
 
 ### Defensive valuation
 
@@ -130,6 +153,67 @@ Basketball:
 * <https://fivethirtyeight.com/features/a-better-way-to-evaluate-nba-defense/>
 * Counterpoints: Advanced Defensive Metrics for NBA Basketball - <http://www.lukebornn.com/papers/franks_ssac_2015.pdf>
 * Using In-Game Shot Trajectories to Better Understand Defensive Impact in the NBA - <https://arxiv.org/pdf/1905.00822.pdf>
+
+
+### Player tracking data
+
+* Factorized Point Process Intensities: A Spatial Analysis of Professional Basketball - <https://arxiv.org/pdf/1401.0942.pdf>
+* Characterizing the spatial structure of defensive skill in professional basketball - <https://arxiv.org/pdf/1405.0231.pdf>
+* A Multiresolution Stochastic Process Model for Predicting Basketball Possession Outcomes - <https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1141685>
+
+* Route identification in the National Football League - <https://www.degruyter.com/document/doi/10.1515/jqas-2019-0047/html>
+  * Conference talk: <https://www.youtube.com/watch?v=rnAzURpLLbs&ab_channel=MarkGlickman>
+* Possession Sketches: Mapping NBA Strategies - <http://www.lukebornn.com/papers/miller_ssac_2017.pdf>
+
+* A method for evaluating player decision-making in the Australian Football League - <https://www.researchgate.net/profile/Bart-Spencer/publication/335101736_A_method_for_evaluating_player_decision-making_in_the_Australian_Football_League/links/5d4f512792851cd046b26add/A-method-for-evaluating-player-decision-making-in-the-Australian-Football-League.pdf>
+
+
+#### Pitch control
+
+* Spearman - Quantifying Pitch Control: <https://www.researchgate.net/publication/334849056_Quantifying_Pitch_Control>
+
+#### Pass models
+
+* Frame by frame completion probability of an NFL pass - <https://arxiv.org/pdf/2109.08051v1.pdf>
+* Unsupervised methods for identifying pass coverage among defensive backs with NFL player tracking data - <https://www.degruyter.com/document/doi/10.1515/jqas-2020-0017/html>
+
+
+### Trajectory prediction ('ghosting')
+
+* Basketball GAN: Sportingly Acceptable Trajectory Prediction - <https://drive.google.com/file/d/1eZV5mIutg5aoiKqD3jSLUwerueoNFfzH/view>
+* Where will they go? predicting fine-grained adversarial multi-agent motion using conditional variational autoencoders.
+* Bhostgusters: Realtime interactive play sketching with synthesized nba defenses.
+* Generating multi-agent trajectories using programmatic weak supervision.
+* A Graph Attention Based Approach for Trajectory Prediction in Multi-agent Sports Games - <https://arxiv.org/pdf/2012.10531v1.pdf>
+* baller2vec++: A Look-Ahead Multi-Entity Transformer For Modeling Coordinated Agents - <https://arxiv.org/pdf/2104.11980v2.pdf>
+
+
+### Training plan generation and optimisation
+
+* Carey: Optimizing preseason training loads in Australian Football - <https://journals.humankinetics.com/view/journals/ijspp/13/2/article-p194.xml>
+* Connor: Adaptive Athlete Training Plan Generation: An intelligent control systems approach - <https://www.sciencedirect.com/science/article/pii/S1440244021004679>
+* Connor: Optimising Team Sport Training Plans With Grammatical Evolution - <https://ieeexplore.ieee.org/document/8790369>
+
+
+### Event stream analysis
+
+* Supervised sequential pattern mining of event sequences in sport to identify important patterns of play: an application to rugby union - <https://arxiv.org/pdf/2010.15377v4.pdf>
+
+
+
+
+***************
+
+# Datasets
+
+
+* DeepSport Dataset: 300+ high-resolution professional basketball images with multiple annotations - <https://www.kaggle.com/gabrielvanzandycke/deepsport-dataset>
+* Collection and Validation of Psychophysiological Data from Professional and Amateur Players: a Multimodal eSports Dataset - <https://arxiv.org/pdf/2011.00958v2.pdf>
+* Comprehensive Dataset of Broadcast Soccer Videos - <https://ieeexplore.ieee.org/document/8397046>
+* MultiSports: A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions - <https://arxiv.org/pdf/2105.07404v2.pdf>
+
+
+
 
 ***************
 
@@ -154,6 +238,10 @@ Basketball:
 
 ## Computer vision
 
+### Vision transformers
+
+* AN IMAGE IS WORTH 16X16 WORDS (ViT) - <https://openreview.net/pdf?id=YicbFdNTTy>
+
 ### Image feature matching/ Homography
 
 * DFM: A Performance Baseline for Deep Feature Matching <https://github.com/ufukefe/DFM>
@@ -164,17 +252,6 @@ Basketball:
 ### Sport camera calibration
 
 * Optimizing Through Learned Errors for Accurate Sports Field Registration <https://openaccess.thecvf.com/content_WACV_2020/papers/Jiang_Optimizing_Through_Learned_Errors_for_Accurate_Sports_Field_Registration_WACV_2020_paper.pdf>
-
-
-***************
-
-# Tracking and trajectories
-
-
-### Curve fitting with outliers
-
-* Robust Curve Fitting Example - <https://minisam.readthedocs.io/robust_curve_fitting.html>
-* RANAC curve fitting - <https://stackoverflow.com/questions/55682156/iteratively-fitting-polynomial-curve>
 
 
 ***************
@@ -220,6 +297,11 @@ Basketball:
 ### Mixed effect models
 
 * Plotting partial pooling in mixed-effects models <https://www.tjmahr.com/plotting-partial-pooling-in-mixed-effects-models/?s=03 >
+
+
+### Gaussian processes
+
+* Gaussian Processes for Machine Learning - <http://www.gaussianprocess.org/gpml/chapters/RW.pdf>
 
 
 ***************
