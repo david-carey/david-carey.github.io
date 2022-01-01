@@ -23,6 +23,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * "A curated list of awesome machine learning applications in the sports domain" - <https://github.com/AtomScott/awesome-sports-analytics>
 * SFU seminars: <http://www.sfu.ca/sportsanalytics/Seminars.html>
 * Soccer Analytics 2020 Review <https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html>
+* Soccer Analytics 2021 Review <https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html>
 
 
 ### Computer vision in sport
@@ -186,6 +187,7 @@ Basketball:
 * Generating multi-agent trajectories using programmatic weak supervision.
 * A Graph Attention Based Approach for Trajectory Prediction in Multi-agent Sports Games - <https://arxiv.org/pdf/2012.10531v1.pdf>
 * baller2vec++: A Look-Ahead Multi-Entity Transformer For Modeling Coordinated Agents - <https://arxiv.org/pdf/2104.11980v2.pdf>
+* Simulating Defensive Trajectories in American Football for Predicting League Average Defensive Movements - <https://www.frontiersin.org/articles/10.3389/fspor.2021.669845/full>
 
 
 ### Training plan generation and optimisation
@@ -199,6 +201,11 @@ Basketball:
 
 * Supervised sequential pattern mining of event sequences in sport to identify important patterns of play: an application to rugby union - <https://arxiv.org/pdf/2010.15377v4.pdf>
 
+
+
+### Subjective ratings
+
+* Capturing the "expert’s eye": Towards a better understanding and implementation of subjective performance evaluations in team sports - <https://sportrxiv.org/index.php/server/preprint/view/6/20>
 
 
 
