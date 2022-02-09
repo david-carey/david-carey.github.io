@@ -79,6 +79,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Can Elite Australian Football Player’s Game Performance Be Predicted? - <https://sciendo.com/de/article/10.2478/ijcss-2021-0004>
 * What does not get observed can be used to make age curves stronger: estimating player age curves using regression and imputation - <https://arxiv.org/pdf/2110.14017.pdf>
 * Forecasting basketball players' performance using sparse functional data - <https://onlinelibrary.wiley.com/doi/pdf/10.1002/sam.11436?casa_token=OwxCz_66t3MAAAAA:yqa3qwEjzcj_O0H6MphXXyydwyvZr8S3KmJQqGqJrVBT2VaG35Un_8jvdwHZn-SewKpdC_cJhqiMuQ>
+* Bayesian Hierarchical Modeling Applied to Fantasy Football Projections for Increased Insight and Confidence - <https://srome.github.io/Bayesian-Hierarchical-Modeling-Applied-to-Fantasy-Football-Projections-for-Increased-Insight-and-Confidence/>
 
 ### Drafting
 
@@ -187,6 +188,8 @@ Basketball:
 
 * A method for evaluating player decision-making in the Australian Football League - <https://www.researchgate.net/profile/Bart-Spencer/publication/335101736_A_method_for_evaluating_player_decision-making_in_the_Australian_Football_League/links/5d4f512792851cd046b26add/A-method-for-evaluating-player-decision-making-in-the-Australian-Football-League.pdf>
 
+* NFL Big Data Bowl - How many yards will an NFL player gain after receiving a handoff? - 1st place solution The Zoo - <https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/119400>
+
 
 #### Pitch control
 
@@ -242,7 +245,7 @@ Basketball:
 
 * DeepSport Dataset: 300+ high-resolution professional basketball images with multiple annotations - <https://www.kaggle.com/gabrielvanzandycke/deepsport-dataset>
 * Collection and Validation of Psychophysiological Data from Professional and Amateur Players: a Multimodal eSports Dataset - <https://arxiv.org/pdf/2011.00958v2.pdf>
-* Comprehensive Dataset of Broadcast Soccer Videos - <https://ieeexplore.ieee.org/document/8397046>
+* Comprehensive Dataset of Broadcast Soccer Videos - <https://ieeexplore.ieee.org/document/8397046> & <http://media.hust.edu.cn/dataset.htm>
 * MultiSports: A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions - <https://arxiv.org/pdf/2105.07404v2.pdf>
 
 - Tennis - https://github.com/skoval/deuce
@@ -276,6 +279,7 @@ Basketball:
 
 * A Gentle Introduction to Graph Neural Networks - <https://distill.pub/2021/gnn-intro/>
 * Understanding Convolutions on Graphs - <https://distill.pub/2021/understanding-gnns/>
+* An attempt at demystifying graph deep learning - <https://ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/>
 
 
 
@@ -297,6 +301,24 @@ Basketball:
 ### Sport camera calibration
 
 * Optimizing Through Learned Errors for Accurate Sports Field Registration <https://openaccess.thecvf.com/content_WACV_2020/papers/Jiang_Optimizing_Through_Learned_Errors_for_Accurate_Sports_Field_Registration_WACV_2020_paper.pdf>
+* Fast Camera Calibration for the Analysis of Sport Sequences - <https://www.dirk-farin.net/publications/data/Farin2005d_slides.pdf>
+
+
+
+
+***************
+
+# Sensors and Signal processing
+
+### GPS
+
+* GPS - <https://ciechanow.ski/gps/>
+
+### Kalman filter
+
+* How a Kalman filter works, in pictures - <https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/>
+* 
+
 
 
 ***************
@@ -324,7 +346,7 @@ Basketball:
 
 ### Statistical tests vs. Linear models
 
-<https://lindeloev.github.io/tests-as-linear/#1_the_simplicity_underlying_common_tests>
+Common statistical tests are linear models (or: how to teach stats) - <https://lindeloev.github.io/tests-as-linear/#1_the_simplicity_underlying_common_tests>
 
 ### GAMs
 
