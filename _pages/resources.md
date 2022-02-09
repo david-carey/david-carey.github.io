@@ -67,6 +67,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * 6MapNet: Representing Soccer Players from Tracking Data by a Triplet Network - <https://arxiv.org/pdf/2109.04720v1.pdf>
 * Archetypoid analysis for sports analytics - <https://dl.acm.org/doi/abs/10.1007/s10618-017-0514-1>
 * A scalable framework for NBA player and team comparisons using player tracking data - <https://content.iospress.com/articles/journal-of-sports-analytics/jsa0022>
+* Tired: PCA + kmeans, Wired: UMAP + GMM - <https://tonyelhabr.rbind.io/posts/dimensionality-reduction-and-clustering/>
 
 * Coach2vec: autoencoding the playing style of soccer coaches - <https://arxiv.org/ftp/arxiv/papers/2106/2106.15444.pdf>
 
@@ -124,6 +125,14 @@ Basketball:
 * Multifactorial analysis of factors influencing elite Australian football match outcomes: a machine learning approach - <https://sciendo.com/article/10.2478/ijcss-2019-0020>
 * A Two-Stage Bayesian Model for Predicting Winners in Major League Baseball - <http://citeseerx.ist.psu.edu/viewdoc/download?rep=rep1&type=pdf&doi=10.1.1.124.4257>
 
+#### Tipping models
+
+* AFL Lab - SOLDIER Model: https://theafllab.wordpress.com/2019/03/02/the-soldier-model/
+* AFL Gains: https://ricporteous.netlify.com/post/machine-learning-in-afl/#creating-a-machine-learning-model-to-predict-afl-matches
+* AFLaytics - A Brownian Motion Inspired ELO Model: https://www.aflalytics.com/blog/2019/1/brownian-motion-inspired-elo-model/
+* Build an AFL Elo with FitzRoy: https://analysisofafl.netlify.com/models/2018-07-23-build-a-quick-elo/
+* AFL teams Elo ratings and footy-tipping: http://freerangestats.info/blog/2019/03/23/afl-elo
+
 
 ### Causal Inference in sport
 
@@ -140,15 +149,25 @@ Basketball:
 * Implementation of path analysis and piecewise structural equation modelling to improve the interpretation of key performance indicators in team sports: An example in professional rugby union
   * <https://www.tandfonline.com/doi/full/10.1080/02640414.2021.1943169?s=03&journalCode=rjsp20#.YM-z2hohnOg.twitter>
 
-### Action valuation
 
+### Player evaluation/rating
+
+
+#### Action valuation
+
+* Valuing actions intro: The principles of valuing actions - <https://www.youtube.com/watch?v=xyyZLs_N1F0&ab_channel=FriendsofTracking>
 * Evaluating actions in football using machine learning - <https://soccermatics.medium.com/evaluating-actions-in-football-using-machine-learning-69517e376e0c>
 * Valuing Player Actions in Counter-Strike: Global Offensive - <https://arxiv.org/pdf/2011.01324v2.pdf>
 
 
 
+#### Regression to the mean
 
-### Defensive valuation
+* REGRESSION TO THE MEAN: AN EXAMPLE USING GOALKICKING - <https://analysisofafl.netlify.app/models/2018-06-20-regression-to-the-mean/>
+
+
+
+#### Defensive valuation
 
 * What Happened Next? Using Deep Learning to Value Defensive Actions in Football Event-Data - <https://arxiv.org/pdf/2106.01786.pdf>
 * <https://fivethirtyeight.com/features/a-better-way-to-evaluate-nba-defense/>
@@ -177,6 +196,9 @@ Basketball:
 
 * Frame by frame completion probability of an NFL pass - <https://arxiv.org/pdf/2109.08051v1.pdf>
 * Unsupervised methods for identifying pass coverage among defensive backs with NFL player tracking data - <https://www.degruyter.com/document/doi/10.1515/jqas-2020-0017/html>
+* Expected passes: Determining the difficulty of a pass in football (soccer) using spatio-temporal data - <https://link.springer.com/content/pdf/10.1007/s10618-021-00810-3.pdf>
+
+
 
 
 ### Trajectory prediction ('ghosting')
@@ -208,6 +230,10 @@ Basketball:
 * Capturing the "expert’s eye": Towards a better understanding and implementation of subjective performance evaluations in team sports - <https://sportrxiv.org/index.php/server/preprint/view/6/20>
 
 
+### Coaching/scouting
+
+* Full Jose Mourinho Scouting Report on FC Barcelona from 2005/2006 - <https://twitter.com/_DaliborPlavsic/status/1106722625470889984?s=19>
+
 
 ***************
 
@@ -219,7 +245,17 @@ Basketball:
 * Comprehensive Dataset of Broadcast Soccer Videos - <https://ieeexplore.ieee.org/document/8397046>
 * MultiSports: A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions - <https://arxiv.org/pdf/2105.07404v2.pdf>
 
-
+- Tennis - https://github.com/skoval/deuce
+- NRL rugby - https://github.com/fredgj/rugby_scraper
+- Rugby - https://github.com/walsh06/python_rugby
+- ncaahoopR - https://github.com/lbenz730/ncaahoopR
+- statsbomb - soccer - https://github.com/statsbomb/open-data
+- NFL - big data bowl - https://github.com/nfl-football-ops/Big-Data-Bowl
+- Harvard sports analytics - http://harvardsportsanalysis.org/
+- NBA player tracking - https://github.com/PatrickChodowski/NBAr
+- Multi-sport - https://github.com/meysubb/Sports_Data_Reference
+- https://github.com/meysubb/Sports_Data_Reference/blob/master/R/Data.md
+- Multi-sport - https://github.com/octonion?tab=repositories
 
 
 ***************
@@ -228,7 +264,7 @@ Basketball:
 
 * Troubleshooting Deep Neural Networks - <http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf>
 * An overview of gradient descent optimization algorithms - <https://ruder.io/optimizing-gradient-descent/>
-* 
+
 
 
 ## Reinforcement learning
@@ -254,7 +290,9 @@ Basketball:
 * DFM: A Performance Baseline for Deep Feature Matching <https://github.com/ufukefe/DFM>
 * Perceptual Loss for Robust Unsupervised Homography Estimation <https://arxiv.org/pdf/2104.10011.pdf>
 * LoFTR: Detector-Free Local Feature Matching with Transformers <https://zju3dv.github.io/loftr/>
-* 
+  
+* Reprojecting the Perseverance landing footage onto satellite imagery - <https://matthewearl.github.io/2021/03/06/mars2020-reproject/>
+* Smooth Globally Warp Locally: Video Stabilization using Homography Fields - <https://cs.adelaide.edu.au/~tjchin/lib/exe/fetch.php?media=papers:fields_preprint.pdf>
 
 ### Sport camera calibration
 
@@ -264,6 +302,12 @@ Basketball:
 ***************
 
 # Statistics and data science
+
+### Courses
+
+* Statistical Rethinking (2022 Edition) - <https://github.com/rmcelreath/stat_rethinking_2022>
+* Harrell - Biostatistics - <http://hbiostat.org/doc/bbr.pdf>
+* Course material for Stat 451: Introduction to Machine Learning and Statistical Pattern Classification - <https://github.com/rasbt/stat451-machine-learning-fs21>
 
 
 ### Causal inference
@@ -277,10 +321,6 @@ Basketball:
 * Causal design patterns for data analysts - <https://emilyriederer.netlify.app/post/causal-design-patterns/?s=03 >
 
 
-### Harrell - Biostatistics
-
-<http://hbiostat.org/doc/bbr.pdf>
-
 
 ### Statistical tests vs. Linear models
 
@@ -288,7 +328,8 @@ Basketball:
 
 ### GAMs
 
-<https://m-clark.github.io/documents.html>
+* <https://m-clark.github.io/documents.html>
+* <https://www.fromthebottomoftheheap.net/2018/04/21/fitting-gams-with-brms/>
 
 
 ### Interpretable machine learning
@@ -300,10 +341,19 @@ Basketball:
 
 * Practical Bayes Part I - <https://m-clark.github.io/posts/2021-02-28-practical-bayes-part-i/>
 
+* A visual introduction to Gaussian Belief Propagation - <https://gaussianbp.github.io/>
+
 
 ### Mixed effect models
 
 * Plotting partial pooling in mixed-effects models <https://www.tjmahr.com/plotting-partial-pooling-in-mixed-effects-models/?s=03 >
+* <https://web.stanford.edu/class/psych252/section/Mixed_models_tutorial.html>
+* <https://ourcodingclub.github.io/2017/03/15/mixed-models.html>
+
+### Stein's Pardox
+
+* Baseball paper - Efron and Morris - <http://statweb.stanford.edu/~ckirby/brad/other/Article1977.pdf>
+* <https://solomonkurz.netlify.com/post/stein-s-paradox-and-what-partial-pooling-can-do-for-you/>
 
 
 ### Gaussian processes
@@ -416,3 +466,15 @@ ANZIAM Mathsport has placed conference proceedings online to make the papers ava
 <https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf>
 
 >The twenty-first century has seen a breathtaking expansion of statistical methodology, both in scope and in influence. 'Big data', 'data science', and 'machine learning' have become familiar terms in the news, as statistical methods are brought to bear upon the enormous data sets of modern science and commerce. How did we get here? And where are we going? This book takes us on an exhilarating journey through the revolution in data analysis following the introduction of electronic computation in the 1950s. Beginning with classical inferential theories - Bayesian, frequentist, Fisherian - individual chapters take up a series of influential topics: survival analysis, logistic regression, empirical Bayes, the jackknife and bootstrap, random forests, neural networks, Markov chain Monte Carlo, inference after model selection, and dozens more. The distinctly modern approach integrates methodology and algorithms with statistical inference. The book ends with speculation on the future direction of statistics and data science.
+
+
+***************
+
+
+# Programming
+
+### R
+
+* R Programming - <https://www.coursera.org/learn/r-programming>
+* Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - <https://moderndive.com/>
+* <https://github.com/uc-r/Intro-R>
