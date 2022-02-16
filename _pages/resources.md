@@ -40,6 +40,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * A Reinforcement Learning Based Approach to Play Calling in Football - <https://drive.google.com/file/d/1j0kBqbRUL3HTdEDWYVLVYc6B21MT56G_/view>
 * TOWARDS OPTIMIZED ACTIONS IN CRITICAL SITUATIONS OF SOCCER GAMES WITH DEEP REINFORCEMENT LEARNING - <https://arxiv.org/pdf/2109.06625v1.pdf>
 * Markov Cricket: Using Forward and Inverse Reinforcement Learning to Model, Predict And Optimize Batting Performance in One-Day International Cricket - <https://arxiv.org/ftp/arxiv/papers/2103/2103.04349.pdf>
+* Learning to play Table Tennis using Multi-agent Reinforcement Learning - <https://sowmyavoona96.github.io/csci527/TP%20(2).pdf>
 
 
 ### Action detection/recognition
@@ -161,7 +162,6 @@ Basketball:
 * Valuing Player Actions in Counter-Strike: Global Offensive - <https://arxiv.org/pdf/2011.01324v2.pdf>
 
 
-
 #### Regression to the mean
 
 * REGRESSION TO THE MEAN: AN EXAMPLE USING GOALKICKING - <https://analysisofafl.netlify.app/models/2018-06-20-regression-to-the-mean/>
@@ -191,6 +191,11 @@ Basketball:
 * NFL Big Data Bowl - How many yards will an NFL player gain after receiving a handoff? - 1st place solution The Zoo - <https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/119400>
 
 
+#### NNMF
+
+* Understanding Trends in the NBA: How NNMF Works - <https://squared2020.com/2018/10/04/understanding-trends-in-the-nba-how-nnmf-works/amp/?__twitter_impression=true>
+* Finding Patterns in Statsbomb Data: Non-Negative Matrix Factorization Applications - <https://znstrider.github.io/2018-11-14-SBData-Non-Negative-Matrix-Factorization/>
+
 #### Pitch control
 
 * Spearman - Quantifying Pitch Control: <https://www.researchgate.net/publication/334849056_Quantifying_Pitch_Control>
@@ -201,7 +206,7 @@ Basketball:
 * Unsupervised methods for identifying pass coverage among defensive backs with NFL player tracking data - <https://www.degruyter.com/document/doi/10.1515/jqas-2020-0017/html>
 * Expected passes: Determining the difficulty of a pass in football (soccer) using spatio-temporal data - <https://link.springer.com/content/pdf/10.1007/s10618-021-00810-3.pdf>
 
-
+* Extracting NFL tracking data from images to evaluate quarterbacks and pass defenses - <https://www.degruyter.com/document/doi/10.1515/jqas-2019-0052/html?lang=en>
 
 
 ### Trajectory prediction ('ghosting')
@@ -238,6 +243,18 @@ Basketball:
 * Full Jose Mourinho Scouting Report on FC Barcelona from 2005/2006 - <https://twitter.com/_DaliborPlavsic/status/1106722625470889984?s=19>
 
 
+## Sport science
+
+### Non-invasive monitoring
+
+* The paradox of “invisible” monitoring: The less you do, the more you do! - <https://hiitscience.com/the-paradox-of-invisible-monitoring-the-less-you-do-the-more-you-do/>
+
+
+### Injuries
+
+* Untangling the NFL Injury Web - <https://www.footballoutsiders.com/stat-analysis/2018/untangling-nfl-injury-web>
+
+
 ***************
 
 # Datasets
@@ -260,6 +277,8 @@ Basketball:
 - https://github.com/meysubb/Sports_Data_Reference/blob/master/R/Data.md
 - Multi-sport - https://github.com/octonion?tab=repositories
 
+
+* <https://twitter.com/DSamangy/status/1492206283214114817?t=by17xVuXOVQBr0-eacK7QQ&s=03>
 
 ***************
 
@@ -325,6 +344,19 @@ Basketball:
 
 # Statistics and data science
 
+* Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning (Sebastian Raschka) - <https://arxiv.org/pdf/1811.12808.pdf>
+
+* Publish your raw data and your speculations, then let other people do the analysis: track and field edition - <https://statmodeling.stat.columbia.edu/2017/08/21/publish-raw-data-speculations-let-people-analysis-track-field-edition/>
+
+
+### 'Significance' and testing
+
+* Abandon Statistical Significance - <http://www.stat.columbia.edu/~gelman/research/unpublished/amstat.draft2.pdf>
+
+* Gelman on MBI - <https://statmodeling.stat.columbia.edu/2018/11/15/the-state-of-the-art/>
+* Can we trust “Magnitude-based inference”? - <https://www.tandfonline.com/doi/full/10.1080/02640414.2018.1516004>
+
+
 ### Courses
 
 * Statistical Rethinking (2022 Edition) - <https://github.com/rmcelreath/stat_rethinking_2022>
@@ -365,12 +397,15 @@ Common statistical tests are linear models (or: how to teach stats) - <https://l
 
 * A visual introduction to Gaussian Belief Propagation - <https://gaussianbp.github.io/>
 
+* Bayesian statistics meets sports: a comprehensive review - <https://www.degruyter.com/document/doi/10.1515/jqas-2018-0106/html?lang=en>
+
 
 ### Mixed effect models
 
 * Plotting partial pooling in mixed-effects models <https://www.tjmahr.com/plotting-partial-pooling-in-mixed-effects-models/?s=03 >
 * <https://web.stanford.edu/class/psych252/section/Mixed_models_tutorial.html>
 * <https://ourcodingclub.github.io/2017/03/15/mixed-models.html>
+* Multilevel data collection and analysis for weight training (with R code) - <https://statmodeling.stat.columbia.edu/2018/09/22/38708/>
 
 ### Stein's Pardox
 
@@ -404,7 +439,9 @@ Common statistical tests are linear models (or: how to teach stats) - <https://l
 * Continuous variables: <https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7993>
 * Binary/Time to event: <https://onlinelibrary.wiley.com/doi/full/10.1002/sim.7992>
 
+### Evaluation
 
+* In Machine Learning Predictions for Health Care the Confusion Matrix is a Matrix of Confusion - <https://www.fharrell.com/post/mlconfusion/>
 
 
 ***************
