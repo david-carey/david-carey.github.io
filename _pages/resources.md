@@ -19,6 +19,10 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 
 ### Compilations
 
+* Presenting Multiagent Challenges in Team Sports Analytics - <https://arxiv.org/pdf/2303.13660.pdf>
+
+* Methods of performance analysis in team invasion sports: A systematic review - <https://www.tandfonline.com/doi/full/10.1080/02640414.2020.1785185>
+
 * Devin Pleuler: Soccer Analytics Handbook <https://github.com/devinpleuler/analytics-handbook>
 * "A curated list of awesome machine learning applications in the sports domain" - <https://github.com/AtomScott/awesome-sports-analytics>
 * SFU seminars: <http://www.sfu.ca/sportsanalytics/Seminars.html>
@@ -37,7 +41,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 ### Communication
 
 * How to watch basketball: https://cleaningtheglass.com/how-to-watch-basketball/
-* 
+
 
 ### Computer vision in sport
 
@@ -112,6 +116,8 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 
 * The origins of goals in the German Bundesliga - <https://www.tandfonline.com/doi/full/10.1080/02640414.2021.1943981>
 
+* Classifying ball trajectories in invasion sports using dynamic time warping: A basketball case study - <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272848>
+
 ### Forecasting player performance
 
 * PECOTA - <https://en.wikipedia.org/wiki/PECOTA>
@@ -125,6 +131,8 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Bayesian Hierarchical Modeling Applied to Fantasy Football Projections for Increased Insight and Confidence - <https://srome.github.io/Bayesian-Hierarchical-Modeling-Applied-to-Fantasy-Football-Projections-for-Increased-Insight-and-Confidence/>
 * Bayesian prediction of winning times for elite swimming events - <https://www.tandfonline.com/doi/full/10.1080/02640414.2021.1976485>
 * Bayesian modelling of elite sporting performance with large databases - <https://www.degruyter.com/document/doi/10.1515/jqas-2021-0112/html>
+* Estimating the effects of age on NHL player performance - <https://www.degruyter.com/document/doi/10.1515/jqas-2013-0085/html>
+* Modelling the dynamics of change in the technical skills of young basketball players: The INEX study - <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257767#abstract0>
 
 ### Drafting
 
@@ -148,7 +156,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * When can we trust a team’s stats? - <https://fansided.com/2017/12/21/nylon-calculus-team-stats-noise-stabilization-thunder/>
 * How Long Does It Take For Three Point Shooting To Stabilize? - <https://fansided.com/2014/08/29/long-take-three-point-shooting-stabilize/>
 * Baseball Therapy: It’s a Small Sample Size After All - <https://www.baseballprospectus.com/news/article/17659/baseball-therapy-its-a-small-sample-size-after-all/>
-
+* Are Launch Angles Skills? - Analyzing Baseball Data with R, Second Edition
 
 ### In-game win probability
 
@@ -182,6 +190,7 @@ Basketball:
 * Multifactorial analysis of factors influencing elite Australian football match outcomes: a machine learning approach - <https://sciendo.com/article/10.2478/ijcss-2019-0020>
 * A Two-Stage Bayesian Model for Predicting Winners in Major League Baseball - <http://citeseerx.ist.psu.edu/viewdoc/download?rep=rep1&type=pdf&doi=10.1.1.124.4257>
 * Modelling Australian Rules Football as spatial systems with pairwise comparisons - <https://www.degruyter.com/document/doi/10.1515/jqas-2021-0035/html>
+* A Data-Driven Machine Learning Algorithm for Predicting the Outcomes of NBA Games - <https://www.mdpi.com/2073-8994/15/4/798>
 
 * THE REPLICATION PROJECT: IS XG THE BEST PREDICTOR OF FUTURE RESULTS? - <https://www.americansocceranalysis.com/home/2022/7/19/the-replication-project-is-xg-the-best-predictor-of-future-results>
 
@@ -208,16 +217,25 @@ Basketball:
 * <https://mladenjovanovic.github.io/bmbstats-book/causal-inference.html>
 * Implementation of path analysis and piecewise structural equation modelling to improve the interpretation of key performance indicators in team sports: An example in professional rugby union - <https://www.tandfonline.com/doi/full/10.1080/02640414.2021.1943169?s=03&journalCode=rjsp20#.YM-z2hohnOg.twitter>
 * A holistic analysis of collective behaviour and team performance in Australian Football via structural equation modelling - <https://www.tandfonline.com/doi/full/10.1080/24733938.2022.2046286>
+* Estimating the causal effect of defensive formation on yards gained in run plays - <https://operations.nfl.com/media/4199/bdb_kruchten.pdf>
 
 
 ### Player evaluation/rating
 
+* cricWAR: A reproducible system for evaluating player performance in limited-overs cricket - <https://www.sloansportsconference.com/research-papers/cricwar-a-reproducible-system-for-evaluating-player-performance-in-limited-overs-cricket>
+* Finding Your Feet: A Gaussian Process Model for Estimating the Abilities of Batsmen in Test Cricket - <https://academic.oup.com/jrsssc/article/70/2/481/7033927?login=false>
+* A Bayesian Approach for Determining Player Abilities in Football – <https://academic.oup.com/jrsssc/article/70/1/174/7033964#395473026>
+* Modelling player performance in basketball through mixed models - <https://www.tandfonline.com/doi/abs/10.1080/24748668.2013.11868632>
+* Estimating an NBA player’s impact on his team’s chances of winning - <https://www.degruyter.com/document/doi/10.1515/jqas-2015-0027/html?lang=en>
+* Deep Dive on Regularized Adjusted Plus Minus
+  * https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/
+  * https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-ii-basic-application-to-2017-nba-data-with-r/
+  * https://squared2020.com/2018/12/24/regularized-adjusted-plus-minus-part-iii-what-had-really-happened-was/
 
 #### Shooting/Kicking/Passing ratings + xGoals
 
 * Statistical modelling of goalkicking performance in the Australian Football League (BAYESIAN) - <https://www.sciencedirect.com/science/article/pii/S1440244022001335>
 * Upgrading Expected Goals - <https://statsbomb.com/articles/soccer/upgrading-expected-goals/>
-* 
 
 
 #### EPV, VAEP, xThreat, Equity
@@ -296,10 +314,13 @@ Rugby
 * Factorized Point Process Intensities: A Spatial Analysis of Professional Basketball - <https://arxiv.org/pdf/1401.0942.pdf>
 * Characterizing the spatial structure of defensive skill in professional basketball - <https://arxiv.org/pdf/1405.0231.pdf>
 * A Multiresolution Stochastic Process Model for Predicting Basketball Possession Outcomes - <https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1141685>
+* The role of intrinsic dimension in high-resolution player tracking data—Insights in basketball - <https://arxiv.org/pdf/2002.04148.pdf>
+* Automatic event detection in basketball using HMM with energy based defensive assignment - <https://www.degruyter.com/document/doi/10.1515/jqas-2017-0126/html?lang=en>
 
 * Route identification in the National Football League - <https://www.degruyter.com/document/doi/10.1515/jqas-2019-0047/html>
   * Conference talk: <https://www.youtube.com/watch?v=rnAzURpLLbs&ab_channel=MarkGlickman>
 * Possession Sketches: Mapping NBA Strategies - <http://www.lukebornn.com/papers/miller_ssac_2017.pdf>
+* Using Data To Determine Blitz Strategy - <https://www.kaggle.com/code/dominicborsani/using-data-to-determine-blitz-strategy?s=03>
 
 * A method for evaluating player decision-making in the Australian Football League - <https://www.researchgate.net/profile/Bart-Spencer/publication/335101736_A_method_for_evaluating_player_decision-making_in_the_Australian_Football_League/links/5d4f512792851cd046b26add/A-method-for-evaluating-player-decision-making-in-the-Australian-Football-League.pdf>
 
@@ -309,10 +330,11 @@ Rugby
 * Routine Inspection: Measuring Playbooks for Corner Kicks - <https://global-uploads.webflow.com/5f1af76ed86d6771ad48324b/606e51c17bf6c8ba83d69a01_LaurieShaw-CornerKicks-RPpaper.pdf>
   * https://www.youtube.com/watch?v=yfPC1O_g-I8&t=3002s&ab_channel=MarkGlickman
 
-#### NNMF
+#### NMF
 
-* Understanding Trends in the NBA: How NNMF Works - <https://squared2020.com/2018/10/04/understanding-trends-in-the-nba-how-nnmf-works/amp/?__twitter_impression=true>
+* Understanding Trends in the NBA: How NNMF Works - <https://squared2020.com/2018/10/04/understanding-trends-in-the-nba-how-nnmf-works/>
 * Finding Patterns in Statsbomb Data: Non-Negative Matrix Factorization Applications - <https://znstrider.github.io/2018-11-14-SBData-Non-Negative-Matrix-Factorization/>
+* A Bayesian marked spatial point processes model for basketball shot chart - <https://www.degruyter.com/document/doi/10.1515/jqas-2019-0106/html>
 
 #### Pitch control
 
@@ -395,9 +417,19 @@ Rugby
 * Training Load and Injury Part 2: Questionable Research Practices Hijack the Truth and Mislead Well-Intentioned Clinicians - <https://www.jospt.org/doi/full/10.2519/jospt.2020.9211>
 
 
+#### Running and wearables
+
+* Feasibility and usability of GPS data in exploring associations between training load and running-related knee injuries in recreational runners - <https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-022-00472-8>
+* Injuries in Baseball: How (Self-)Exciting? - <https://sharpestats.com/mlb-injury-point-process/>
+* Towards a complex systems approach in sports injury research: simulating running-related injury development with agent-based modelling - <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6579554/>
+* Association Between Temporal Spatial Parameters and Overuse Injury History in Runners: A Systematic Review and Meta-analysis - <https://link.springer.com/article/10.1007/s40279-019-01207-5>
+* Athlete Monitoring in Professional Road Cycling Using Similarity Search on Time Series Data - <https://link.springer.com/chapter/10.1007/978-3-031-27527-2_9>
+
+
+
 ***************
 
-# Datasets
+# Datasets and competitions
 
 * SportsDataVerse - <https://sportsdataverse.org/>
 
@@ -423,9 +455,19 @@ Rugby
 - Multi-sport - https://github.com/octonion?tab=repositories
 - NBL - <https://jaseziv.github.io/nblR/>
 - WNBL - <https://github.com/jacquietran/wnblr>
+- NBA - <https://www.kaggle.com/datasets/wyattowalsh/basketball>
 
 
 * <https://twitter.com/DSamangy/status/1492206283214114817?t=by17xVuXOVQBr0-eacK7QQ&s=03>
+
+### Competitions
+
+* AO Data Slam 2023 - Predict the next serve - <https://www.crowdanalytix.com/contests/ao-data-slam-2023---predict-the-next-serve>
+
+* NFL 1st and Future - Playing Surface Analytics - <https://www.kaggle.com/competitions/nfl-playing-surface-analytics>
+* NFL 1st and Future - Impact Detection - <https://www.kaggle.com/competitions/nfl-impact-detection>
+* 1st and Future - Player Contact Detection - <https://www.kaggle.com/competitions/nfl-player-contact-detection/overview>
+
 
 ***************
 
@@ -507,7 +549,19 @@ Rugby
 * Estimating Orientation Using Inertial Sensor Fusion and MPU-9250 - <https://au.mathworks.com/help/fusion/ug/Estimating-Orientation-Using-Inertial-Sensor-Fusion-and-MPU-9250.html;jsessionid=ebb750d5ad1abe079f51ecc7acf7?s_eid=PSM_15028>
 * IMU and GPS Fusion for Inertial Navigation - <https://au.mathworks.com/help/fusion/ug/imu-and-gps-fusion-for-inertial-navigation.html>
 
+### Signal dimensionality reduction
 
+* PCA of waveforms and functional PCA: A primer for biomechanics - <https://www.sciencedirect.com/science/article/pii/S0021929020305303>
+  * https://github.com/johnwarmenhoven/PCA-FPCA
+* <https://www.st-andrews.ac.uk/~wjh/dataview/tutorials/principal%20component%20analysis.html>
+* <https://www.psych.mcgill.ca/misc/fda/examples.html>
+
+
+***************
+
+# Mathematical modelling
+
+* The Lost Art of Mathematical Modelling - <https://arxiv.org/pdf/2301.08559.pdf>
 
 ***************
 
@@ -520,6 +574,8 @@ Rugby
 
 * Packages:
   * <https://github.com/adefazio/classifierplots>
+
+
 
 
 ### 'Significance' and testing
@@ -614,6 +670,8 @@ Common statistical tests are linear models (or: how to teach stats) - <https://l
 
 
 ### Bayesian
+
+* Bayesian workflow, Gelman - <https://arxiv.org/pdf/2011.01808.pdf>
 
 * brms: An R Package for Bayesian Multilevel Models using Stan - <https://cran.r-project.org/web/packages/brms/vignettes/brms_overview.pdf>
 * Advanced Bayesian Multilevel Modeling with the R Package brms - <https://cran.r-project.org/web/packages/brms/vignettes/brms_multilevel.pdf>
@@ -714,6 +772,10 @@ Common statistical tests are linear models (or: how to teach stats) - <https://l
 * Ten quick tips for effective dimensionality reduction - <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006907>
 * Towards a comprehensive evaluation of dimension reduction methods for transcriptomic data visualization - <https://www.nature.com/articles/s42003-022-03628-x>
 
+* <https://yliapis.github.io/Non-Negative-Matrix-Factorization/>
+* Learning the parts of objects by non-negative matrix factorization - <https://www.nature.com/articles/44565>
+* <https://goldinlocks.github.io/Non-negative-matrix-factorization/>
+* <https://blog.acolyer.org/2019/02/18/the-why-and-how-of-nonnegative-matrix-factorization/>
 
 ***************
 
