@@ -330,6 +330,10 @@ Rugby
 * Routine Inspection: Measuring Playbooks for Corner Kicks - <https://global-uploads.webflow.com/5f1af76ed86d6771ad48324b/606e51c17bf6c8ba83d69a01_LaurieShaw-CornerKicks-RPpaper.pdf>
   * https://www.youtube.com/watch?v=yfPC1O_g-I8&t=3002s&ab_channel=MarkGlickman
 
+
+* Effects of collective tactical variables and predictors on the probability of scoring in elite netball - <https://www.tandfonline.com/doi/full/10.1080/24748668.2023.2225274>
+
+
 #### NMF
 
 * Understanding Trends in the NBA: How NNMF Works - <https://squared2020.com/2018/10/04/understanding-trends-in-the-nba-how-nnmf-works/>
@@ -569,7 +573,10 @@ Rugby
 
 * Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning (Sebastian Raschka) - <https://arxiv.org/pdf/1811.12808.pdf>
 
-* Harrell - Statistical Problems to Document and to Avoid - <https://discourse.datamethods.org/t/author-checklist/3407>
+* <https://discourse.datamethods.org/>
+  * Harrell - Statistical Problems to Document and to Avoid - <https://discourse.datamethods.org/t/author-checklist/3407>
+  * Reference Collection to push back against “Common Statistical Myths” - <https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787>
+
 * Publish your raw data and your speculations, then let other people do the analysis: track and field edition - <https://statmodeling.stat.columbia.edu/2017/08/21/publish-raw-data-speculations-let-people-analysis-track-field-edition/>
 
 * Packages:
@@ -640,6 +647,8 @@ Rugby
 
 
 ### Causal inference
+
+* Examples of solid causal inferences from purely observational data - <https://discourse.datamethods.org/t/examples-of-solid-causal-inferences-from-purely-observational-data/1686>
 
 * **The Effect: An Introduction to Research Design and Causality**
   * <https://theeffectbook.net/index.html>
