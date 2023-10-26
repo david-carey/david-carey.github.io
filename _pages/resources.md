@@ -34,32 +34,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 
 * How to watch basketball: https://cleaningtheglass.com/how-to-watch-basketball/
 
-### Computer vision in sport
 
-* Computer vision in sport papers - [https://github.com/avijit9/awesome-computer-vision-in-sports](https://github.com/avijit9/awesome-computer-vision-in-sports)
-
-#### Player detection
-
-* Accelerating the creation of instance segmentation training sets through bounding box annotation - [https://arxiv.org/pdf/2205.11563.pdf](https://arxiv.org/pdf/2205.11563.pdf)
-* Multimodal and multiview distillation for real-time player detection on a football field
-
-#### Player/Team ID
-
-* Pose Guided Gated Fusion for Person Re-identification [https://openaccess.thecvf.com/content_WACV_2020/papers/Bhuiyan_Pose_Guided_Gated_Fusion_for_Person_Re-identification_WACV_2020_paper.pdf](https://openaccess.thecvf.com/content_WACV_2020/papers/Bhuiyan_Pose_Guided_Gated_Fusion_for_Person_Re-identification_WACV_2020_paper.pdf)
-* Contrastive Learning for Sports Video: Unsupervised Player Classification - [https://arxiv.org/pdf/2104.10068v2.pdf](https://arxiv.org/pdf/2104.10068v2.pdf)
-* Associative embedding for team discrimination
-
-#### Player tracking
-
-* Automated repair of fragmented tracks with 1D CNNs
-* Comparison of a computer vision system against three-dimensional motion capture for tracking football movements in a stadium environment - [https://link.springer.com/article/10.1007/s12283-021-00365-y](https://link.springer.com/article/10.1007/s12283-021-00365-y)
-
-#### Action detection/recognition
-
-* Group Activity Detection from Trajectory and Video Data in Soccer [https://arxiv.org/pdf/2004.10299.pdf](https://arxiv.org/pdf/2004.10299.pdf)
-* Actor-Transformers for Group Activity Recognition [https://arxiv.org/pdf/2003.12737.pdf](https://arxiv.org/pdf/2003.12737.pdf)
-* Sport action mining: Dribbling recognition in soccer - [https://link.springer.com/article/10.1007/s11042-021-11784-1](https://link.springer.com/article/10.1007/s11042-021-11784-1)
-* Pose is all you need: the pose only group activity recognition system (POGARS) - [https://link.springer.com/article/10.1007/s00138-022-01346-2](https://link.springer.com/article/10.1007/s00138-022-01346-2)
 
 ### Reinforcement learning/AI in sport
 
@@ -74,6 +49,9 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Q-Ball: Modeling Basketball Games Using Deep Reinforcement Learning - [https://www.aaai.org/AAAI22Papers/AAAI-8152.YanaiC.pdf](https://www.aaai.org/AAAI22Papers/AAAI-8152.YanaiC.pdf)
 * Deep reinforcement learning in a racket sport for player evaluation with technical and tactical contexts - [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9775086](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9775086)
 * How to run a world record? A Reinforcement Learning approach
+* TacticAI: an AI assistant for football tactics - <https://arxiv.org/pdf/2310.10553.pdf>
+
+
 
 ### Strategy proposal and simulation
 
@@ -153,6 +131,7 @@ AFL:
 * [https://thearcfooty.com/within-game-win-probabilities/](https://thearcfooty.com/within-game-win-probabilities/)
 * [https://thearcfooty.com/2017/02/07/win-probability-estimates-what-are-they-good-for/](https://thearcfooty.com/2017/02/07/win-probability-estimates-what-are-they-good-for/)
 * AFLaytics - Quantifying what makes a good game of footy - [https://www.aflalytics.com/blog/2018/7/quantifying-good-match-footy/](https://www.aflalytics.com/blog/2018/7/quantifying-good-match-footy/)
+* Real time prediction of match outcomes in Australian football - <https://www.tandfonline.com/doi/full/10.1080/02640414.2023.2259266>
 
 Soccer:
 
@@ -328,7 +307,7 @@ Rugby
 * Quarterback evaluation in the national football league using tracking data - [https://link.springer.com/article/10.1007/s10182-021-00406-8](https://link.springer.com/article/10.1007/s10182-021-00406-8)
 * Passing and Pressure Metrics in Ice Hockey - [https://www.semanticscholar.org/paper/4ea87ef8e84a461722b7381323ad6a93fd530362](https://www.semanticscholar.org/paper/4ea87ef8e84a461722b7381323ad6a93fd530362)
 
-### Trajectory prediction ('ghosting')
+#### Trajectory prediction ('ghosting')
 
 * Basketball GAN: Sportingly Acceptable Trajectory Prediction - [https://drive.google.com/file/d/1eZV5mIutg5aoiKqD3jSLUwerueoNFfzH/view](https://drive.google.com/file/d/1eZV5mIutg5aoiKqD3jSLUwerueoNFfzH/view)
 * Where will they go? predicting fine-grained adversarial multi-agent motion using conditional variational autoencoders.
@@ -338,7 +317,6 @@ Rugby
 * baller2vec++: A Look-Ahead Multi-Entity Transformer For Modeling Coordinated Agents - [https://arxiv.org/pdf/2104.11980v2.pdf](https://arxiv.org/pdf/2104.11980v2.pdf)
 * Simulating Defensive Trajectories in American Football for Predicting League Average Defensive Movements - [https://www.frontiersin.org/articles/10.3389/fspor.2021.669845/full](https://www.frontiersin.org/articles/10.3389/fspor.2021.669845/full)
 * Inferring Player Location in Sports Matches: Multi-Agent Spatial Imputation from Limited Observations - [https://arxiv.org/abs/2302.06569](https://arxiv.org/abs/2302.06569)
-
   * [https://github.com/GregSoton/PlayerImputation/tree/main](https://github.com/GregSoton/PlayerImputation/tree/main)
 
 ### Training plan generation and optimisation
@@ -412,6 +390,7 @@ Rugby
 * Collection and Validation of Psychophysiological Data from Professional and Amateur Players: a Multimodal eSports Dataset - [https://arxiv.org/pdf/2011.00958v2.pdf](https://arxiv.org/pdf/2011.00958v2.pdf)
 * Comprehensive Dataset of Broadcast Soccer Videos - [https://ieeexplore.ieee.org/document/8397046](https://ieeexplore.ieee.org/document/8397046) & [http://media.hust.edu.cn/dataset.htm](http://media.hust.edu.cn/dataset.htm)
 * MultiSports: A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions - [https://arxiv.org/pdf/2105.07404v2.pdf](https://arxiv.org/pdf/2105.07404v2.pdf)
+* TeamTrack: An Algorithm and Benchmark Dataset for Multi-Sport Multi-Object Tracking in Full-pitch Videos - <https://github.com/AtomScott/TeamTrack>
 * PERSIST: A Multimodal Dataset for the Prediction of Perceived Exertion during Resistance Training - [https://www.mdpi.com/2306-5729/8/1/9](https://www.mdpi.com/2306-5729/8/1/9)
 
 - Tennis - https://github.com/skoval/deuce
@@ -458,10 +437,75 @@ Rugby
 * Understanding Convolutions on Graphs - [https://distill.pub/2021/understanding-gnns/](https://distill.pub/2021/understanding-gnns/)
 * An attempt at demystifying graph deep learning - [https://ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/](https://ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/)
 
-## Computer vision
+---
+
+# Computer vision
+
+* EECS 4422 Computer Vision - <https://www.eecs.yorku.ca/~kosta/Courses/EECS4422/>
+
+### Computer vision in sport
+
+* Computer vision in sport papers - [https://github.com/avijit9/awesome-computer-vision-in-sports](https://github.com/avijit9/awesome-computer-vision-in-sports)
+* SportLogiQ research - <https://www.sportlogiq.com/publications/>
+
+#### Player detection
+
+* Accelerating the creation of instance segmentation training sets through bounding box annotation - [https://arxiv.org/pdf/2205.11563.pdf](https://arxiv.org/pdf/2205.11563.pdf)
+* Multimodal and multiview distillation for real-time player detection on a football field
+
+
+#### Player/Team ID
+
+* Pose Guided Gated Fusion for Person Re-identification [https://openaccess.thecvf.com/content_WACV_2020/papers/Bhuiyan_Pose_Guided_Gated_Fusion_for_Person_Re-identification_WACV_2020_paper.pdf](https://openaccess.thecvf.com/content_WACV_2020/papers/Bhuiyan_Pose_Guided_Gated_Fusion_for_Person_Re-identification_WACV_2020_paper.pdf)
+* Contrastive Learning for Sports Video: Unsupervised Player Classification - [https://arxiv.org/pdf/2104.10068v2.pdf](https://arxiv.org/pdf/2104.10068v2.pdf)
+* Associative embedding for team discrimination
+
+#### Player tracking
+
+* Automated repair of fragmented tracks with 1D CNNs
+* Comparison of a computer vision system against three-dimensional motion capture for tracking football movements in a stadium environment - [https://link.springer.com/article/10.1007/s12283-021-00365-y](https://link.springer.com/article/10.1007/s12283-021-00365-y)
+* SportsMOT: A Large Multi-Object Tracking Dataset in Multiple Sports Scenes - <https://arxiv.org/abs/2304.05170>
+  * <https://github.com/MCG-NJU/SportsMOT>
+  * <https://paperswithcode.com/dataset/sportsmot>
+* Visualizing Skiers’ Trajectories in Monocular Videos - <https://openaccess.thecvf.com/content/CVPR2023W/CVSports/papers/Dunnhofer_Visualizing_Skiers_Trajectories_in_Monocular_Videos_CVPRW_2023_paper.pdf>
+* Individual Locating of Soccer Players from a Single Moving View - <https://www.mdpi.com/1424-8220/23/18/7938>
+* Extraction of Positional Player Data From Broadcast Soccer Videos - <https://openaccess.thecvf.com/content/WACV2022/papers/Theiner_Extraction_of_Positional_Player_Data_From_Broadcast_Soccer_Videos_WACV_2022_paper.pdf>
+
+#### Action detection/recognition
+
+* Group Activity Detection from Trajectory and Video Data in Soccer [https://arxiv.org/pdf/2004.10299.pdf](https://arxiv.org/pdf/2004.10299.pdf)
+* Actor-Transformers for Group Activity Recognition [https://arxiv.org/pdf/2003.12737.pdf](https://arxiv.org/pdf/2003.12737.pdf)
+* Sport action mining: Dribbling recognition in soccer - [https://link.springer.com/article/10.1007/s11042-021-11784-1](https://link.springer.com/article/10.1007/s11042-021-11784-1)
+* Pose is all you need: the pose only group activity recognition system (POGARS) - [https://link.springer.com/article/10.1007/s00138-022-01346-2](https://link.springer.com/article/10.1007/s00138-022-01346-2)
+
+
+#### Sport camera calibration
+
+* SoccerNet Camera Calibration - [https://www.soccer-net.org/tasks/camera-calibration](https://www.soccer-net.org/tasks/camera-calibration)
+* Optimizing Through Learned Errors for Accurate Sports Field Registration [https://openaccess.thecvf.com/content_WACV_2020/papers/Jiang_Optimizing_Through_Learned_Errors_for_Accurate_Sports_Field_Registration_WACV_2020_paper.pdf](https://openaccess.thecvf.com/content_WACV_2020/papers/Jiang_Optimizing_Through_Learned_Errors_for_Accurate_Sports_Field_Registration_WACV_2020_paper.pdf)
+* Fast Camera Calibration for the Analysis of Sport Sequences - [https://www.dirk-farin.net/publications/data/Farin2005d_slides.pdf](https://www.dirk-farin.net/publications/data/Farin2005d_slides.pdf)
+* End-to-End Camera Calibration for Broadcast Videos
+* Sports Field Recognition Using Deep Multi-task Learning - [https://www.jstage.jst.go.jp/article/ipsjjip/29/0/29_328/_pdf](https://www.jstage.jst.go.jp/article/ipsjjip/29/0/29_328/_pdf)
+* Evaluating Soccer Player: from Live Camera to Deep Reinforcement Learning - [https://arxiv.org/pdf/2101.05388.pdf](https://arxiv.org/pdf/2101.05388.pdf)
+  * [https://github.com/DonsetPG/narya](https://github.com/DonsetPG/narya)
+* BirdsPyView - [https://github.com/rjtavares/BirdsPyView](https://github.com/rjtavares/BirdsPyView)
+* TVCalib: Camera Calibration for Sports Field Registration in Soccer - [https://mm4spa.github.io/tvcalib/](https://mm4spa.github.io/tvcalib/) and [https://arxiv.org/pdf/2207.11709.pdf](https://arxiv.org/pdf/2207.11709.pdf)
+* Self-Supervised Shape Alignment for Sports Field Registration - [https://openaccess.thecvf.com/content/WACV2022/papers/Shi_Self-Supervised_Shape_Alignment_for_Sports_Field_Registration_WACV_2022_paper.pdf](https://openaccess.thecvf.com/content/WACV2022/papers/Shi_Self-Supervised_Shape_Alignment_for_Sports_Field_Registration_WACV_2022_paper.pdf)
+* Individual Locating of Soccer Players from a Single Moving View - <https://www.mdpi.com/1424-8220/23/18/7938>
+* Extraction of Positional Player Data From Broadcast Soccer Videos - <https://openaccess.thecvf.com/content/WACV2022/papers/Theiner_Extraction_of_Positional_Player_Data_From_Broadcast_Soccer_Videos_WACV_2022_paper.pdf>
+* KaliCalib: A Framework for Basketball Court Registration - <https://arxiv.org/pdf/2209.07795.pdf>
+* Sports Field Registration via Keypoints-aware Label Condition - <https://cgv.cs.nthu.edu.tw/KpSFR_data/KpSFR_paper.pdf>
+  * <https://ericsujw.github.io/KpSFR/>
+  * <https://github.com/ericsujw/KpSFR/>
+
+
+#### Telestration
 
 * Assessing the Efficacy of Video Telestration in Aiding Memory Recall Among Elite Professional Football Players - [https://journals.iupui.edu/index.php/sij/article/view/26317/24440](https://journals.iupui.edu/index.php/sij/article/view/26317/24440)
 * The use and perceived value of telestration tools in elite football - [https://www.tandfonline.com/doi/abs/10.1080/24748668.2020.1753965?journalCode=rpan20](https://www.tandfonline.com/doi/abs/10.1080/24748668.2020.1753965?journalCode=rpan20)
+
+
+
 
 ### Vision transformers
 
@@ -475,19 +519,7 @@ Rugby
 * Reprojecting the Perseverance landing footage onto satellite imagery - [https://matthewearl.github.io/2021/03/06/mars2020-reproject/](https://matthewearl.github.io/2021/03/06/mars2020-reproject/)
 * Smooth Globally Warp Locally: Video Stabilization using Homography Fields - [https://cs.adelaide.edu.au/~tjchin/lib/exe/fetch.php?media=papers:fields_preprint.pdf](https://cs.adelaide.edu.au/~tjchin/lib/exe/fetch.php?media=papers:fields_preprint.pdf)
 
-### Sport camera calibration
 
-* SoccerNet Camera Calibration - [https://www.soccer-net.org/tasks/camera-calibration](https://www.soccer-net.org/tasks/camera-calibration)
-* Optimizing Through Learned Errors for Accurate Sports Field Registration [https://openaccess.thecvf.com/content_WACV_2020/papers/Jiang_Optimizing_Through_Learned_Errors_for_Accurate_Sports_Field_Registration_WACV_2020_paper.pdf](https://openaccess.thecvf.com/content_WACV_2020/papers/Jiang_Optimizing_Through_Learned_Errors_for_Accurate_Sports_Field_Registration_WACV_2020_paper.pdf)
-* Fast Camera Calibration for the Analysis of Sport Sequences - [https://www.dirk-farin.net/publications/data/Farin2005d_slides.pdf](https://www.dirk-farin.net/publications/data/Farin2005d_slides.pdf)
-* End-to-End Camera Calibration for Broadcast Videos
-* Sports Field Recognition Using Deep Multi-task Learning - [https://www.jstage.jst.go.jp/article/ipsjjip/29/0/29_328/_pdf](https://www.jstage.jst.go.jp/article/ipsjjip/29/0/29_328/_pdf)
-* Evaluating Soccer Player: from Live Camera to Deep Reinforcement Learning - [https://arxiv.org/pdf/2101.05388.pdf](https://arxiv.org/pdf/2101.05388.pdf)
-
-  * [https://github.com/DonsetPG/narya](https://github.com/DonsetPG/narya)
-* BirdsPyView - [https://github.com/rjtavares/BirdsPyView](https://github.com/rjtavares/BirdsPyView)
-* TVCalib: Camera Calibration for Sports Field Registration in Soccer - [https://mm4spa.github.io/tvcalib/](https://mm4spa.github.io/tvcalib/) and [https://arxiv.org/pdf/2207.11709.pdf](https://arxiv.org/pdf/2207.11709.pdf)
-* Self-Supervised Shape Alignment for Sports Field Registration - [https://openaccess.thecvf.com/content/WACV2022/papers/Shi_Self-Supervised_Shape_Alignment_for_Sports_Field_Registration_WACV_2022_paper.pdf](https://openaccess.thecvf.com/content/WACV2022/papers/Shi_Self-Supervised_Shape_Alignment_for_Sports_Field_Registration_WACV_2022_paper.pdf)
 
 ### Multi-object tracking
 
@@ -517,15 +549,14 @@ Rugby
 * [https://www.st-andrews.ac.uk/~wjh/dataview/tutorials/principal%20component%20analysis.html](https://www.st-andrews.ac.uk/~wjh/dataview/tutorials/principal%20component%20analysis.html)
 * [https://www.psych.mcgill.ca/misc/fda/examples.html](https://www.psych.mcgill.ca/misc/fda/examples.html)
 
+
+
 ---
 
-# Mathematical modelling
+# Statistics, data science, and modelling
 
 * The Lost Art of Mathematical Modelling - [https://arxiv.org/pdf/2301.08559.pdf](https://arxiv.org/pdf/2301.08559.pdf)
-
----
-
-# Statistics and data science
+* <https://mc-stan.org/docs/stan-users-guide/index.html>
 
 * Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning (Sebastian Raschka) - [https://arxiv.org/pdf/1811.12808.pdf](https://arxiv.org/pdf/1811.12808.pdf)
 * [https://discourse.datamethods.org/](https://discourse.datamethods.org/)
@@ -536,6 +567,12 @@ Rugby
 * Packages:
 
   * [https://github.com/adefazio/classifierplots](https://github.com/adefazio/classifierplots)
+
+
+### Probability distributions & Data generating processes
+
+* Probabilistic Building Blocks - <https://betanalpha.github.io/assets/case_studies/probability_densities.html>
+
 
 ### 'Significance' and testing
 
@@ -630,8 +667,11 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 
 ### Mixed effect models
 
+* Notes on mixed models - <https://docs.google.com/document/d/1pxABPqUGUR1tCQvS-7KNt0mWK_CeoP4fXBhD7dhW0Wk/edit?usp=sharing>
+
 * Fitting linear mixed models in R - [http://staff.pubhealth.ku.dk/~jufo/courses/rm2018/nlmePackage.pdf](http://staff.pubhealth.ku.dk/~jufo/courses/rm2018/nlmePackage.pdf)
 * Fitting Linear Mixed-Effects Models Using lme4 - [https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)
+* Getting started with the glmmTMB package - <https://cran.r-project.org/web/packages/glmmTMB/vignettes/glmmTMB.pdf>
 * Plotting partial pooling in mixed-effects models <https://www.tjmahr.com/plotting-partial-pooling-in-mixed-effects-models/?s=03 >
 * [https://web.stanford.edu/class/psych252/section/Mixed_models_tutorial.html](https://web.stanford.edu/class/psych252/section/Mixed_models_tutorial.html)
 * INTRODUCTION TO LINEAR MIXED MODELS - [https://ourcodingclub.github.io/2017/03/15/mixed-models.html](https://ourcodingclub.github.io/2017/03/15/mixed-models.html)
@@ -641,21 +681,28 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * A brief introduction to mixed effects modelling and multi-model inference in ecology - [https://peerj.com/articles/4794/](https://peerj.com/articles/4794/)
 * A very basic tutorial for performing linear mixed effects analyses - [https://jontalle.web.engr.illinois.edu/MISC/lme4/bw_LME_tutorial.pdf](https://jontalle.web.engr.illinois.edu/MISC/lme4/bw_LME_tutorial.pdf)
 * Random effects and penalized splines are the same thing - [https://www.tjmahr.com/random-effects-penalized-splines-same-thing/](https://www.tjmahr.com/random-effects-penalized-splines-same-thing/)
+* Elements of Applied Biostatistics: Chapter 16 Models with random factors – linear mixed models - <https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/lmm.html>
 
-#### Covariance structures
+#### Covariance structures & temporal models
 
+* Temporal analysis of variation in random effects - <https://stats.stackexchange.com/questions/19911/temporal-analysis-of-variation-in-random-effects>
 * Dealing with temporal autocorrelation - [https://www.flutterbys.com.au/stats/tut/tut8.3b.html](https://www.flutterbys.com.au/stats/tut/tut8.3b.html)
 * Guidelines for Selecting the Covariance Structure in Mixed Model Analysis - [https://support.sas.com/resources/papers/proceedings/proceedings/sugi30/198-30.pdf](https://support.sas.com/resources/papers/proceedings/proceedings/sugi30/198-30.pdf)
 * Modelling covariance structure in the analysis of repeated measures data - [https://faculty.washington.edu/heagerty/Courses/VA-longitudinal/private/Littell-StatMed2000.pdf](https://faculty.washington.edu/heagerty/Courses/VA-longitudinal/private/Littell-StatMed2000.pdf)
 * Covariance structures with glmmTMB - [https://cran.r-project.org/web/packages/glmmTMB/vignettes/covstruct.html](https://cran.r-project.org/web/packages/glmmTMB/vignettes/covstruct.html)
 * fitting mixed models with (temporal) correlations in R - [https://bbolker.github.io/mixedmodels-misc/notes/corr_braindump.html](https://bbolker.github.io/mixedmodels-misc/notes/corr_braindump.html)
 * R Code for Repeated Measures - [https://dnett.github.io/S510/24RepeatedMeasuresR.pdf](https://dnett.github.io/S510/24RepeatedMeasuresR.pdf)
-* 
 
 #### Sport specific
 
 * The Utility of Mixed Models in Sport Science: A Call for Further Adoption in Longitudinal Data Sets - [https://journals.humankinetics.com/view/journals/ijspp/aop/article-10.1123-ijspp.2021-0496/article-10.1123-ijspp.2021-0496.xml](https://journals.humankinetics.com/view/journals/ijspp/aop/article-10.1123-ijspp.2021-0496/article-10.1123-ijspp.2021-0496.xml)
 * Multilevel data collection and analysis for weight training (with R code) - [https://statmodeling.stat.columbia.edu/2018/09/22/38708/](https://statmodeling.stat.columbia.edu/2018/09/22/38708/)
+
+
+### Time series
+
+* MultiVariate (Dynamic) Generalized Addivite Models - <https://nicholasjclark.github.io/mvgam/index.html>
+
 
 ### Ordinal models
 
@@ -710,6 +757,21 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * [https://goldinlocks.github.io/Non-negative-matrix-factorization/](https://goldinlocks.github.io/Non-negative-matrix-factorization/)
 * [https://blog.acolyer.org/2019/02/18/the-why-and-how-of-nonnegative-matrix-factorization/](https://blog.acolyer.org/2019/02/18/the-why-and-how-of-nonnegative-matrix-factorization/)
 * Exactly Uncorrelated Sparse Principal Component Analysis - [https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2232843?af=R&amp;journalCode=ucgs20](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2232843?af=R&journalCode=ucgs20)
+
+* Is there any good reason to use PCA instead of EFA? Also, can PCA be a substitute for factor analysis? - <https://stats.stackexchange.com/questions/123063/is-there-any-good-reason-to-use-pca-instead-of-efa-also-can-pca-be-a-substitut>
+
+
+### Variable selection
+
+* mixOmics: An R package for ‘omics feature selection and multiple data integration - <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005752>
+
+
+### Synthetic data generation
+
+* <https://cran.r-project.org/web/packages/synthpop/index.html>
+* <https://pypi.org/project/synthcity/>
+* <https://docs.sdv.dev/sdv/>
+
 
 ---
 
