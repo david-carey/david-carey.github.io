@@ -91,6 +91,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Bayesian modelling of elite sporting performance with large databases - [https://www.degruyter.com/document/doi/10.1515/jqas-2021-0112/html](https://www.degruyter.com/document/doi/10.1515/jqas-2021-0112/html)
 * Estimating the effects of age on NHL player performance - [https://www.degruyter.com/document/doi/10.1515/jqas-2013-0085/html](https://www.degruyter.com/document/doi/10.1515/jqas-2013-0085/html)
 * Modelling the dynamics of change in the technical skills of young basketball players: The INEX study - [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257767#abstract0](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257767#abstract0)
+* Modelling age-related changes in executive functions of soccer players - <https://arxiv.org/pdf/2105.01226.pdf>
 
 ### Drafting
 
@@ -283,6 +284,7 @@ Rugby
 * Team numerical advantage in Australian rules football: A missing piece of the scoring puzzle? - <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254591>
 * A copula-based multivariate hidden Markov model for modelling momentum in football - <https://link.springer.com/article/10.1007/s10182-021-00395-8>
 * A STATISTICAL MODEL OF SERVE RETURN IMPACT PATTERNS IN PROFESSIONAL TENNIS - <https://arxiv.org/pdf/2202.00583.pdf>
+* Is it worth the effort? Understanding and contextualizing physical metrics in soccer - <https://arxiv.org/pdf/2204.02313.pdf>
 
 #### NMF
 
@@ -318,6 +320,7 @@ Rugby
 * Simulating Defensive Trajectories in American Football for Predicting League Average Defensive Movements - [https://www.frontiersin.org/articles/10.3389/fspor.2021.669845/full](https://www.frontiersin.org/articles/10.3389/fspor.2021.669845/full)
 * Inferring Player Location in Sports Matches: Multi-Agent Spatial Imputation from Limited Observations - [https://arxiv.org/abs/2302.06569](https://arxiv.org/abs/2302.06569)
   * [https://github.com/GregSoton/PlayerImputation/tree/main](https://github.com/GregSoton/PlayerImputation/tree/main)
+* Multiagent off‑screen behavior prediction in football - <https://www.nature.com/articles/s41598-022-12547-0>
 
 ### Training plan generation and optimisation
 
@@ -452,7 +455,8 @@ Rugby
 
 * Accelerating the creation of instance segmentation training sets through bounding box annotation - [https://arxiv.org/pdf/2205.11563.pdf](https://arxiv.org/pdf/2205.11563.pdf)
 * Multimodal and multiview distillation for real-time player detection on a football field
-
+* Semi-Supervised Training to Improve Player and Ball Detection in Soccer - <https://arxiv.org/abs/2204.06859>
+  * <https://github.com/rvandeghen/SST>
 
 #### Player/Team ID
 
@@ -572,6 +576,7 @@ Rugby
 ### Probability distributions & Data generating processes
 
 * Probabilistic Building Blocks - <https://betanalpha.github.io/assets/case_studies/probability_densities.html>
+* (What's the Probabilistic Story) Modeling Glory? - <https://betanalpha.github.io/assets/case_studies/generative_modeling.html>
 
 
 ### 'Significance' and testing
@@ -682,6 +687,7 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * A very basic tutorial for performing linear mixed effects analyses - [https://jontalle.web.engr.illinois.edu/MISC/lme4/bw_LME_tutorial.pdf](https://jontalle.web.engr.illinois.edu/MISC/lme4/bw_LME_tutorial.pdf)
 * Random effects and penalized splines are the same thing - [https://www.tjmahr.com/random-effects-penalized-splines-same-thing/](https://www.tjmahr.com/random-effects-penalized-splines-same-thing/)
 * Elements of Applied Biostatistics: Chapter 16 Models with random factors – linear mixed models - <https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/lmm.html>
+* Hierarchical Modeling - <https://betanalpha.github.io/assets/case_studies/hierarchical_modeling.html>
 
 #### Covariance structures & temporal models
 
@@ -706,6 +712,7 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 
 ### Ordinal models
 
+* Ordinal Regression - <https://betanalpha.github.io/assets/case_studies/ordinal_regression.html>
 * Mixed effect ordinal models - [https://drizopoulos.github.io/GLMMadaptive/articles/Ordinal_Mixed_Models.html](https://drizopoulos.github.io/GLMMadaptive/articles/Ordinal_Mixed_Models.html)
 
 ### Zero inflated data
@@ -724,6 +731,7 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 ### Gaussian processes
 
 * Gaussian Processes for Machine Learning - [http://www.gaussianprocess.org/gpml/chapters/RW.pdf](http://www.gaussianprocess.org/gpml/chapters/RW.pdf)
+* Robust Gaussian Process Modeling - <https://betanalpha.github.io/assets/case_studies/gaussian_processes.html>
 
 ### Clinical prediction models
 
@@ -862,4 +870,5 @@ ANZIAM Mathsport has placed conference proceedings online to make the papers ava
 ### Python
 
 * How to create a Python package in 2022 - [https://mathspp.com/blog/how-to-create-a-python-package-in-2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022)
-*
+
+
