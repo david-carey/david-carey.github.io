@@ -113,6 +113,9 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * PECOTA - [https://en.wikipedia.org/wiki/PECOTA](https://en.wikipedia.org/wiki/PECOTA)
 * CARMELO - [https://fivethirtyeight.com/features/how-were-predicting-nba-player-career/](https://fivethirtyeight.com/features/how-were-predicting-nba-player-career/)
 * DARKO - [https://apanalytics.shinyapps.io/DARKO//](https://apanalytics.shinyapps.io/DARKO//)
+* ZiPS - <https://www.mlb.com/glossary/projection-systems/szymborski-projection-system>
+* Steamer - <https://www.fangraphs.com/projections.aspx?pos=all&stats=bat&type=steamer>
+* Marcel - [https://en.wikipedia.org/wiki/Marcel_(projection_system)](https://en.wikipedia.org/wiki/Marcel_(projection_system))
 * Predicting the Potential of Professional Soccer Players - [http://ceur-ws.org/Vol-1971/paper-02.pdf](http://ceur-ws.org/Vol-1971/paper-02.pdf)
 * Predicting the future performance of soccer players - [https://onlinelibrary.wiley.com/doi/full/10.1002/sam.11321](https://onlinelibrary.wiley.com/doi/full/10.1002/sam.11321)
 * Can Elite Australian Football Player’s Game Performance Be Predicted? - [https://sciendo.com/de/article/10.2478/ijcss-2021-0004](https://sciendo.com/de/article/10.2478/ijcss-2021-0004)
