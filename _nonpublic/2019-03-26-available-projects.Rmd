@@ -1,0 +1,199 @@
+---
+title: Available Projects
+author: ''
+date: '2019-03-26'
+slug: available-projects
+categories: []
+tags: []
+description: ''
+output:
+  html_document:
+    toc: true
+---
+
+********************
+
+The following is a list of projects available for students.
+
+********************
+
+## AFL Player Forecasting model
+
+Forecasting the future performance of a player is a difficult problem in team sports, but accurate estiamates can provide large value to list management and recruiting decisions. PECOTA (baseball) and CARMELO (basketball) are interesting methods that may be transferable to AFL. A similar study has already been done in soccer (see link below).
+
+This project would be to build an AFL player performance forecasting model using a similar approach to PECOTA and CARMELO.
+
+The data required for this project is likely available in the public domain.
+
+* https://en.wikipedia.org/wiki/PECOTA
+* https://fivethirtyeight.com/features/how-were-predicting-nba-player-career/
+* http://ceur-ws.org/Vol-1971/paper-02.pdf
+
+
+********************
+
+## Randomness in Australian sport
+
+Following the method outlined in the paper _HOW OFTEN DOES THE BEST TEAM WIN? A UNIFIED APPROACH TO UNDERSTANDING RANDOMNESS IN NORTH AMERICAN SPORT_.
+
+This project would be to extend the analysis to Australian sports (AFL, AFLW, NRL, Super Rugby, Netball, A-League, etc.)
+
+https://arxiv.org/pdf/1701.05976.pdf
+
+This project would require a dataset of match results and bookmakers odds. Both
+of these are likely publically available. 
+
+The study would attempt to place Australian sporting leagues at a point on the 
+skill-luck continuum - allowing for comparisons between both national and international
+leagues.
+
+
+*******************
+
+## Meta-analytics
+
+_"Meta-analytics"_ is a term coined in a 2016 paper called [Meta-analytics: tools for understanding the statistical properties of sports metrics](https://www.degruyter.com/downloadpdf/j/jqas.2016.12.issue-4/jqas-2016-0098/jqas-2016-0098.pdf). The authors of this paper are world leaders in sports analytics.
+
+The goal of meta-analytics is to _"to identify the metrics
+that provide the most unique and reliable information for decision makers"_.
+
+The paper outlines (in detail) a framework for assessing sports metrics that can be applied to any sport. The project is to appraise commonly used sports metrics using the meta-analytics framework. The sporting domain will initally be AFL, with the aim to extend to other sports as well.
+
+The data required for this project is likely available in the public domain.
+
+
+*****************
+
+## Creating the LTU Sports Analytics tipping model
+
+This project is to build the La Trobe sports analytics entry into the prestigious **Squiggle** tipping competition (https://squiggle.com.au/). 
+
+The data required for this project is likely available in the public domain.
+
+
+
+
+******************
+
+## Modelling training loads and injury
+
+There has been a lot of contentious research in this area in recent years, and there is still a need for improved methods.
+
+These projects may require data from teams. However recent studies have also used simulated data to highlight methodology issues.
+
+
+
+### Accounting for scheduling
+
+http://www.sloansportsconference.com/wp-content/uploads/2019/02/Training-Schedule-Confounds-the-Relationship-between-Acute-Chronic-Workload-Ratio-and-Injury.pdf
+
+
+
+
+
+*****************
+
+## Over-fitting in sports science
+
+Using similated data show that commonly used impulse-response models are highly prone to overfitting and do not generalise well.
+
+There have been a couple of papers published in the last few years attempting to use
+training load data to predict football performance in Australian Football using
+a Banister dose-response model (or similar variant). I.e. trying to use the amount
+of running you have been doing in training to predict your supercoach or AFL Ratings
+points on the weekend. Conceptually you would expect this to be very difficult
+(or impossible), however the studies report they can generate good predictions.
+
+I have done some preliminary simulations to show how overfitting could explain
+these results.
+
+
+
+******************
+
+## Representing player movement patterns in team sports
+
+A paper at this years SSAC (link below) proposed a method for discovering frequently occuring movement patterns in basketball (e.g. post-ups and screens).
+
+http://www.sloansportsconference.com/wp-content/uploads/2019/02/Using-Deep-Learning-to-Understand-Patterns-of-Player-Movement-in-the-NBA.pdf
+
+The method does not depend on having opposition tracking data.
+
+This project could be attempted in any sport where we can get access to large players tracking data sets (at least one season).
+
+
+
+
+
+******************
+
+## Using computer vision to detect umpire actions
+
+This project is to build a computer vision model to automatically detect when 
+an AFL umpire performs a ball-up. It will need to account for complications 
+such as throwing instead of bouncing and recalled bounces.
+
+This task has been studies by the LTU computer vision research group in other
+sporting contexts - so there will be guideance available.
+
+Related research:
+
+* [Extraction and Classification of Diving Clips from Continuous Video Footage](https://arxiv.org/abs/1705.09003)
+* [Rethinking the Faster R-CNN Architecture for Temporal Action Localization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chao_Rethinking_the_Faster_CVPR_2018_paper.pdf)
+
+
+
+******************
+
+## Detection of zoomed out frames
+
+A core component of our AFL moving camera calibration algorithm is the identification
+of zoomed out *"keyframes"* that can be used as a reference point for all other frames.
+At the moment this step is being done manually.
+
+This project would aim to create a method to automatically detect which frames
+would be good candidates to use as keyframes.
+
+I have some code that can segment ground from crowd pixels in any given frame.
+Looking at the shape of the ground segment might be enough to figure out when
+the camera is zoomed out.
+
+
+
+******************
+
+## AFL ground landmarks data-set
+
+Could use this to train a landmark detection algorithm for camera calibration.
+
+We can currently do camera calibration using traditional CV algorithms but they
+are very slow (probably too slow for production).
+
+Landmark detection will likely be much faster, and potentially more accurate
+because it can learn to ignore the moving players.
+
+
+
+******************
+
+## Sports Player Tracking Open Data-set
+
+Publishing open data sets and challenges is common in computer vision. See:
+
+* [MOT16: A Benchmark for Multi-Object Tracking](https://arxiv.org/pdf/1603.00831.pdf)
+* [Object tracking leaderboards](https://paperswithcode.com/task/object-tracking)
+
+There are a few sports specific data sets of similar type:
+
+* [Comprehensive data set of soccer broadcast video](http://media.hust.edu.cn/dataset/Datasets/dataDetail.htm)
+
+By combining LPS tracking with video we have the opportunity to create a unique
+data set containing:
+
+* Indoor and outdoor sports scenes
+* Ground truth world coordinates
+* Ground truth homographies (use fixed cameras)
+* Ground truth player tracks and pixel locations
+* Long term tracking
+
+

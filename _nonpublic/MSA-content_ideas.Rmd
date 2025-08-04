@@ -1,0 +1,103 @@
+---
+title: "Masters of Sports Analytics"
+author: "David Carey"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+****************
+
+This document is to plan contents for the masters of sports analytics.
+
+**************
+
+# Procedures
+
+Subject administration intranet page:
+https://intranet.latrobe.edu.au/teaching-and-learning/subject-administration
+
+
+## Exams
+
+https://intranet.latrobe.edu.au/teaching-and-learning/subject-administration/exams-and-results
+
+https://intranet.latrobe.edu.au/teaching-and-learning/subject-administration/exams-and-results/exam-scheduling-and-timetables
+
+* Need to submit a Examination Scheduling Requirements (ESR) confirmation
+    * Online form
+* Need to submit physically (April for semester 1)
+    * David Myers West
+
+
+
+
+****************
+# PSA - Principles of sports analytics
+
+## Workshops
+
+### Week 4 - Data exploration
+
+## Lectures
+
+
+### Skill vs Luck
+
+* https://www.youtube.com/watch?v=HNlgISa9Giw&t=71s
+
+### Probability and statistics for sports Analytics
+
+* Bishop and Gelman are good refs
+
+### Introduction to modelling
+
+* James and Kuhn
+
+
+## Guest lecturers
+
+* [PSA] Ben B - North Melbourne
+  - How to watch football with an analytical eye
+  - Examples of what they look for when evaluating players
+  - Examples of things that you would miss if not watching closely
+  - Examples of what he would present back to list management
+  - What are the inputs into drafting decisions
+
+
+
+****************
+# SAP - Sports analytics in practice
+
+## Guest lecturers
+
+* [SAP] Richard Little - EFC
+* [SAP] James Day - Fusion (fitzRoy and Analysis of AFL)
+* [SAP] Zhen He or Aiden Nibali - LTU computer vision/AIS
+
+## Assessment
+
+
+## Lectures
+
+* Current research
+  * Go through a set of papers from the most recent Sloan Conferences
+  * Explain them in detail - to the level of what the equations and models are doing
+  * Discuss applications
+  * Critically appraise
+  * Try to implement
+
+
+
+****************
+# SDC - Sports data capture
+
+## Guest lecturers
+* [SDC] Codey Moran - EFC
+* [SDC] Ed Leng + Melbourne City FC visit

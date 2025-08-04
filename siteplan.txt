@@ -1,0 +1,34 @@
+about
+--- bio
+--- current projects
+--- research interests
+--- brief education
+--- contact info
+
+publications
+--- link to google scholar profile
+--- publications listed
+------ custom description
+------ altmetric badge
+------ link to download pdf (check permissions)
+
+talks
+--- custom description
+--- link to download slides (pdf)
+
+blog
+--- 
+
+teaching
+--- master of sport analytics (link)
+--- subjects (content outline and topics)
+--- supervision
+------ masters projects (industry partners and titles)
+------ phd (codey w/ EFC + bec w/ Rebels)
+--- short courses (AIS + handout pdf)
+
+resources
+--- list of semi-organised interesting and useful resources for myself and to link students
+
+cv
+--- irregularly updated CV (pdf)

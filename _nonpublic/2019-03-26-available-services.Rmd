@@ -1,0 +1,53 @@
+---
+title: Available Services
+author: ''
+date: '2019-03-26'
+slug: available-services
+categories: []
+tags: []
+description: ''
+output:
+  html_document:
+    toc: true
+---
+
+
+********************
+
+The following is a list of available services from La Trobe Sports Analytics.
+
+******************
+
+## Masters student thesis project
+
+* Year long research project (roughly equivalent to an honours project).
+* Supervision and support from sports analytics staff
+
+
+******************
+
+## Masters students group project
+
+* Group projects lasting one semester
+* Supervision and support from sports analytics staff
+
+
+******************
+
+## Consultation
+
+* Research collaboration
+    * Predictive modelling
+    * Training loads
+    * Player tracking
+    * Computer vision
+    * Injury risk modelling
+
+
+*****************
+
+## Education
+
+* Short courses in sports analytics
+    * Introduction to using R
+    * Common analysis techniques in sports analytics

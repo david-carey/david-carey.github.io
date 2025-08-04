@@ -26,6 +26,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
   * Team strength
   * Sports betting market data
 * Methodology and evaluation in sports analytics: challenges, approaches, and lessons learned - <https://link.springer.com/article/10.1007/s10994-024-06585-0>
+* Lessons from Sports Statistics - <https://www.tandfonline.com/doi/abs/10.1080/00031305.1997.10474403?s=03>
 * Methods of performance analysis in team invasion sports: A systematic review - [https://www.tandfonline.com/doi/full/10.1080/02640414.2020.1785185](https://www.tandfonline.com/doi/full/10.1080/02640414.2020.1785185)
 * Methods of performance analysis in women’s Australian football: a scoping review - <https://peerj.com/articles/14946/>
 * Devin Pleuler: Soccer Analytics Handbook [https://github.com/devinpleuler/analytics-handbook](https://github.com/devinpleuler/analytics-handbook)
@@ -64,6 +65,8 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * TacticAI: an AI assistant for football tactics - <https://arxiv.org/pdf/2310.10553.pdf>
 * Towards maximizing expected possession outcome in soccer - <https://journals.sagepub.com/doi/pdf/10.1177/17479541231154494>
 * Risk, Reward, and Reinforcement Learning in Ice Hockey Analytics - <https://www2.cs.sfu.ca/~oschulte/files/pubs/11_ML%20ice%20hockey_Schulte_englisch.pdf>
+* Optimization of tennis match decision planning based on reinforcement learning model - <https://journals.sagepub.com/doi/abs/10.1177/14727978251348624>
+* DRL-driven padel players: Simulating padel matches through deep reinforcement learning in real and hypothetical scenarios - <https://www.tandfonline.com/doi/pdf/10.1080/02640414.2025.2518693>
 
 
 ### Strategy proposal and simulation
@@ -79,6 +82,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Data analytics in the football industry: a survey investigating operational frameworks and practices in professional clubs and national federations from around the world - <https://www.tandfonline.com/doi/pdf/10.1080/24733938.2024.2341837>
 * Data analytics practices and reporting strategies in senior football: insights into athlete health and performance from over 200 practitioners worldwide - <https://www.tandfonline.com/doi/full/10.1080/24733938.2025.2476478>
 * The game insight group: A model for academic-industry partnerships for sports statistics innovation - <https://www.tandfonline.com/doi/pdf/10.1080/08982112.2018.1519578?casa_token=Txrmz-I3ENYAAAAA:vl_Tn49SiI-02iCzlDGKwpehJ1fkPQpEIse7DqnCaEyBwQRb53FLfCtags393hp36pHGVJ8nIItG>
+* The Effect of Basketball Analytics Investment on National Basketball Association (NBA) Team Performance
 
 
 ### Forecasting crowds
@@ -107,6 +111,10 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Finding repeatable progressive pass clusters and application in international football - <https://journals.sagepub.com/doi/10.3233/JSA-220732>
 * Classifying and quantifying team playing styles in the Australian Football League - <https://www.tandfonline.com/doi/full/10.1080/24748668.2024.2325269#abstract>
 * A Novel Clustering Framework to Identify Team Playing Styles Within Australian Football - <https://link.springer.com/article/10.1007/s42979-025-03748-1>
+* An investigation of data-driven player positional roles within the Australian Football League Women’s competition using technical skill match-play data- <https://journals.sagepub.com/doi/pdf/10.1177/17479541231203895>
+* Is Stephen Curry really a guard? New perspective on players typology using functional data analysis - <https://arxiv.org/abs/2504.21761?s=03>
+* Characterizing player’s playing styles based on player vectors for each playing position in the Chinese Football Super League - <https://doi.org/10.1080/02640414.2022.2096771>
+
 
 ### Forecasting player performance
 
@@ -125,6 +133,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Bayesian Hierarchical Modeling Applied to Fantasy Football Projections for Increased Insight and Confidence - [https://srome.github.io/Bayesian-Hierarchical-Modeling-Applied-to-Fantasy-Football-Projections-for-Increased-Insight-and-Confidence/](https://srome.github.io/Bayesian-Hierarchical-Modeling-Applied-to-Fantasy-Football-Projections-for-Increased-Insight-and-Confidence/)
 * Bayesian prediction of winning times for elite swimming events - [https://www.tandfonline.com/doi/full/10.1080/02640414.2021.1976485](https://www.tandfonline.com/doi/full/10.1080/02640414.2021.1976485)
 * Next-Generation Models for Predicting Winning Times in Elite Swimming Events: Updated Predictions for the Paris 2024 Olympic Games - <https://journals.humankinetics.com/view/journals/ijspp/18/11/article-p1269.xml>
+* Physical performance estimation in practice: A systematic review of advancements in performance prediction and modeling in cycling - <https://journals.sagepub.com/doi/full/10.1177/17479541241262385>
 * Estimating human limits of running speed - <https://ssp3nc3r.github.io/post/estimating-human-limits-to-running-speed/>
 * Modeling forces in 100m Olympic sprint, a study in physics and probability - <https://ssp3nc3r.github.io/post/estimating-force-of-100m-olympic-sprint-with-physics/>
 * CAREFUL WHAT YOU THROW OUT: MODELLING RANK DATA (Models for rank data from racing sports) - <https://statsbystokes.wordpress.com/2022/02/15/careful-what-you-throw-out-modelling-rank-data/>
@@ -140,10 +149,22 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Aging Patterns: Determing aging patterns, and explaining analysis techniques - <https://www.tangotiger.net/aging.html>
 * Bayesian GARCH modeling of functional sports data - <https://link.springer.com/article/10.1007/s10260-022-00656-z>
 * Filling the gaps: A multiple imputation approach to estimating aging curves in baseball - <https://content.iospress.com/download/journal-of-sports-analytics/jsa240744?id=journal-of-sports-analytics%2Fjsa240744>
+* Longitudinal performance trajectories of young female sprint runners: a new tool to predict performance progression - <https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2024.1491064/full>
+
+#### Extreme values
+
+* Ultimate Olympics Records in Athletics Using Extreme Value Theory - <https://www.scirp.org/pdf/ojapps_2022042814181584.pdf>
+* Extreme Value Theory: An Application to Sports - <https://www.proquest.com/docview/2942072104?%20Theses&fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20>
+* The Extreme Value Birnbaum-Saunders Model in Athletics - <https://repositorium.uminho.pt/bitstream/1822/37249/1/gomes_isi2013.pdf>
+* STATISTICS OF EXTREMES IN ATHLETICS - <https://www.ine.pt/revstat/pdf/rs110202.pdf>
+* Accurate Estimates of Ultimate 100-Meter Records - <https://arxiv.org/html/2502.04085v1>
+* Records in Athletics Through Extreme-Value Theory - <https://www.tandfonline.com/doi/pdf/10.1198/016214508000000698>
+
 
 ### Drafting
 
 * Draft efficiency - [https://statsbylopez.com/2017/04/25/evaluating-the-evaluators/](https://statsbylopez.com/2017/04/25/evaluating-the-evaluators/)
+* The making and comparison of draft curves - <https://statsbylopez.com/2016/06/22/the-making-and-comparison-of-draft-curves/>
 * What Does It Mean to Draft Perfectly in the NHL?
   * [https://hockeygraphsdotcom.files.wordpress.com/2016/10/2-nandakumar-vanhac-slides.pdf](https://hockeygraphsdotcom.files.wordpress.com/2016/10/2-nandakumar-vanhac-slides.pdf) - slides
   * [https://repository.upenn.edu/joseph_wharton_scholars/26/](https://repository.upenn.edu/joseph_wharton_scholars/26/) - paper
@@ -231,6 +252,7 @@ Basketball:
 * A comprehensive survey of the home advantage in American football - <https://doi.org/10.1515/jqas-2024-0016>
 * Revising home advantage in sport – home advantage mediation (HAM) model - <https://www.tandfonline.com/doi/full/10.1080/1750984X.2024.2358491#abstract>
 * Bye-Bye, Bye Advantage: Estimating the competitive impact of rest differential in the National Football League - <https://arxiv.org/pdf/2408.10867>
+* BLUE: A Bayesian Approach to College Football Ratings - <https://lauerjames.github.io/BLUE/?s=03>
 
 #### Tipping models
 
@@ -263,6 +285,7 @@ Basketball:
 
 * Jointly modeling choice to swing with ball contact - <https://ssp3nc3r.github.io/post/jointly-modeling-choice-to-swing-with-ball-contact/>
 * Play Call Strategies and Modeling for Target Outcomes in Football - <https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2223582#d1e124>
+* Stop Guessing: Optimizing Goalkeeper Policies for Soccer Penalty Kicks - <https://arxiv.org/pdf/2505.24629>
 
 ### Player evaluation/rating
 
@@ -283,7 +306,11 @@ Basketball:
 * Lasso Multinomial Performance Indicators for in-play Basketball Data - <https://arxiv.org/pdf/2406.09895>
 * Randomized Time Trial - <https://betanalpha.github.io/assets/chapters_html/racing.html>
 * Multiplayer Elo - <http://www.tckerrigan.com/Misc/Multiplayer_Elo/>
-
+* Introducing Serve and Return Skill Ratings - <https://seriousstats.substack.com/p/introducing-serve-and-return-skill>
+* On the Importance of Skill Adjustment - <https://seriousstats.substack.com/p/on-the-importance-of-skill-adjustment>
+* Down, set, hut! Explaining variability in snap timing on plays with motion - <https://www.kaggle.com/code/tindata/down-set-hut/notebook>
+* Swinging, Fast and Slow: Interpreting variation in baseball swing tracking metrics - <https://arxiv.org/pdf/2507.01238>
+* Measuring skill via player dynamics in football dribbling - <https://www.nature.com/articles/s41598-023-45914-6?fromPaywallRec=false>
 
 #### Multi-trial/test events
 
@@ -368,7 +395,7 @@ Rugby
 * Supervised sequential pattern mining of event sequences in sport to identify important patterns of play: an application to rugby union - [https://arxiv.org/pdf/2010.15377v4.pdf](https://arxiv.org/pdf/2010.15377v4.pdf)
 * Towards a foundation large events model for soccer - <https://link.springer.com/article/10.1007/s10994-024-06606-y>
 * Action rate models for predicting actions in soccer - <https://link.springer.com/article/10.1007/s10182-022-00435-x>
-* 
+* Measuring player pace of play in elite female association football - <https://journals.sagepub.com/doi/abs/10.1177/17479541251334022>
 * A pressure index for the team batting second in T20I cricket - <https://journals.sagepub.com/doi/10.3233/JSA-240792>
 
 ### Regression to the mean
@@ -391,6 +418,25 @@ Rugby
   * Uncovering Missed Tackle Opportunities - <https://www.kaggle.com/code/matthewpchang/uncovering-missed-tackle-opportunities/>
 * Optimally Disrupting Opponent Build-ups - <http://statsbomb.com/wp-content/uploads/2021/11/DTAI-Research-Paper.pdf>
 * exPress: Contextual Valuation of Individual Players Within Pressing Situations in Soccer - <https://www.researchgate.net/publication/390137259_exPress_Contextual_Valuation_of_Individual_Players_Within_Pressing_Situations_in_Soccer>
+* The use of player tracking data to analyze defensive play in professional soccer - A scoping review - <https://journals.sagepub.com/doi/full/10.1177/17479541221075734>
+* HMMotion: Using tracking data to predict coverage - <https://www.kaggle.com/code/rouvenmichels/hmmotion-using-tracking-data-to-predict-coverage>
+* Fractional tackles: leveraging player tracking data for within-play tackling evaluation in American football - <https://www.nature.com/articles/s41598-025-85993-1>
+* Evaluation of soccer team defense based on prediction models of ball recovery and being attacked: A pilot study - <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263051>
+
+
+### Defensive strategy
+
+* Optimizing	Baseball	Fielder	Positioning	with	Consideration	for	Adaptable	Hitters	- <https://cdn.prod.website-files.com/5f1af76ed86d6771ad48324b/65bfe4996c2c54376b78d238_193963%20-%20Optimizing%20Baseball%20Fielder%20Positioning%20with%20Consideration%20for%20Adaptable%20Hitters.pdf>
+  * <https://www.youtube.com/watch?v=1aoVR1yXShs>
+
+
+
+### Ball tracking data
+
+* Guessing Spin - <https://flightedlegggie.wordpress.com/2025/04/30/guesswork-vs-spin-bowling/?s=03>
+* Introducing xCTRL: A Probabilistic Approach to Pitch Location Accuracy - <https://wsb.wharton.upenn.edu/introducing-xctrl-a-probabilistic-approach-to-pitch-location-accuracy/>
+
+
 
 ### Player tracking data
 
@@ -411,6 +457,7 @@ Rugby
 * Effects of collective tactical variables and predictors on the probability of scoring in elite netball - [https://www.tandfonline.com/doi/full/10.1080/24748668.2023.2225274](https://www.tandfonline.com/doi/full/10.1080/24748668.2023.2225274)
 * The influence of match phase and field position on collective team behaviour in Australian Rules football - [https://www.tandfonline.com/doi/full/10.1080/02640414.2019.1586077](%E2%80%B8https://www.tandfonline.com/doi/full/10.1080/02640414.2019.1586077)
 * Quantifying congestion with player tracking data in Australian football - <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272657>
+* Investigating the influence of ecological dynamics on player density metrics in junior Australian Football - <https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2521209?src=exp-la#abstract>
 * Team numerical advantage in Australian rules football: A missing piece of the scoring puzzle? - <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254591>
 * A STATISTICAL MODEL OF SERVE RETURN IMPACT PATTERNS IN PROFESSIONAL TENNIS - <https://arxiv.org/pdf/2202.00583.pdf>
 * Is it worth the effort? Understanding and contextualizing physical metrics in soccer - <https://arxiv.org/pdf/2204.02313.pdf>
@@ -426,11 +473,15 @@ Rugby
 * Masked Autoencoder Pretraining for Event Classification in Elite Soccer
 * HoopTransformer: Advancing NBA Offensive Play Recognition with Self-Supervised Learning from Player Trajectories - <https://link.springer.com/article/10.1007/s40279-024-02030-3>
 * Hoop-MSSL: Multi-Task Self-supervised Representation Learning on Basketball Spatio-Temporal Data - <https://openreview.net/pdf?id=PGqaqOA9s9>
+* TranSPORTmer: A Holistic Approach to Trajectory Understanding in Multi-agent Sports - <https://link.springer.com/chapter/10.1007/978-981-96-0901-7_20?fromPaywallRec=true>
+* 2025 big data bowl (pre-snap) - <https://storage.googleapis.com/kaggle-forum-message-attachments/3110100/21745/BDB%20announcement%202025%20winners.pdf>
+
 
 #### Role assignment
 
 * Fixed to Fluid: Frame-by-Frame Role Classification - <https://github.com/devinpleuler/research/blob/master/frame-by-frame-position.md>
 * Dynamic analysis of team strategy in professional football - <https://static.capabiliaserver.com/frontend/clients/barcanew/wp_prod/wp-content/uploads/2020/01/56ce723e-barca-conference-paper-laurie-shaw.pdf>
+* Spatial roles in hockey special teams - <https://www.degruyterbrill.com/document/doi/10.1515/jqas-2023-0019/html?lang=en>
 
 #### NMF
 
@@ -476,6 +527,15 @@ Rugby
 * NFL Ghosts: A framework for evaluating defender positioning with conditional density estimation - <https://arxiv.org/pdf/2406.17220>
 * Masked autoencoder for multiagent trajectories - <https://link.springer.com/article/10.1007/s10994-024-06647-3>
 * Interactive sequential generative models for team sports - <https://link.springer.com/article/10.1007/s10994-024-06648-2>
+* Event2Tracking: Reconstructing Multi-Agent Soccer Trajectories Using Long-Term Multimodal Context - <https://ojs.aaai.org/index.php/AAAI/article/view/33289>
+
+
+#### Applications of pose data
+
+* What Makes a Dribble Successful? Insights From 3D Pose Tracking Data - <https://arxiv.org/pdf/2506.22503>
+
+
+
 
 ### Racing sports
 
@@ -516,6 +576,16 @@ Rugby
 
 * Understanding training load as exposure and dose - <https://sportrxiv.org/index.php/server/preprint/view/186>
 * Training-Load Management Ambiguities and Weak Logic: Creating Potential Consequences in Sport Training and Performance - <https://journals.humankinetics.com/view/journals/ijspp/aop/article-10.1123-ijspp.2024-0158/article-10.1123-ijspp.2024-0158.xml>
+* Distributed lag models to identify the cumulative effects of training and recovery in athletes using multivariate ordinal wellness data - <https://www.degruyterbrill.com/document/doi/10.1515/jqas-2020-0051/html>
+
+
+#### Non-invasive monitoring
+
+* Invisible Monitoring for Athlete Health and Performance: A Call for a Better Conceptualization and Practical Recommendations - <https://journals.humankinetics.com/view/journals/ijspp/20/6/article-p880.xml>
+* The paradox of “invisible” monitoring: The less you do, the more you do! - [https://hiitscience.com/the-paradox-of-invisible-monitoring-the-less-you-do-the-more-you-do/](https://hiitscience.com/the-paradox-of-invisible-monitoring-the-less-you-do-the-more-you-do/)
+* A Methodological Comparison of Protocols and Analytical Techniques to Assess Submaximal Fitness Tests Outcome Measures - <>
+* 
+
 
 #### Training plan generation and optimisation
 
@@ -527,10 +597,6 @@ Rugby
 * Recommendations for marathon runners: on the application of recommender systems and machine learning to support recreational marathon runners
 * Classification system for AI-enabled consumer-grade wearable technologies aiming to automatize decision-making about individualization of exercise procedures - <https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2024.1500563/abstract>
 
-#### Non-invasive monitoring
-
-* The paradox of “invisible” monitoring: The less you do, the more you do! - [https://hiitscience.com/the-paradox-of-invisible-monitoring-the-less-you-do-the-more-you-do/](https://hiitscience.com/the-paradox-of-invisible-monitoring-the-less-you-do-the-more-you-do/)
-* A Methodological Comparison of Protocols and Analytical Techniques to Assess Submaximal Fitness Tests Outcome Measures - <>
 
 #### Injuries
 
@@ -550,6 +616,14 @@ Rugby
 * How do sports injury epidemiological outcomes vary depending on athletes' response rates to a weekly online questionnaire? An analysis of 39-week follow-up from 391 athletics (track and field) athletes - <https://pubmed.ncbi.nlm.nih.gov/38441349>
 * Predicting noncontact injuries of professional football players using machine learning - <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315481>
 * A multi-season machine learning approach to examine the training load and injury relationship in professional soccer - <https://content.iospress.com/download/journal-of-sports-analytics/jsa240718?id=journal-of-sports-analytics%2Fjsa240718>
+* Re-establishing confidence in Confidence Intervals - <https://sportrxiv.org/index.php/server/preprint/view/546>
+* Sports Injury is Self-exciting: Modelling AFL Injuries Using Hawkes Processes - <https://link.springer.com/article/10.1007/s42979-025-03939-w>
+* Development and internal validation of machine learning prognostic models of sports injuries using self-reported data in athletics (track and field): The influence of quantity and quality of features - <https://doi.org/10.1080/02640414.2025.2517971>
+* Advanced feature engineering in Acute:Chronic Workload Ratio (ACWR) calculation for injury forecasting in elite soccer - <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327960>
+
+
+
+
 
 #### Running and wearables
 
@@ -563,12 +637,14 @@ Rugby
 * Predicting vertical ground reaction force characteristics during running with machine learning - <https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2024.1440033/full>
 * Towards a complex systems approach in sports injury research: simulating running-related injury development with agent-based modelling - <https://bjsm.bmj.com/content/bjsports/53/9/560.full.pdf>
 * The biomechanics of running and running styles: a synthesis - <https://www.tandfonline.com/doi/pdf/10.1080/14763141.2021.1873411>
+* An empirical study of race times in recreational endurance runners - <https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-016-0052-y>
 * Garmin-RUNSAFE
   * The Garmin-RUNSAFE Running Health Study on the aetiology of runningrelated injuries: rationale and design of an 18-month prospective cohort study including runners worldwide
   * Runners with a high body mass index and previous running-related problems is a high-risk population for sustaining anew running-related injury: A 18-month cohort study - <https://onlinelibrary.wiley.com/doi/epdf/10.1002/ejsc.12206>
   * A Paradigm Shift in Understanding Overuse Running-related Injuries: Findings from the Garmin-RUNSAFE Study Point to a Sudden not Gradual Onset
   * Running-Related Injuries Among More Than 7000 Runners in 87 Different Countries: The Garmin-RUNSAFE Running Health Study
   * Using Self-Reported Training Characteristics to Better Understand Who Is More Likely to Sustain Running-Related Injuries Than Others: The Garmin-RUNSAFE Running Health Study
+  * How much running is too much? Identifying high-risk running sessions in a 5200-person cohort study - <https://bjsm.bmj.com/content/early/2025/07/07/bjsports-2024-109380>
 
 #### Match demands
 
@@ -592,6 +668,7 @@ Rugby
 * PERSIST: A Multimodal Dataset for the Prediction of Perceived Exertion during Resistance Training - [https://www.mdpi.com/2306-5729/8/1/9](https://www.mdpi.com/2306-5729/8/1/9)
 * A large-scale multivariate soccer athlete health, performance, and position monitoring dataset - <https://www.nature.com/articles/s41597-024-03386-x>
 * A public data set of spatio-temporal match events in soccer competitions - <https://doi.org/10.1038/s41597-019-0247-7>
+* An integrated dataset of spatiotemporal and event data in elite soccer - <https://www.nature.com/articles/s41597-025-04505-y?s=03>
 * 
 
 - Tennis - https://github.com/skoval/deuce
@@ -672,6 +749,7 @@ Rugby
 * SoccerNet 2023 Challenges Results - <https://arxiv.org/pdf/2309.06006.pdf>
 * SoccerNet 2025 - <https://www.soccer-net.org/challenges/2025>
 * <https://github.com/roboflow/supervision>
+* Broadcast analytics – an evaluation of video-based tracking systems with constrained player visibility - <https://www.tandfonline.com/doi/abs/10.1080/24733938.2025.2533808>
 
 #### Player detection
 
@@ -682,6 +760,7 @@ Rugby
 * Homography based player identification in live sports - <https://www.amazon.science/publications/homography-based-player-identification-in-live-sports>
 * Learning Football Body-Orientation as a Matter of Classification - <https://arxiv.org/pdf/2106.00359>
 * DeepSportLab: a Unified Framework for Ball Detection, Player Instance Segmentation and Pose Estimation in Team Sports Scenes - <https://arxiv.org/abs/2112.00627>
+
 
 #### Player/Team ID
 
@@ -705,6 +784,7 @@ Rugby
 * Extraction of Positional Player Data From Broadcast Soccer Videos - <https://openaccess.thecvf.com/content/WACV2022/papers/Theiner_Extraction_of_Positional_Player_Data_From_Broadcast_Soccer_Videos_WACV_2022_paper.pdf>
 * Multi-task Learning for Joint Re-identification, Team Affiliation, and Role Classification for Sports Visual Tracking - <https://dl.acm.org/doi/pdf/10.1145/3606038.3616172>
 * COMPUTER VISION IN NETBALL - <https://www.researchgate.net/profile/Paul-Smith-95/publication/347304516_COMPUTER_VISION_IN_NETBALL/links/5fd98d5da6fdccdcb8cc9fdb/COMPUTER-VISION-IN-NETBALL.pdf>
+* GTA: Global Tracklet Association for Multi-Object Tracking in Sports - <https://github.com/sjc042/gta-link>
 
 
 #### Ball tracking
@@ -755,6 +835,11 @@ Rugby
 * The use and perceived value of telestration tools in elite football - [https://www.tandfonline.com/doi/abs/10.1080/24748668.2020.1753965?journalCode=rpan20](https://www.tandfonline.com/doi/abs/10.1080/24748668.2020.1753965?journalCode=rpan20)
 
 
+#### Markerless mocap
+
+* Reliability of artificial intelligence-driven markerless motion capture in gait analyses of healthy adults - <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316119>
+
+
 
 
 ### CV in biomech
@@ -774,8 +859,15 @@ Rugby
 * LoFTR: Detector-Free Local Feature Matching with Transformers [https://zju3dv.github.io/loftr/](https://zju3dv.github.io/loftr/)
 * Reprojecting the Perseverance landing footage onto satellite imagery - [https://matthewearl.github.io/2021/03/06/mars2020-reproject/](https://matthewearl.github.io/2021/03/06/mars2020-reproject/)
 * Smooth Globally Warp Locally: Video Stabilization using Homography Fields - [https://cs.adelaide.edu.au/~tjchin/lib/exe/fetch.php?media=papers:fields_preprint.pdf](https://cs.adelaide.edu.au/~tjchin/lib/exe/fetch.php?media=papers:fields_preprint.pdf)
+* HuggingFace
+  * SuperGlue - <https://huggingface.co/docs/transformers/main/en/model_doc/superglue>
+  * Efficient Loftr - <https://huggingface.co/docs/transformers/main/en/model_doc/efficientloftr#efficientloftr>
 
 
+### Object detection
+
+* RF-DETR - <https://github.com/roboflow/rf-detr>
+* GroundingDINO - <https://github.com/IDEA-Research/GroundingDINO>
 
 ### Multi-object tracking
 
@@ -783,7 +875,8 @@ Rugby
 * MAT: Motion-aware multi-object tracking - [https://www.sciencedirect.com/science/article/pii/S0925231221019627](https://www.sciencedirect.com/science/article/pii/S0925231221019627)
 * Selection of object detections using overlap map predictions - <https://link.springer.com/article/10.1007/s00521-022-07469-x>
 * Keypoint Promptable Re-Identification - <https://arxiv.org/pdf/2407.18112>
-
+* CAMELTrack: Context-Aware Multi-cue ExpLoitation for Online Multi-Object Tracking - <https://arxiv.org/pdf/2505.01257>
+* BoostTrack/BoostTrack++ repository - <https://github.com/vukasin-stanojevic/BoostTrack>
 
 ---
 
@@ -853,9 +946,8 @@ Rugby
   * Harrell - Statistical Problems to Document and to Avoid - [https://discourse.datamethods.org/t/author-checklist/3407](https://discourse.datamethods.org/t/author-checklist/3407)
   * Reference Collection to push back against “Common Statistical Myths” - [https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)
 * Publish your raw data and your speculations, then let other people do the analysis: track and field edition - [https://statmodeling.stat.columbia.edu/2017/08/21/publish-raw-data-speculations-let-people-analysis-track-field-edition/](https://statmodeling.stat.columbia.edu/2017/08/21/publish-raw-data-speculations-let-people-analysis-track-field-edition/)
-* 
-* Packages:
 
+* Packages:
   * [https://github.com/adefazio/classifierplots](https://github.com/adefazio/classifierplots)
 
 
@@ -910,6 +1002,15 @@ Rugby
 * With Great Power Comes Great Responsibility: Common Errors in Meta-Analyses and Meta-Regressions in Strength & Conditioning Research - <https://link.springer.com/article/10.1007/s40279-022-01766-0?s=03#Bib1>
 * A systematic review of sport-related packages within the R CRAN repository - <https://journals.sagepub.com/doi/10.1177/17479541221136238?s=03>
 * Replication concerns in sports and exercise science: a narrative review of selected methodological issues in the field - <https://royalsocietypublishing.org/doi/10.1098/rsos.220946?s=03>
+* Sports Metaresearch: An Emerging Discipline of Sport Science and Medicine - <https://link.springer.com/article/10.1007/s40279-025-02181-x>
+
+
+### Exploratory research
+
+* Exploratory analyses: How to meaningfully interpret and report them - <https://onlinelibrary.wiley.com/doi/full/10.1002/pmrj.12980>
+* Exploratory research in sport and exercise science: Perceptions, challenges, and recommendations - <https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2486871?s=03#d1e199>
+* Exploratory reports: A new article type for Cortex - <https://www.sciencedirect.com/science/article/pii/S0010945217302393?via%3Dihub>
+
 
 ### Power and sample size
 
@@ -918,7 +1019,13 @@ Rugby
   * *This review examines recent advances in sample size planning, not only from the perspective of an individual researcher, but also with regard to the goal of developing cumulative knowledge. Psychologists have traditionally thought of sample size planning in terms of power analysis. Although we review recent advances in power analysis, our main focus is the desirability of achieving accurate parameter estimates, either instead of or in addition to obtaining sufficient power. Accuracy in parameter estimation (AIPE) has taken on increasing importance in light of recent emphasis on effect size estimation and formation of confidence intervals. The review provides an overview of the logic behind sample size planning for AIPE and summarizes recent advances in implementing this approach in designs commonly used in psychological research.*
 * Power, precision, and sample size estimation in sport and exercise science research - [https://www.tandfonline.com/doi/pdf/10.1080/02640414.2020.1776002](https://www.tandfonline.com/doi/pdf/10.1080/02640414.2020.1776002)
 * TWO SAMPLE-SIZE PRACTICES THAT I DON’T RECOMMEND - [http://homepage.divms.uiowa.edu/~rlenth/Power/2badHabits.pdf](http://homepage.divms.uiowa.edu/~rlenth/Power/2badHabits.pdf)
-* Exploratory analyses: How to meaningfully interpret and report them - <https://onlinelibrary.wiley.com/doi/full/10.1002/pmrj.12980>
+* Sources of variation - <https://www.nature.com/articles/nmeth.3224>
+* Sample size estimation revisited - <https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2499403#d1e416>
+* Importance of sample size on the quality and utility of AI-based prediction models for healthcare - <https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00021-4/fulltext>
+
+#### Packages and tools
+
+* Introduction to Superpower - <https://cran.r-project.org/web/packages/Superpower/vignettes/intro_to_superpower.html>
 
 #### Sample size calculations for clinical prediction models
 
@@ -974,6 +1081,7 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * [https://m-clark.github.io/documents.html](https://m-clark.github.io/documents.html)
 * [https://www.fromthebottomoftheheap.net/2018/04/21/fitting-gams-with-brms/](https://www.fromthebottomoftheheap.net/2018/04/21/fitting-gams-with-brms/)
 * Hierarchical generalized additive models in ecology: an introduction with mgcv - [https://peerj.com/articles/6876/](https://peerj.com/articles/6876/)
+* Generalized Additive Models for Location, Scale and Shape - <https://www.gamlss.com/>
 
 ### Interpretable machine learning
 
@@ -982,7 +1090,7 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 ### Bayesian
 
 * Bayesian workflow, Gelman - [https://arxiv.org/pdf/2011.01808.pdf](https://arxiv.org/pdf/2011.01808.pdf)
-* Visualization in Bayesian workflow - <https://arxiv.org/pdf/1709.01449>
+* Visualization in Bayesian workflow - <https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12378>
 * Bayesian statistics and modelling - <https://www.nature.com/articles/s43586-020-00001-2>
 * brms: An R Package for Bayesian Multilevel Models using Stan - [https://cran.r-project.org/web/packages/brms/vignettes/brms_overview.pdf](https://cran.r-project.org/web/packages/brms/vignettes/brms_overview.pdf)
 * Advanced Bayesian Multilevel Modeling with the R Package brms - [https://cran.r-project.org/web/packages/brms/vignettes/brms_multilevel.pdf](https://cran.r-project.org/web/packages/brms/vignettes/brms_multilevel.pdf)
@@ -990,6 +1098,8 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * A visual introduction to Gaussian Belief Propagation - [https://gaussianbp.github.io/](https://gaussianbp.github.io/)
 * BOOK: Bayesian Modeling and Computation in Python - [https://bayesiancomputationbook.com/welcome.html](https://bayesiancomputationbook.com/welcome.html)
 * Bayesian Analytical Methods in Cardiovascular Clinical Trials: Why, When, and How - <https://onlinecjc.ca/article/S0828-282X%2824%2901130-9/fulltext>
+* Beyond data: leveraging non-empirical information and expert knowledge in Bayesian model calibration - <https://arxiv.org/pdf/2505.21934>
+
 
 #### Bayesian and sport
 
@@ -999,6 +1109,7 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * Bayesian Approaches to Quantifying Uncertainty in Sport and Exercise Measurements - <https://sportrxiv.org/index.php/server/preprint/view/261>
 * Understanding empirical Bayes estimation (using baseball statistics) - <http://varianceexplained.org/r/empirical_bayes_baseball/>
   * Empirical Bayes - <https://m-clark.github.io/posts/2019-06-21-empirical-bayes/>
+* Bayesian updating tool to assess effectiveness of S&C interventions - <https://www.researchgate.net/publication/354418809_Bayesian_updating_tool_to_assess_effectiveness_of_SC_interventions>
 
 ### Mixed effect models
 
@@ -1018,6 +1129,12 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * Random effects and penalized splines are the same thing - [https://www.tjmahr.com/random-effects-penalized-splines-same-thing/](https://www.tjmahr.com/random-effects-penalized-splines-same-thing/)
 * Elements of Applied Biostatistics: Chapter 16 Models with random factors – linear mixed models - <https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/lmm.html>
 * Hierarchical Modeling - <https://betanalpha.github.io/assets/case_studies/hierarchical_modeling.html>
+* How hierarchical models improve point estimates of model parameters at the individual level - <https://www.sciencedirect.com/science/article/pii/S0022249616300025>
+
+#### Location and scale models
+
+* <https://bookdown.org/content/4857/adventures-in-covariance.html#learn-more-about-your-data-with-the-melsm.>
+* Generalized Additive Models for Location, Scale and Shape - <https://www.gamlss.com/>
 
 #### Covariance structures & temporal models
 
@@ -1054,6 +1171,11 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * A comparison of zero-inflated and hurdle models for modeling zero-inflated count data - <https://jsdajournal.springeropen.com/articles/10.1186/s40488-021-00121-4>
 
 
+### Proportions
+
+* Analysing continuous proportions in ecology and evolution: A practical introduction to beta and Dirichlet regression - <https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13234>
+
+
 
 ### Stein's Pardox
 
@@ -1083,6 +1205,7 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 #### Evaluation
 
 * In Machine Learning Predictions for Health Care the Confusion Matrix is a Matrix of Confusion - [https://www.fharrell.com/post/mlconfusion/](https://www.fharrell.com/post/mlconfusion/)
+* Performance evaluation of predictive AI models to support medical decisions: Overview and guidance - <https://arxiv.org/abs/2412.10288>
 
 ### Data viz
 
@@ -1113,6 +1236,11 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * ALASCA: An R package for longitudinal and cross-sectional analysis of multivariate data by ASCA-based methods - <https://www.frontiersin.org/articles/10.3389/fmolb.2022.962431/full>
 
 
+#### Item reduction
+
+* Bayesian Design Optimization: An Application to Item Reduction in Scale Development Research - <https://haines-lab.com/post/bayesian-design-optimization-an-application-to-item-reduction-in-scale-development-research/>
+
+
 ### Clustering
 
 * Novel diabetes subgroups (Maarten van Smeden, Frank E Harrell Jr, Darren L Dahly) - <https://www.thelancet.com/journals/landia/article/PIIS2213-8587(18)30124-4/fulltext>
@@ -1128,59 +1256,39 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * Synthetic data for sharing and exploration in high performance sport - <https://sportrxiv.org/index.php/server/preprint/view/394>
 * A comprehensive review on GANs for time-series signals - <https://link.springer.com/article/10.1007/s00521-022-06888-0>
 
+#### Synthetic consumers
+
+* Synthetic Consumers: The Promise, The Reality, and The Future - <https://www.pymc-labs.com/blog-posts/synthetic-consumers/>
+* The Challenge of Using LLMs to Simulate Human Behavior: A Causal Inference Perspective - <https://arxiv.org/pdf/2312.15524v1>
+
 ---
 
 # Conferences and presentations
+
+* MIT Sloan Sports Analytics [https://www.sloansportsconference.com/](https://www.sloansportsconference.com/)
+* New England Symposium on Statistics in Sports (NESSIS) [https://www.nessis.org/](https://www.nessis.org/)
+* The Cascadia Symposium on Statistics in Sports (CASSIS) <http://www.cascadiasports.com/>
+* Workshop on Machine Learning and Data Mining for Sports Analytics - <https://dtai.cs.kuleuven.be/events/MLSA24/>
+* International Symposium on Computer Science in Sport (IACSS) - <https://iacssconference.org/>
+* International Sports Analytics Conference and Exhibition (ISACE) - <https://formal-analysis.com/isace/2025>
+* UCD Smurfit School of Business Sports Analytics Conference - <https://sites.google.com/view/ucd-ssac/home>
+* Mathsport International - <https://www.mathsportinternational.com/>
+* ANZIAM MathSport - <https://www.anziam.org.au/Mathsport>
+* MathSport Asia - <https://mathsportasia.com/>
+* CVPR Sports - <https://vap.aau.dk/cvsports/>
+* [http://large-scale-sports-analytics.org](http://large-scale-sports-analytics.org)
+
 
 ### Sloan Sports Analytics Research Papers
 
 * [https://www.sloansportsconference.com/research-paper-competition#Research-Paper-Finalists](https://www.sloansportsconference.com/research-paper-competition#Research-Paper-Finalists)
 
-### KDD-Sports Analytics
-
-[http://large-scale-sports-analytics.org](http://large-scale-sports-analytics.org)
-
-### Euro-KDD Sports analytics
-
-[https://dtai.cs.kuleuven.be/events/MLSA19/links.php](https://dtai.cs.kuleuven.be/events/MLSA19/links.php)
-
-### CVPR-sports
-
-[http://www.vap.aau.dk/cvsports/](http://www.vap.aau.dk/cvsports/)
 
 ### Videos
 
-[https://www.youtube.com/watch?v=WjFdD7PDGw0&amp;t=9s&amp;index=2&amp;list=WL](https://www.youtube.com/watch?v=WjFdD7PDGw0&t=9s&index=2&list=WL)
-Imitation Learning Tutorial ICML 2018
-Tutorial session at the International Conference on Machine Learning (ICML 2018) - Yisong Yue (Caltech) & Hoang M. Le (Caltech). This is a high level talk about the machine learning techniques that people are using to train AI sports players like the ‘Ghosting’ video we watched in class.
 
-[https://www.youtube.com/watch?v=VkhPT2cPGLA&amp;index=4&amp;list=PLRPywWPWMCkoTF6yQQsI5Mes95ystQbXU&amp;t=2248s](https://www.youtube.com/watch?v=VkhPT2cPGLA&index=4&list=PLRPywWPWMCkoTF6yQQsI5Mes95ystQbXU&t=2248s)
-Lecture: Machine Learning in Sports by Sam Robertson
-Good overview lecture on machine learning applications in sports.
-
-[https://www.youtube.com/watch?v=YBY9viGTdU0&amp;index=2&amp;list=PLRPywWPWMCkoTF6yQQsI5Mes95ystQbXU&amp;t=388s](https://www.youtube.com/watch?v=YBY9viGTdU0&index=2&list=PLRPywWPWMCkoTF6yQQsI5Mes95ystQbXU&t=388s)
-2015 NESSIS - Talk by Sam Robertson (Western Bulldogs)
-"A method to assess the influence of individual player performance distribution on match outcome in team sports” presented by Sam Robertson at the 2015 New England Symposium on Statistics in Sports, held on Sept 26, 2015, at the Harvard University
-
-[https://www.youtube.com/watch?v=O0rKs6P0rnY&amp;index=5&amp;list=PLRPywWPWMCkoTF6yQQsI5Mes95ystQbXU&amp;t=62s](https://www.youtube.com/watch?v=O0rKs6P0rnY&index=5&list=PLRPywWPWMCkoTF6yQQsI5Mes95ystQbXU&t=62s)
-Statistical Models for Sport in R – Stephanie Kovalchik (Tennis Australia)
-A hand on tutorial and walkthrough on doing sports analytics in R.
-
-[https://www.youtube.com/watch?v=djD-yL3vWNQ](https://www.youtube.com/watch?v=djD-yL3vWNQ)
-2017 NESSIS - Talk by Ronald Yurko
-"NFLWAR: A reproducible method for offensive player evaluation in football" presented by Ronald Yurko at the 2017 New England Symposium on Statistics in Sports, held on Sept 23, 2017, at the Harvard University Science Center.
-
-[https://www.youtube.com/watch?v=RN2FLKoKC50](https://www.youtube.com/watch?v=RN2FLKoKC50)
-2017 NESSIS - Talk by Nathan Sandholtz
-"Replaying the NBA: Using Markov Decision Processes to test decision-making from the 2015-2016 regular season” presented by Nathan Sandholtz at the 2017 New England Symposium on Statistics in Sports, held on Sept 23, 2017, at the Harvard
-
-[https://www.youtube.com/user/42analytics/videos](https://www.youtube.com/user/42analytics/videos)
-Sloan sports analytics conference presentations
-Library of many past sports analytics presentations.
-
-[https://www.anziam.org.au/MathSport+Proceedings](https://www.anziam.org.au/MathSport+Proceedings)
-MathSport Proceedings
-ANZIAM Mathsport has placed conference proceedings online to make the papers available to researchers everywhere.
+* Sloan sports analytics conference presentations - [https://www.youtube.com/user/42analytics/videos](https://www.youtube.com/user/42analytics/videos)
+* NESSIS presentations - <https://www.youtube.com/@markglickman7999/videos>
 
 ---
 
@@ -1204,18 +1312,9 @@ ANZIAM Mathsport has placed conference proceedings online to make the papers ava
 
 > The twenty-first century has seen a breathtaking expansion of statistical methodology, both in scope and in influence. 'Big data', 'data science', and 'machine learning' have become familiar terms in the news, as statistical methods are brought to bear upon the enormous data sets of modern science and commerce. How did we get here? And where are we going? This book takes us on an exhilarating journey through the revolution in data analysis following the introduction of electronic computation in the 1950s. Beginning with classical inferential theories - Bayesian, frequentist, Fisherian - individual chapters take up a series of influential topics: survival analysis, logistic regression, empirical Bayes, the jackknife and bootstrap, random forests, neural networks, Markov chain Monte Carlo, inference after model selection, and dozens more. The distinctly modern approach integrates methodology and algorithms with statistical inference. The book ends with speculation on the future direction of statistics and data science.
 
----
+### Sport Analytics
 
-# Programming
+#### Textbooks
 
-### R
-
-* R Programming - [https://www.coursera.org/learn/r-programming](https://www.coursera.org/learn/r-programming)
-* Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - [https://moderndive.com/](https://moderndive.com/)
-* [https://github.com/uc-r/Intro-R](https://github.com/uc-r/Intro-R)
-
-### Python
-
-* How to create a Python package in 2022 - [https://mathspp.com/blog/how-to-create-a-python-package-in-2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022)
-
-
+* Artificial Intelligence and Machine Learning in Sports Science - <https://link.springer.com/book/10.1007/978-3-662-70155-3>
+* Handbook of Statistical Methods and Analyses in Sports - <https://www.routledge.com/Handbook-of-Statistical-Methods-and-Analyses-in-Sports/Albert-Glickman-Swartz-Koning/p/book/9780367331016?srsltid=AfmBOoo2zI72hio9bWdWFYKPAO0cJ78IAINj_dbRc1ckXjCg_5YmWlAV>
