@@ -26,6 +26,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
   * Team strength
   * Sports betting market data
 * Methodology and evaluation in sports analytics: challenges, approaches, and lessons learned - <https://link.springer.com/article/10.1007/s10994-024-06585-0>
+* Editorial for Sports Performance section of Journal of Sports Sciences: Moving match analysis forward – Guidelines and perspectives - <https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2535850#d1e115>
 * Lessons from Sports Statistics - <https://www.tandfonline.com/doi/abs/10.1080/00031305.1997.10474403?s=03>
 * Methods of performance analysis in team invasion sports: A systematic review - [https://www.tandfonline.com/doi/full/10.1080/02640414.2020.1785185](https://www.tandfonline.com/doi/full/10.1080/02640414.2020.1785185)
 * Methods of performance analysis in women’s Australian football: a scoping review - <https://peerj.com/articles/14946/>
@@ -40,6 +41,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Basketball analytics - https://squared2020.com/
 * UFC analytics - [https://literalfightnerd.com/](https://literalfightnerd.com/)
 * STATS LLC patents: <https://scholar.google.com.au/citations?hl=en&user=bn4x2d8AAAAJ&view_op=list_works&sortby=pubdate>
+* Soccermatics - <https://soccermatics.readthedocs.io/en/latest/index.html#>
 
 * Assessment of Physical, Technical, and Tactical Analysis in the Australian Football League: A Systematic Review - <https://link.springer.com/article/10.1186/s40798-022-00518-8>
 
@@ -114,6 +116,9 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * An investigation of data-driven player positional roles within the Australian Football League Women’s competition using technical skill match-play data- <https://journals.sagepub.com/doi/pdf/10.1177/17479541231203895>
 * Is Stephen Curry really a guard? New perspective on players typology using functional data analysis - <https://arxiv.org/abs/2504.21761?s=03>
 * Characterizing player’s playing styles based on player vectors for each playing position in the Chinese Football Super League - <https://doi.org/10.1080/02640414.2022.2096771>
+* A Bayesian marked spatial point processes model for basketball shot chart - [https://www.degruyter.com/document/doi/10.1515/jqas-2019-0106/html](https://www.degruyter.com/document/doi/10.1515/jqas-2019-0106/html)
+* Factorized Point Process Intensities: A Spatial Analysis of Professional Basketball - [https://arxiv.org/pdf/1401.0942.pdf](https://arxiv.org/pdf/1401.0942.pdf)
+* Bayesian Group Learning for Shot Selection of Professional Basketball Players - <https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.324>
 
 
 ### Forecasting player performance
@@ -253,6 +258,8 @@ Basketball:
 * Revising home advantage in sport – home advantage mediation (HAM) model - <https://www.tandfonline.com/doi/full/10.1080/1750984X.2024.2358491#abstract>
 * Bye-Bye, Bye Advantage: Estimating the competitive impact of rest differential in the National Football League - <https://arxiv.org/pdf/2408.10867>
 * BLUE: A Bayesian Approach to College Football Ratings - <https://lauerjames.github.io/BLUE/?s=03>
+* How to extend Elo: a Bayesian perspective - <https://www.degruyterbrill.com/document/doi/10.1515%2Fjqas-2020-0066/pdf?stream=true>
+* Extension of the Elo rating system to margin of victory - <https://www.sciencedirect.com/science/article/pii/S0169207020300157?fr=RR-2&ref=pdf_download&rr=96a20a95ba3729a4>
 
 #### Tipping models
 
@@ -280,6 +287,8 @@ Basketball:
 * A holistic analysis of collective behaviour and team performance in Australian Football via structural equation modelling - [https://www.tandfonline.com/doi/full/10.1080/24733938.2022.2046286](https://www.tandfonline.com/doi/full/10.1080/24733938.2022.2046286)
 * Estimating the causal effect of defensive formation on yards gained in run plays - [https://operations.nfl.com/media/4199/bdb_kruchten.pdf](https://operations.nfl.com/media/4199/bdb_kruchten.pdf)
 * FROM GRAPES AND PRUNES TO APPLES AND APPLES: USING MATCHED METHODS TO ESTIMATE OPTIMAL ZONE ENTRY DECISION-MAKING IN THE NATIONAL HOCKEY LEAGUE - <https://rpubs.com/atoumi/zone-entries-nhl>
+* Offensive Personnel vs. Men in the Box: A Football Causality Tutorial - <https://web.archive.org/web/20230327192059/https://www.footballoutsiders.com/stat-analysis/2019/offensive-personnel-men-box>
+* The use of directed acyclic graphs (DAGs) in physical activity and nutrition research - <https://sportrxiv.org/index.php/server/preprint/view/556/version/716>
 
 ### Decision making
 
@@ -311,6 +320,7 @@ Basketball:
 * Down, set, hut! Explaining variability in snap timing on plays with motion - <https://www.kaggle.com/code/tindata/down-set-hut/notebook>
 * Swinging, Fast and Slow: Interpreting variation in baseball swing tracking metrics - <https://arxiv.org/pdf/2507.01238>
 * Measuring skill via player dynamics in football dribbling - <https://www.nature.com/articles/s41598-023-45914-6?fromPaywallRec=false>
+* Monitoring meaningful rugby ratings - <https://www-tandfonline-com.ez.library.latrobe.edu.au/doi/pdf/10.1080/0264041031000102006?needAccess=true&>
 
 #### Multi-trial/test events
 
@@ -357,6 +367,7 @@ Soccer
 * Valuing On-the-Ball Actions in Soccer: A Critical Comparison of xT and VAEP - [https://tomdecroos.github.io/reports/xt_vs_vaep.pdf](https://tomdecroos.github.io/reports/xt_vs_vaep.pdf)
 * INTRODUCING A POSSESSION VALUE FRAMEWORK - [https://www.statsperform.com/resource/introducing-a-possession-value-framework/](https://www.statsperform.com/resource/introducing-a-possession-value-framework/)
 * A framework for the fine-grained evaluation of the instantaneous expected value of soccer possessions - [https://link.springer.com/article/10.1007/s10994-021-05989-6](https://link.springer.com/article/10.1007/s10994-021-05989-6)
+* Revisiting Expected Possession Value in Football: Introducing a Benchmark, U-Net Architecture, and Reward and Risk for Passes - <https://arxiv.org/abs/2502.02565>
 * Decroos, T., Bransen, L., Van Haaren, J., & Davis, J. (2019). Actions speak louder than goals: Valuing player actions in soccer. In: Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining (pp. 1851–1861).
 * Link, D., Lang, S., & Seidenschwarz, P. (2016). Real time quantification of dangerousity in football using spatiotemporal tracking data. PLoS ONE, 11(12), e0168768.
 * Rudd, S. (2011). A framework for tactical analysis and individual offensive production assessment in soccer using markov chains. In New England symposium on statistics in sports. http://nessis.org/nessis11/rudd.pdf.
@@ -367,6 +378,9 @@ Soccer
 * Guide to Expected Possession Value - [https://abhiamishra.github.io/ggshakeR/articles/Guide_to_EPV.html](https://abhiamishra.github.io/ggshakeR/articles/Guide_to_EPV.html)
 * Guide to Expected Threat - [https://abhiamishra.github.io/ggshakeR/articles/Guide_to_Exp_Threat.html](https://abhiamishra.github.io/ggshakeR/articles/Guide_to_Exp_Threat.html)
 * Creating an augmented possession framework to evaluate phases of play and application in international football - <https://journals.sagepub.com/doi/10.1177/22150218241290988>
+* Joris Bekkers - Cutting Edge Football Analytics in Python | PyData London 25 - <https://www.youtube.com/watch?v=PUXU3SokbW0&ab_channel=PyData>
+    * <https://github.com/UnravelSports/unravelsports>
+    * A Graph Neural Network deep-dive into successful counterattacks - <https://arxiv.org/pdf/2411.17450>
 
 NFL
 
@@ -428,7 +442,7 @@ Rugby
 
 * Optimizing	Baseball	Fielder	Positioning	with	Consideration	for	Adaptable	Hitters	- <https://cdn.prod.website-files.com/5f1af76ed86d6771ad48324b/65bfe4996c2c54376b78d238_193963%20-%20Optimizing%20Baseball%20Fielder%20Positioning%20with%20Consideration%20for%20Adaptable%20Hitters.pdf>
   * <https://www.youtube.com/watch?v=1aoVR1yXShs>
-
+* The Sacred Nine Spots - <https://arnavj.substack.com/p/the-sacred-nine-spots>
 
 
 ### Ball tracking data
@@ -488,6 +502,7 @@ Rugby
 * Understanding Trends in the NBA: How NNMF Works - [https://squared2020.com/2018/10/04/understanding-trends-in-the-nba-how-nnmf-works/](https://squared2020.com/2018/10/04/understanding-trends-in-the-nba-how-nnmf-works/)
 * Finding Patterns in Statsbomb Data: Non-Negative Matrix Factorization Applications - [https://znstrider.github.io/2018-11-14-SBData-Non-Negative-Matrix-Factorization/](https://znstrider.github.io/2018-11-14-SBData-Non-Negative-Matrix-Factorization/)
 * A Bayesian marked spatial point processes model for basketball shot chart - [https://www.degruyter.com/document/doi/10.1515/jqas-2019-0106/html](https://www.degruyter.com/document/doi/10.1515/jqas-2019-0106/html)
+* Factorized Point Process Intensities: A Spatial Analysis of Professional Basketball - [https://arxiv.org/pdf/1401.0942.pdf](https://arxiv.org/pdf/1401.0942.pdf)
 * Decomposing and Smoothing Soccer Spatial Tendencies - <https://tonyelhabr.rbind.io/posts/decomposition-smoothing-soccer/>
 
 #### Pitch control
@@ -528,7 +543,12 @@ Rugby
 * Masked autoencoder for multiagent trajectories - <https://link.springer.com/article/10.1007/s10994-024-06647-3>
 * Interactive sequential generative models for team sports - <https://link.springer.com/article/10.1007/s10994-024-06648-2>
 * Event2Tracking: Reconstructing Multi-Agent Soccer Trajectories Using Long-Term Multimodal Context - <https://ojs.aaai.org/index.php/AAAI/article/view/33289>
+* PySport - Patrick Lucey - Generating complete tracking data using event data and remote video - <https://www.youtube.com/watch?v=s1Erc6FZoS8&ab_channel=PySport>
 
+
+#### Game state with tracking data
+
+* Self-Supervised Representations for Tracking Data - <https://karun.in/blog/ssr-tracking-data.html>
 
 #### Applications of pose data
 
@@ -577,6 +597,7 @@ Rugby
 * Understanding training load as exposure and dose - <https://sportrxiv.org/index.php/server/preprint/view/186>
 * Training-Load Management Ambiguities and Weak Logic: Creating Potential Consequences in Sport Training and Performance - <https://journals.humankinetics.com/view/journals/ijspp/aop/article-10.1123-ijspp.2024-0158/article-10.1123-ijspp.2024-0158.xml>
 * Distributed lag models to identify the cumulative effects of training and recovery in athletes using multivariate ordinal wellness data - <https://www.degruyterbrill.com/document/doi/10.1515/jqas-2020-0051/html>
+* Predicting fatigue using countermovement jump force-time signatures: PCA can distinguish neuromuscular versus metabolic fatigue - <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219295>
 
 
 #### Non-invasive monitoring
@@ -690,6 +711,10 @@ Rugby
 
 * [https://twitter.com/DSamangy/status/1492206283214114817?t=by17xVuXOVQBr0-eacK7QQ&amp;s=03](https://twitter.com/DSamangy/status/1492206283214114817?t=by17xVuXOVQBr0-eacK7QQ&s=03)
 
+
+### Data formatting
+
+* Common Data Format (CDF): A Standardized Format for Match-Data in Football (Soccer) - <https://arxiv.org/abs/2505.15820>
 
 ### CV in Sport Open data
 
@@ -833,6 +858,7 @@ Rugby
 
 * Assessing the Efficacy of Video Telestration in Aiding Memory Recall Among Elite Professional Football Players - [https://journals.iupui.edu/index.php/sij/article/view/26317/24440](https://journals.iupui.edu/index.php/sij/article/view/26317/24440)
 * The use and perceived value of telestration tools in elite football - [https://www.tandfonline.com/doi/abs/10.1080/24748668.2020.1753965?journalCode=rpan20](https://www.tandfonline.com/doi/abs/10.1080/24748668.2020.1753965?journalCode=rpan20)
+* Sports video telestration - <https://www.taylorfrancis.com/chapters/mono/10.4324/9781003375463-7/sports-video-telestration-adam-cullinane-gemma-davies-peter-donoghue>
 
 
 #### Markerless mocap
@@ -1068,6 +1094,11 @@ Rugby
 * <https://stats.stackexchange.com/questions/544926/why-do-we-do-matching-for-causal-inference-vs-regressing-on-confounders>
 * <https://stats.stackexchange.com/questions/481110/propensity-score-matching-what-is-the-problem/481620#481620>
 
+#### Creating DAGs
+
+* Evidence synthesis for constructing directed acyclic graphs (ESC-DAGs): a novel and systematic method for building directed acyclic graphs - <https://pubmed.ncbi.nlm.nih.gov/31325312/>
+* How to develop causal directed acyclic graphs for observational health research: a scoping review - <https://pubmed.ncbi.nlm.nih.gov/39327907/>
+
 
 ### Statistical tests vs. Linear models
 
@@ -1099,6 +1130,7 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * BOOK: Bayesian Modeling and Computation in Python - [https://bayesiancomputationbook.com/welcome.html](https://bayesiancomputationbook.com/welcome.html)
 * Bayesian Analytical Methods in Cardiovascular Clinical Trials: Why, When, and How - <https://onlinecjc.ca/article/S0828-282X%2824%2901130-9/fulltext>
 * Beyond data: leveraging non-empirical information and expert knowledge in Bayesian model calibration - <https://arxiv.org/pdf/2505.21934>
+* Visualizing the differences between Bayesian posterior predictions, linear predictions, and the expectation of posterior predictions - <https://www.andrewheiss.com/blog/2022/09/26/guide-visualizing-types-posteriors/>
 
 
 #### Bayesian and sport
@@ -1289,6 +1321,7 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 
 * Sloan sports analytics conference presentations - [https://www.youtube.com/user/42analytics/videos](https://www.youtube.com/user/42analytics/videos)
 * NESSIS presentations - <https://www.youtube.com/@markglickman7999/videos>
+* PySport - <https://www.youtube.com/@PySport-fg2mu/videos>
 
 ---
 
