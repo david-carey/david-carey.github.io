@@ -878,7 +878,6 @@ Rugby
 * SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports - <https://arxiv.org/html/2506.03335v1>
 * CAMELTrack - <https://github.com/TrackingLaboratory/CAMELTrack>
 * Multi Player Tracking in Ice Hockey with Homographic Projections - <https://arxiv.org/html/2405.13397v1>
-* 
 
 
 
