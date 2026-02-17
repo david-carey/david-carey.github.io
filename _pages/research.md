@@ -27,7 +27,7 @@ In most cases I will reply to full text requests sent via [Researchgate](https:/
 
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1249/mss.0000000000001685"></div>
 
-*************
+**************
 
 ### Predictive modelling of training loads and injury in Australian football ([pdf](http://david-carey.github.io/files/[IJCSS] Carey - Predictive Modelling of Training Loads and Injury in Australian Football.pdf)) ([link](https://content.sciendo.com/downloadpdf/journals/ijcss/17/1/article-p49.xml))
 
