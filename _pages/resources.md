@@ -49,6 +49,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Soccermatics - <https://soccermatics.readthedocs.io/en/latest/index.html#>
 
 * Assessment of Physical, Technical, and Tactical Analysis in the Australian Football League: A Systematic Review - <https://link.springer.com/article/10.1186/s40798-022-00518-8>
+* The use of machine learning in performance analysis in invasion games: Umbrella review of reviews - <https://www.tandfonline.com/doi/full/10.1080/02640414.2026.2636863>
 
 
 ### Sport Analytics Education
@@ -252,6 +253,8 @@ AFL:
 * [https://thearcfooty.com/2017/02/07/win-probability-estimates-what-are-they-good-for/](https://thearcfooty.com/2017/02/07/win-probability-estimates-what-are-they-good-for/)
 * AFLaytics - Quantifying what makes a good game of footy - [https://www.aflalytics.com/blog/2018/7/quantifying-good-match-footy/](https://www.aflalytics.com/blog/2018/7/quantifying-good-match-footy/)
 * Real time prediction of match outcomes in Australian football - <https://www.tandfonline.com/doi/full/10.1080/02640414.2023.2259266>
+* Markov Chain Models for the Near Real-Time Forecasting of Australian Football League Match Outcomes - <https://link.springer.com/chapter/10.1007/978-981-15-3287-0_9>
+* Predicting and Understanding Australian Rules Football Using Markov Processes - <https://link.springer.com/chapter/10.1007/978-3-030-99333-7_5>
 
 Rugby:
 
@@ -294,6 +297,8 @@ Basketball:
 * A Bayesian approach to predict performance in football: a case study - <https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2025.1486928/full>
 * Soccer Predictions Using Bayesian Mixed Effects Models - <https://wjakethompson.github.io/soccer/>
 * The issue of sparse networks in sports competitions: can Elo ratings efficiently compare football teams that never play a match? - <https://www.tandfonline.com/doi/abs/10.1080/01605682.2025.2612140>
+* Can simple models predict football — and beat the odds? Lessons from the German Bundesliga - <https://journals.sagepub.com/doi/full/10.1177/22150218261416681>
+* Dynamic Bayesian forecasting of AFL match results using the Skellam distribution - <https://onlinelibrary.wiley.com/doi/10.1111/anzs.12225>
 
 ### Performance indicators
 
@@ -395,6 +400,8 @@ Basketball:
 * Expected goals and the Monte Carlo Trap - <https://dtai.cs.kuleuven.be/sports/blog/expected-goals-and-the-monte-carlo-trap/>
 * Beyond Expected Goals: A Possession-Aware View of Chance Creation in Soccer - <https://wsb.wharton.upenn.edu/beyond-expected-goals/>
 * Beyond Outcome Bias: Incorporating Action Completion Probability and Risk-Return into Soccer Evaluation Models - <https://dtai.cs.kuleuven.be/events/MLSA25/papers/MLSA25_paper_225.pdf>
+* Valuing La Pausa: Quantifying Optimal Pass Timing Beyond Speed - <https://www.sloansportsconference.com/research-papers/valuing-la-pausa-quantifying-optimal-pass-timing-beyond-speed>
+  * <https://github.com/leemingo/mitssac-pausa>
 
 #### EPV, VAEP, xThreat, Equity
 
@@ -515,6 +522,8 @@ Rugby
 * Defensive transition in elite men’s football: key factors impacting ball recovery and match outcomes - <https://www.tandfonline.com/doi/full/10.1080/24748668.2025.2586945>
 * A spatial analysis of ball recovery locations, ball recovery methods and eventual possession outcomes in elite women’s football using a Bayesian network approach - <https://www.tandfonline.com/doi/full/10.1080/24748668.2025.2557776?src=exp-la#abstract>
 * Quantifying Off-Ball Defensive Impact through Cover Shadows - <https://static.hudl.com/craft/performance-insights-research-stage/2025/Quantifying-Off-Ball-Defensive-Impact-through-Cover-Shadows-Lorenzo-Casciolio-Allen-Wang.pdf>
+* Better Prevent than Tackle: Valuing Defense in Soccer Based on Graph Neural Networks - <https://arxiv.org/abs/2512.10355>
+  * <https://github.com/hyunsungkim-ds/defcon>
 
 
 ### Defensive strategy
@@ -573,6 +582,8 @@ Rugby
 * Navigating team tactical analysis in football: An analytical pipeline leveraging player tracking technology - <https://journals.sagepub.com/doi/10.1177/17543371251392456#fig2-17543371251392456>
   * https://github.com/latilongitude/GNSS_FootballTactical/tree/main
 * Characterizing the spatial structures of competing football teams - <https://www.nature.com/articles/s41598-025-97765-y>
+* Space in competitive football: A scoping review - <https://doi.org/10.1177/17479541261417207>
+* Assessing spatiotemporal advantage in futsal finishing actions: Development and validation of the SAOS-Futsal system - <https://www.sciencedirect.com/science/article/pii/S3051268926000152#fig0005>
 
 
 #### Role assignment
@@ -692,6 +703,7 @@ Rugby
 * Development of a sports technology quality framework - <https://doi.org/10.1080/02640414.2024.2308435>
 * Methods to assess validity of positioning systems in team sports: can we do better? - [https://bmjopensem.bmj.com/content/bmjosem/9/1/e001496.full.pdf](https://bmjopensem.bmj.com/content/bmjosem/9/1/e001496.full.pdf)
 * Challenges and considerations in determining the quality of electronic performance & tracking systems for team sports - <https://www.frontiersin.org/articles/10.3389/fspor.2023.1266522/abstract>
+* FIFA Innovation Programme Challenge 2 case study: Lower-limb mounted devices within football - <https://journals.sagepub.com/doi/full/10.1177/17479541261421835>
 
 #### Fitness-Fatigue models
 
@@ -809,6 +821,9 @@ Rugby
 * Muscle Typology Does Not Influence Peak-Intensity Periods, Subsequent Recovery, or Match-Running Declines Toward the End of a Match in Professional Male Football - <https://journals.humankinetics.com/view/journals/ijspp/aop/article-10.1123-ijspp.2025-0116/article-10.1123-ijspp.2025-0116.xml>
 * Full-match equivalents and ball-in-play demands in women’s rugby union: A Bayesian multilevel regression model - <https://www.tandfonline.com/doi/abs/10.1080/02640414.2025.2605427>
 * Evolution of Athlete Match Demands Across 3 Australian Football League Women’s (AFLW) Seasons - <https://journals.humankinetics.com/view/journals/ijspp/20/8/article-p1110.xml>
+* A comparison of match demands using ball-in-play versus whole-match data in the 2023 super rugby Américas champion team - <https://journals.sagepub.com/doi/abs/10.1177/17479541261424584>
+* Unmasking speed curve anomalies in team sports: a practical guideline for data treatment and interpretation - <https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1750588/full>
+* Interaction effects between possession status and percentage: insights from modeling match-running performance across possession status in male soccer - <https://www.termedia.pl/Interaction-effects-between-possession-status-and-percentage-r-ninsights-from-modeling-match-running-performance-across-r-npossession-status-in-male-soccer,78,56160,1,1.html>
 
 #### Opinions and commentaries
 
@@ -873,6 +888,8 @@ Rugby
 * SkillCorner X PySport Analytics Cup - <https://pysport.org/analytics-cup>
   * A-League tracking data
   * Example entry: https://x.com/903124S/status/2004929648308994124
+* 2026 SMT Data Challenge - <https://datachallenge.smt.com/>
+
 
 ### Data formatting
 
