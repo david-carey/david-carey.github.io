@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-David L. Carey is a Lecturer in [Sports Analytics](https://www.latrobe.edu.au/courses/master-of-sport-analytics) and Data Science at La Trobe University and a post-doctoral researcher working on **applications of computer vision in Australian Football**.
+David L. Carey is a Senior Lecturer in [Sports Analytics](https://www.latrobe.edu.au/courses/master-of-sport-analytics) and Data Science at La Trobe University.
 
 David has worked with professional Australian Football, soccer, rugby, and the Australian Institute of Sport on problems relating to training, injury and performance in elite athletes. He also has experience applying data science and machine learning techniques to sports problems such as automated player tracking using computer vision and deep learning.
 

@@ -9,8 +9,8 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Conferences"
-    url: /conferences/
+  # - title: "Conferences"
+  #   url: /conferences/
 
   - title: "Teaching"
     url: /teaching/    
@@ -18,11 +18,11 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
   - title: "Resources"
     url: /resources/
