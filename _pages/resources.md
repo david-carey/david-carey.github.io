@@ -10,24 +10,6 @@ toc_sticky: true
 
 <!-- {% include toc %} -->
 
-```{css, echo=FALSE}
-/* Change the position of the TOC from left to right */
-#TOC {
-  position: fixed; /* Ensures it floats/stays in place as you scroll */
-  right: 0;        /* Positions it on the right edge */
-  left: auto;      /* Resets the default 'left' value */
-  /* You may need additional styling to adjust width and prevent content overlap */
-  max-width: fit-content;
-  white-space: nowrap;
-}
-
-/* Adjust the main content area to prevent overlap */
-/* The exact selector might vary based on your page's HTML structure */
-div:has(> #TOC) {
-  display: flex;
-  flex-direction: row-reverse; /* Flips the order of content and TOC containers */
-}
-```
 
 <br>
 
