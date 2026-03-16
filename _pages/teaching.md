@@ -1,36 +1,34 @@
 ---
-# layout: archive
+layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 toc: true
-toc_sticky: true
+# toc_sticky: true
 ---
 {% include base_path %}
 
-{% include toc %}
+<!-- {% include toc %} -->
 
 <br>
 
-## [Master of sport analytics](https://www.latrobe.edu.au/handbook/current/postgraduate/she/health-sciences/coursework/hmsa.htm)
+# [Master of sport analytics](https://www.latrobe.edu.au/courses/master-of-sport-analytics)
 
-### PSA - Principles of Sports Analytics (2018, 2019, 2020)
+* SPE5ASA - Advanced Sport Analytics (2021, 2022, 2023, 2024, 2025, 2026)
+* SPE5PSA - Principles of Sports Analytics (2018, 2019, 2020, 2021, 2022)
+* SPE5SAP - Sports Analytics in Practice (2018, 2019, 2025)
+* SPE5SDC - Sports Data Capture (2018, 2020)
 
-> In this subject, students will explore the fundamental principles of analytics within the context of sporting environments.Students will be introduced to the mathematical and statistical architecture and rationale that underpins a range of sports analytics methods.  The basic practices of handling, cleaning and processing data that is generated from sport will be examined.  Students will learn basic programming and coding skills to analyse sport-related data.
 
-### SAP - Sports Analytics in Practice (2018, 2019)
+# Supervision
 
-> In this subject, students will apply their theoretical understanding of analytics processes and methodologies to authentic sport-related data sets.  Students will develop an analysis plan and implement this plan in order to formulate specific outcomes arising from their data analysis.  Students will use appropriate visual analytics tools to present their data in order to communicate formulated outcomes and findings.
+## PhD
 
-### SDC - Sports Data Capture (2018, 2020)
+* 2024 Mary Claire Geneau - [Classifying Lower Body Extensor Strength Qualities in Field Sport Athletes](https://doi.org/10.26181/27966399)
+* 2024 Susanne Ellens - [Measuring Acceleration in Team Sports with Wearable Sensors](https://doi.org/10.26181/27139974)
+* 2022 Rebecca Peek - [Advancing the Analysis of Peak Game Characteristics in Rugby Union to Inform Training Prescription ](https://doi.org/10.26181/21079120)
 
-> In this subject, students will be introduced to the available technology applications that generate data from sport.  Students will systematically appraise data capture technology using accepted criteria in order to identify the limitations of available technology in sport data capture.  Students will explore the factors that influence effective and accurate data capture in sport and its handling and treatment. Using their understanding of these factors and available technology applications, students will learn to identify appropriate applications and processes for a range of analysis scenarios.
-
-## Supervision
-
-**Master of sport analytics research theses:**
-
-Industry partners shown in brackets.
+## Master of sport analytics research theses:
 
 * **2020**
   * Analysis of centre bounce and centre field stoppage strategies in AFL. *(St. Kilda Football Club)*
@@ -48,6 +46,10 @@ Industry partners shown in brackets.
   * Does ball movement efficiency impact the scoring output of successful sides in the Australian Football League?
   * Modelling Team Sports with Bayesian Networks.
 
-## Short courses
+## Honours
 
-* 3-day Sports Analytics Intensive at the Austrailan Institute of Sport (AIS).
+* 2022 James Ball - Forecasting the Performance Development of AFL listed Players
+
+# Short courses
+
+* 3-day Sports Analytics Intensive at the Austrailan Institute of Sport (AIS). (2019, 2020)
