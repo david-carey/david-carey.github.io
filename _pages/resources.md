@@ -8,7 +8,7 @@ toc_sticky: true
 ---
 {% include base_path %}
 
-{% include toc %} helper
+<!-- {% include toc %} -->
 
 <br>
 
