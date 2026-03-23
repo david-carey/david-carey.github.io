@@ -640,6 +640,7 @@ Rugby
 
 * Parametric modeling and analysis of NFL run plays - <https://journals.sagepub.com/doi/full/10.3233/JSA-220657>
 * Predicting NFL running back rushing yards using Hierarchical Bayesian Linear Regression - <https://rpubs.com/JamesRAngus/BayesianStatsAss3>
+* Beyond the Yard Line: Accommodating Rounded Sports Data in Statistical Models - <https://doi.org/10.1080/00031305.2025.2604812>
 
 #### Trajectory prediction ('ghosting')
 
