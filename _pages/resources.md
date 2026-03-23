@@ -184,6 +184,12 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Longitudinal performance trajectories of young female sprint runners: a new tool to predict performance progression - <https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2024.1491064/full>
 * Modelling between- and within-season trajectories in elite athletic performance data - <https://arxiv.org/html/2405.17214v1>
 
+#### Between-league forecasting
+
+* Nuthin’ But A G League: Estimating league translation factors - <https://doi.org/10.1177/22150218261428808>
+* Modelling the effect of competition tier on player involvement and impact in Australian Football - <https://doi.org/10.1080/24748668.2025.2524663>
+* Apples and oranges? Comparing player performances between the Australian Football League and second-tier leagues - <https://doi.org/10.1080/02640414.2021.1921372>
+
 #### Extreme values
 
 * Ultimate Olympics Records in Athletics Using Extreme Value Theory - <https://www.scirp.org/pdf/ojapps_2022042814181584.pdf>
@@ -300,11 +306,8 @@ Basketball:
 * The issue of sparse networks in sports competitions: can Elo ratings efficiently compare football teams that never play a match? - <https://www.tandfonline.com/doi/abs/10.1080/01605682.2025.2612140>
 * Can simple models predict football — and beat the odds? Lessons from the German Bundesliga - <https://journals.sagepub.com/doi/full/10.1177/22150218261416681>
 * Dynamic Bayesian forecasting of AFL match results using the Skellam distribution - <https://onlinelibrary.wiley.com/doi/10.1111/anzs.12225>
+  * <https://github.com/hhau/dynbayes>
 
-### Performance indicators
-
-* Which indicators matter? Using performance indicators to predict in-game success-related events in association football - <https://sciendo.com/article/10.2478/ijcss-2025-0011>
-  * <https://github.com/SteffenLa/Shortterm_Soccer_Event_Prediction>
 
 #### Tipping models
 
@@ -313,6 +316,13 @@ Basketball:
 * AFLaytics - A Brownian Motion Inspired ELO Model: https://www.aflalytics.com/blog/2019/1/brownian-motion-inspired-elo-model/
 * Build an AFL Elo with FitzRoy: https://analysisofafl.netlify.com/models/2018-07-23-build-a-quick-elo/
 * AFL teams Elo ratings and footy-tipping: http://freerangestats.info/blog/2019/03/23/afl-elo
+
+
+### Performance indicators
+
+* Which indicators matter? Using performance indicators to predict in-game success-related events in association football - <https://sciendo.com/article/10.2478/ijcss-2025-0011>
+  * <https://github.com/SteffenLa/Shortterm_Soccer_Event_Prediction>
+
 
 ### Causal Inference in sport
 
@@ -972,6 +982,7 @@ Rugby
 * <https://github.com/roboflow/supervision>
 * Broadcast analytics – an evaluation of video-based tracking systems with constrained player visibility - <https://www.tandfonline.com/doi/abs/10.1080/24733938.2025.2533808>
 * A Survey of Deep Learning in Sports Applications: Perception, Comprehension, and Decision - <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10938940>
+* A Comprehensive Review of Computer Vision in Sports: Open Issues, Future Trends and Research Directions - <https://www.mdpi.com/2076-3417/12/9/4429>
 
 #### Player detection
 
@@ -1040,6 +1051,10 @@ Rugby
 * Soccer-CLIP: Vision Language Model for Soccer Action Spotting - <https://ieeexplore.ieee.org/abstract/document/10916659>
 * Semi-automated last touch detection for out-of-bounds possession decisions in football - <https://link.springer.com/article/10.1007/s12283-025-00518-3>
 * Pixels or Positions? Benchmarking Modalities in Group Activity Recognition - <https://arxiv.org/pdf/2511.12606>
+
+#### Pose estimation and applications
+
+* Nonverbal Behaviour in Football: A 3D Pose-Based Analysis of Player Expressions and Observer Perceptions - <https://link.springer.com/article/10.1007/s10919-026-00503-9>
 
 #### Sport camera calibration
 
