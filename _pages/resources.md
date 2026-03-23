@@ -8,12 +8,10 @@ toc_sticky: true
 ---
 {% include base_path %}
 
+This is a semi-structured collection of sports analytics, statistics, data science, and programming resources that I maintain. It's primary purpose is to help students find resources for their sport analytics projects (appearing on this list does not constitute endorsement).
+
 {% include toc %}
 
-
-<br>
-
-This is a semi-structured collection of sports analytics, statistics, data science, and programming resources that I maintain. It's primary purpose is to help students find resources for their sport analytics projects (appearing on this list does not constitute endorsement).
 
 # Sports analytics topics and problems
 
