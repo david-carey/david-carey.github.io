@@ -51,6 +51,7 @@ I have taught the following coursework subjects in the [Master of sport analytic
 * Player Portability in Australian Football: Assessing Performance Outcomes Following Club Transitions. *(Carlton Football Club)*
 * Estimating 3D Ground Reaction Forces using only 2D video. *(La Trobe Sport Medicine Research Centre)*
 * Predicting the AFL Ladder to Inform Future Draft Decisions. *(Fremantle Football Club)*
+
 **2024**
 * The Serve in Para-Table Tennis: Modelling advantage and clustering tactics. *(Table Tennis Australia)*
   * [Analysing serves in para table tennis: Modelling advantage and clustering points](https://doi.org/10.1177/17479541261426425)
@@ -61,6 +62,7 @@ I have taught the following coursework subjects in the [Master of sport analytic
 * Long-Term Evaluation of Trades in the Australian Football League. *(North Melbourne Football Club)*
 * Late game clutch shooting in the NBL. *(Perth Wildcats)*
 * Predicting performance using similar players in basketball. *(Perth Wildcats)*
+
 **2023**
 * Evaluating Expected Chain Value models and Stoppage Strategies in Australian Rules Football. *(Collingwood Football Club)*
 * Assessing the True Value of AFL Draft Picks through Performance Metrics and Unveiling Biases. *(Fremantle Football Club)*
@@ -69,6 +71,7 @@ I have taught the following coursework subjects in the [Master of sport analytic
 * Contested Ball Player Ratings in Australian Football. *(Collingwood Football Club)*
 * Shot selection strategies in women's basketball. *(Open data)*
 * Novel single action rating system for AFL Ruckmen. *(Champion Data)*
+
 **2022**
 * Relationship between physical testing performance of high school baseball players with early career success and draft position. *(Boston Red Sox)*
 * Discovery and Characterisation of Forward Line Formations at Centre Bounces in the Australian Football League. *(Champion Data)*
@@ -80,6 +83,7 @@ I have taught the following coursework subjects in the [Master of sport analytic
 * An Improved Player Ratings System for Badminton. *(Open Data)*
 * Measuring Skill Execution during Physical Activity in the AFL. *(Melbourne Football Club)*
 * Quantifying and Describing the Lead-in to sprint efforts in Australian Football. *(Essendon Football Club)*
+
 **2021**
 * Estimating the causal effect of different inside 50 decisions on scoring in Australian rules football. *(Essendon Football Club)*
   * [Estimating the causal effect of different inside 50 decisions on scoring in Australian Football](https://www.researchgate.net/profile/David-Carey/publication/380734913_ESTIMATING_THE_CAUSAL_EFFECT_OF_DIFFERENT_INSIDE_50_DECISIONS_ON_SCORING_IN_AUSTRALIAN_FOOTBALL/links/664c859e22a7f16b4f400bad/ESTIMATING-THE-CAUSAL-EFFECT-OF-DIFFERENT-INSIDE-50-DECISIONS-ON-SCORING-IN-AUSTRALIAN-FOOTBALL.pdf)
@@ -89,6 +93,7 @@ I have taught the following coursework subjects in the [Master of sport analytic
 * Comparing Player Statistical Performance Across the AFL and Tier 2 Australian Football Leagues. *(Melbourne Football Club)*
 * Individual player physical output difference between AFL and VFL during the same season. *(Melbourne Football Club)*
 * Optimal Shot Sequences by Court Position and Player Types. *(Data Driven Sports Analytics)*
+
 **2020**
 * Analysis of centre bounce and centre field stoppage strategies in AFL. *(St. Kilda Football Club)*
 * A machine learning approach to dynamic win probability in AFL. *(Carlton Football Club)*
@@ -97,8 +102,10 @@ I have taught the following coursework subjects in the [Master of sport analytic
 * Rugby Union: Investigating the Potential Gain from Different 22-Metre Kicking Strategies. *(Melbourne Rebels)*
 * Predicting professional athletes’ career outcomes using a nearest neighbour model. *(Open data)*
   * [Predicting Athlete Performance in Team Sports Using Nearest Neighbour Modelling](https://doi.org/10.1007/978-3-030-99333-7_17)
+
 **2019**
 * Constructing a field equity model for Rugby League using location data and phases of play. *(Champion Data)*
+
 **2018**
 * What is ‘Draftable’ in Australian Rules Football. *(AFL Victoria)*
 * Optimising First Serve Selection in Men’s Professional Tennis Using Hawk-Eye Data. *(Tennis Australia)*
