@@ -199,6 +199,13 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Records in Athletics Through Extreme-Value Theory - <https://www.tandfonline.com/doi/pdf/10.1198/016214508000000698>
 * A framework for statistical modelling of the extremes of longitudinal data, applied to elite swimming - <https://arxiv.org/pdf/2306.12419>
 
+
+### Racing sports
+
+* An analysis of pacing profiles in sprint kayak racing using functional principal components and Hidden Markov Models - <https://arxiv.org/pdf/2407.07120>
+* Analytics of Pacing Development in Men’s Sculling - <https://journals.humankinetics.com/view/journals/ijspp/20/9/article-p1215.xml>
+* Bayesian additive regression trees (BART) for prediction and correction of winning times in kayak and canoe racing - <https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0049/html>
+
 ### Drafting
 
 * Draft efficiency - [https://statsbylopez.com/2017/04/25/evaluating-the-evaluators/](https://statsbylopez.com/2017/04/25/evaluating-the-evaluators/)
@@ -680,13 +687,6 @@ Rugby
 
 
 
-
-### Racing sports
-
-* An analysis of pacing profiles in sprint kayak racing using functional principal components and Hidden Markov Models - <https://arxiv.org/pdf/2407.07120>
-* Analytics of Pacing Development in Men’s Sculling - <https://journals.humankinetics.com/view/journals/ijspp/20/9/article-p1215.xml>
-
-
 ### Subjective ratings
 
 * Capturing the "expert’s eye": Towards a better understanding and implementation of subjective performance evaluations in team sports - [https://sportrxiv.org/index.php/server/preprint/view/6/20](https://sportrxiv.org/index.php/server/preprint/view/6/20)
@@ -697,6 +697,7 @@ Rugby
 * Barriers to coach decision-making during Australian football matches and how it can be supported by artificial intelligence - <https://journals.sagepub.com/doi/10.1177/17479541231206682>
 * AN EXPLORATORY STUDY OF ELITE NETBALL COACHES’ ENGAGEMENT WITH IN-GAME STATISTICS DURING COMPETITION - <https://thescopes.org/assets/Uploads/SCOPE_HW9-Croft-et-al-v2.pdf>
 * Comparing AI-assisted and traditional tactical instruction: A crossover experimental study among male college students - <https://www.sciencedirect.com/science/article/pii/S0001691825007449?dgcid=rss_sd_all&s=03>
+* What decisions do coaches make during professional Australian football matches? A qualitative content analysis - <https://journals.sagepub.com/doi/pdf/10.1177/17479541261433209>
 
 #### Drill design
 

@@ -8,11 +8,11 @@ toc: true
 ---
 {% include base_path %}
 
-{% include toc %}
+<!-- {% include toc %} -->
 
 <br>
 
-## Master of sport analytics
+## Coursework
 
 I have taught the following coursework subjects in the [Master of sport analytics](https://www.latrobe.edu.au/courses/master-of-sport-analytics) at La Trobe University. I was the coordinator of the degree from 2021 - 2025.
 
@@ -26,11 +26,12 @@ I have taught the following coursework subjects in the [Master of sport analytic
 
 ### PhD
 
-* _Current_ Steven Azzopardi - Analysing off-the-ball actions in Australian Football
-* _Current_ Dave Matteo - A statistical framework for inferring the development of Australian Football players using in game metrics
-* _Current_ Tara Lind - Methods for efficient and effective analysis of athlete data
-* _Current_ Luke Stevens - Strength Diagnosis in Olympic and Commonwealth Athletes
-* _Current_ Jason Churches - The Best is History – Predicting Swimming Performance from Daily Training Data
+* Steven Azzopardi, _current_ - Analysing off-the-ball actions in Australian Football
+* Dave Matteo, _current_ - A statistical framework for inferring the development of Australian Football players using in game metrics
+* Tara Lind, _current_ - Methods for efficient and effective analysis of athlete data
+* Ben Jones, _current_ - Investigating the Relationship Between Movement-Variability and Injury in Running
+* Luke Stevens, _current_ - Strength Diagnosis in Olympic and Commonwealth Athletes
+* Jason Churches, _current_ - The Best is History – Predicting Swimming Performance from Daily Training Data
 * Mary Claire Geneau, 2024 - [Classifying Lower Body Extensor Strength Qualities in Field Sport Athletes](https://doi.org/10.26181/27966399)
 * Susanne Ellens, 2024 - [Measuring Acceleration in Team Sports with Wearable Sensors](https://doi.org/10.26181/27139974)
 * Rebecca Peek, 2022 - [Advancing the Analysis of Peak Game Characteristics in Rugby Union to Inform Training Prescription ](https://doi.org/10.26181/21079120)
@@ -42,11 +43,32 @@ I have taught the following coursework subjects in the [Master of sport analytic
 ### Master of sport analytics research theses:
 
 * **2025**
-  * 
+  * Evaluating the Efficiency of the AFL National Draft. *(Collingwood Football Club)*
+  * Constructing Player Vectors: Methods for Calculating Playing Style Similarity in Basketball. *(Perth Wildcats)*
+  * Characterisation of Structured and Unstructured Possession Chains in Australian Football. *(Carlton Football Club)*
+  * What Makes an Effective Kick? Characterising Ball Movement, Decision Making, and the Evolution of Playing Styles in the AFL. *(Australian Football League)*
+  * The Evolution of Goal Kicking Accuracy in Men’s and Women’s Australian Football. *(Australian Football League)*
+  * Player Portability in Australian Football: Assessing Performance Outcomes Following Club Transitions. *(Carlton Football Club)*
+  * Estimating 3D Ground Reaction Forces using only 2D video. *(La Trobe Sport Medicine Research Centre)*
+  * Predicting the AFL Ladder to Inform Future Draft Decisions. *(Fremantle Football Club)*
 * **2024**
-  * 
+  * The Serve in Para-Table Tennis: Modelling advantage and clustering tactics. *(Table Tennis Australia)*
+    * [Analysing serves in para table tennis: Modelling advantage and clustering points](https://doi.org/10.1177/17479541261426425)
+  * The evolution of AFLW running demands: the impact of player. *(North Melbourne Football Club)*
+  * Offensive and Defensive Player Ratings in AFL. *(Carlton Football Club)*
+  * Using Player Tracking to Assess Pressure at Possession in the AFL. *(Champion Data)*
+  * Measuring In-match Win Probability and ‘Momentum’ in the AFL. *(Essendon Football Club)*
+  * Long-Term Evaluation of Trades in the Australian Football League. *(North Melbourne Football Club)*
+  * Late game clutch shooting in the NBL. *(Perth Wildcats)*
+  * Predicting performance using similar players in basketball. *(Perth Wildcats)*
 * **2023**
-  * 
+  * Evaluating Expected Chain Value models and Stoppage Strategies in Australian Rules Football. *(Collingwood Football Club)*
+  * Assessing the True Value of AFL Draft Picks through Performance Metrics and Unveiling Biases. *(Fremantle Football Club)*
+  * Expected Score in Australian Rules Football. *(Essendon Football Club)*
+    * [Expected scores and goal kicking skill in Australian Football](https://www.researchgate.net/profile/David-Carey/publication/380735171_EXPECTED_SCORES_AND_GOAL_KICKING_SKILL_IN_AUSTRALIAN_FOOTBALL/links/664c85cc0b0d2845744cd438/EXPECTED-SCORES-AND-GOAL-KICKING-SKILL-IN-AUSTRALIAN-FOOTBALL.pdf)
+  * Contested Ball Player Ratings in Australian Football. *(Collingwood Football Club)*
+  * Shot selection strategies in women's basketball. *(Open data)*
+  * Novel single action rating system for AFL Ruckmen. *(Champion Data)*
 * **2022**
   * Relationship between physical testing performance of high school baseball players with early career success and draft position. *(Boston Red Sox)*
   * Discovery and Characterisation of Forward Line Formations at Centre Bounces in the Australian Football League. *(Champion Data)*
