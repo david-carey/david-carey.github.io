@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**SPEEDS Projects**
+**SPEEDS (Sport and Exercise Science Excellence Through Data Science) Project**
 
 * [Dimensionality Reduction in Sport and Exercise Science](https://speeds.quarto.pub/speeds/DimRed_intro.html)
 
