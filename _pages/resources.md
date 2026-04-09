@@ -763,7 +763,8 @@ Rugby
 * Personalised Running Coaching with Next-Generation Wearable Technology - <https://link.springer.com/chapter/10.1007/978-3-032-06167-6_6>
 * Deep reinforcement learning-driven personalized training load control algorithm for competitive sports performance optimization - <https://www.nature.com/articles/s41598-025-30453-z_reference.pdf>
 * A reinforcement learning- enabled system for personalised sports training plan generation - <https://www.inderscienceonline.com/doi/pdf/10.1504/IJICT.2025.151069>
-
+* Adaptive training load optimization for track and field athletes: A reinforcement learning approach - <https://www.nature.com/articles/s41598-026-41946-w>
+* Balancing training load, rest and musculoskeletal injury risk: a mathematical modelling study in Thoroughbred racehorses - <https://arxiv.org/pdf/2603.22680>
 
 #### Injuries
 
