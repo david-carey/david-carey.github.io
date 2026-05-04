@@ -92,6 +92,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Human-Like Goalkeeping in a Realistic Football Simulation: a Sample-Efficient Reinforcement Learning Approach - <https://arxiv.org/pdf/2510.23216>
 * AI-Powered Tactical Optimization in Dynamic Team Sports: A Hierarchical Reinforcement Learning Approach - <https://www.sciencedirect.com/science/article/abs/pii/S092523122502942X>
 * Training Agents for Strategic Curling Through a Unified Reinforcement Learning Framework - <https://www.mdpi.com/2227-7390/14/3/403>
+* Offline multi-agent reinforcement learning for evaluating and optimizing football attacking strategies against low-block defences - <https://www.sciencedirect.com/science/article/pii/S3050544526000125>
 
 
 ### Strategy proposal and simulation
@@ -210,6 +211,10 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 
 * Draft efficiency - [https://statsbylopez.com/2017/04/25/evaluating-the-evaluators/](https://statsbylopez.com/2017/04/25/evaluating-the-evaluators/)
 * The making and comparison of draft curves - <https://statsbylopez.com/2016/06/22/the-making-and-comparison-of-draft-curves/>
+* Building An NFL Draft Value Chart - <https://operations.nfl.com/updates/football-ops/building-an-nfl-draft-value-chart/>
+* NFL Draft Quasi-Sharpe Ratio Analysis - How much is a draft pick really worth, by position? <https://stranger9977.github.io/draft-sharpe-analysis/analysis.html>
+* Stress Testing the Sharpe Ratio - Adding roster context, class depth, and prospect talent to our NFL Draft model <https://stranger9977.github.io/draft-sharpe-analysis/counter_analysis.html>
+* The Safest Pick is the Most Dangerous in the NFL - <https://www.youtube.com/watch?v=H8rolEibsPg&t=14s>
 * What Does It Mean to Draft Perfectly in the NHL?
   * [https://hockeygraphsdotcom.files.wordpress.com/2016/10/2-nandakumar-vanhac-slides.pdf](https://hockeygraphsdotcom.files.wordpress.com/2016/10/2-nandakumar-vanhac-slides.pdf) - slides
   * [https://repository.upenn.edu/joseph_wharton_scholars/26/](https://repository.upenn.edu/joseph_wharton_scholars/26/) - paper
@@ -387,6 +392,7 @@ Basketball:
   * <https://datagolf.com/blog>
 * Predicting and understanding shooting performance in professional biathlon: A Bayesian approach - <https://arxiv.org/html/2411.02000v1>
 * A hierarchical approach for evaluating athlete performance with an application in elite basketball - <https://www.nature.com/articles/s41598-024-51232-2>
+* Five Bowlers in Eighteen Years: The Persistence and Rarity of Death-Over Skill in the IPL - <https://www.cs.columbia.edu/~misra/death-bowling-2026.pdf>
 
 #### Multi-trial/test events
 
@@ -419,6 +425,8 @@ Basketball:
 * Beyond Outcome Bias: Incorporating Action Completion Probability and Risk-Return into Soccer Evaluation Models - <https://dtai.cs.kuleuven.be/events/MLSA25/papers/MLSA25_paper_225.pdf>
 * Valuing La Pausa: Quantifying Optimal Pass Timing Beyond Speed - <https://www.sloansportsconference.com/research-papers/valuing-la-pausa-quantifying-optimal-pass-timing-beyond-speed>
   * <https://github.com/leemingo/mitssac-pausa>
+* Accounting for kicking range in the AFL shot location data - <https://jamesblandecon.github.io/posts/2020-02-20-afldistance/>
+* NFL field goal attempts - <https://jamesblandecon.github.io/posts/2025-09-20-nfl-field-goal-attempts/>
 
 #### EPV, VAEP, xThreat, Equity
 
@@ -614,6 +622,7 @@ Rugby
 * Shape graphs and the instantaneous inference of tactical positions in soccer - <https://www.nature.com/articles/s44260-025-00047-x>
 * Putting team formations in association football into context - <https://content.iospress.com/download/journal-of-sports-analytics/jsa220620?id=journal-of-sports-analytics%2Fjsa220620>
 * Spatial roles in hockey special teams - <https://www.degruyterbrill.com/document/doi/10.1515/jqas-2023-0019/html?lang=en>
+* Automatic detection of tactical states in football based on player and ball position - <https://journals.sagepub.com/doi/pdf/10.1177/22150218261432789>
 
 
 #### NMF
@@ -799,6 +808,7 @@ Rugby
 * The Value of Preseason Screening for Injury Prediction: The Development and Internal Validation of a Multivariable Prognostic Model to Predict Indirect Muscle Injury Risk in Elite Football (Soccer) Players - <https://link.springer.com/article/10.1186/s40798-020-00249-8>
 * Modeling Overuse Injuries in Sport as a Mechanical Fatigue Phenomenon - <https://pubmed.ncbi.nlm.nih.gov/30001271/>
 * Multidisciplinary prediction of running-related injuries using machine learning - <https://www.nature.com/articles/s41746-026-02413-y>
+* Assessing the cumulative effect of long-term training load on the risk of injury in team sports - <https://bmjopensem.bmj.com/content/8/2/e001342>
 
 
 #### Running and wearables
@@ -839,9 +849,12 @@ Rugby
 * Unmasking speed curve anomalies in team sports: a practical guideline for data treatment and interpretation - <https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1750588/full>
 * Interaction effects between possession status and percentage: insights from modeling match-running performance across possession status in male soccer - <https://www.termedia.pl/Interaction-effects-between-possession-status-and-percentage-r-ninsights-from-modeling-match-running-performance-across-r-npossession-status-in-male-soccer,78,56160,1,1.html>
 
-#### Opinions and commentaries
+#### Opinions and commentaries/Open Science
 
 * Innovation in sport performance: GPS shows us where we are, but we decide where we’re going - <https://www.sportsmith.co/articles/innovation-in-sport-performance-gps-units-show-us-where-we-are-but-we-decide-where-were-going/>
+* Unifying to Advance Understanding: Collaborative, Community-Driven and ‘Open’ Approaches for Better Science in Sport - <https://link.springer.com/article/10.1007/s40279-026-02394-8>
+* Up Front and Open? Shrouded in Secrecy? Or Somewhere in Between? A Meta-Research Systematic Review of Open Science Practices in Sport Medicine Research - <https://www.jospt.org/doi/abs/10.2519/jospt.2023.12016>
+* The Trade Secret Taboo: Open Science Methods are Required to Improve Prediction Models in Sports Medicine and Performance - <https://link.springer.com/article/10.1007/s40279-023-01849-6>
 
 
 ---
@@ -986,6 +999,7 @@ Rugby
 * Broadcast analytics – an evaluation of video-based tracking systems with constrained player visibility - <https://www.tandfonline.com/doi/abs/10.1080/24733938.2025.2533808>
 * A Survey of Deep Learning in Sports Applications: Perception, Comprehension, and Decision - <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10938940>
 * A Comprehensive Review of Computer Vision in Sports: Open Issues, Future Trends and Research Directions - <https://www.mdpi.com/2076-3417/12/9/4429>
+* Towards Athlete Fatigue Assessment from Association Football Videos - <https://arxiv.org/pdf/2604.05636>
 
 #### Player detection
 
@@ -1271,7 +1285,6 @@ Rugby
 * A systematic review of sport-related packages within the R CRAN repository - <https://journals.sagepub.com/doi/10.1177/17479541221136238?s=03>
 * Replication concerns in sports and exercise science: a narrative review of selected methodological issues in the field - <https://royalsocietypublishing.org/doi/10.1098/rsos.220946?s=03>
 * Sports Metaresearch: An Emerging Discipline of Sport Science and Medicine - <https://link.springer.com/article/10.1007/s40279-025-02181-x>
-* Up Front and Open? Shrouded in Secrecy? Or Somewhere in Between? A Meta-Research Systematic Review of Open Science Practices in Sport Medicine Research - <https://www.jospt.org/doi/abs/10.2519/jospt.2023.12016>
 * Black Box Prediction Methods in Sports Medicine Deserve a Red Card for Reckless Practice: A Change of Tactics is Needed to Advance Athlete Care - <https://link.springer.com/article/10.1007/s40279-022-01655-6>
 * Improving Clinical Prognostic Model Methodology: Letter to the Editor - <https://journals.sagepub.com/doi/full/10.1177/03635465211005721>
 * Challenges with Confidence Intervals for Sport Injury Burden, other Ratio Measures and Clustered data - <https://sportrxiv.org/index.php/server/preprint/view/546/version/718>
@@ -1322,6 +1335,7 @@ Rugby
 * Goal-Driven Flexible Bayesian Design - <https://www.fharrell.com/talk/gdesign/?t=IZL5GgMdxpzYnIEAiBlxnA&s=03>
 * Statistical Design and Analysis Plan for Sequential Parallel-Group RCT for COVID-19 - <https://hbiostat.org/proj/covid19/bayesplan.html>
 * Borrowing Information Across Outcomes - <https://www.fharrell.com/post/yborrow/>
+* 
 
 
 ### Decision making
@@ -1329,6 +1343,7 @@ Rugby
 * Decision making in health and medicine - [https://www.researchgate.net/profile/Paul-Glasziou/publication/37621420_Decision_Making_in_Health_and_Medicine_Integrating_Evidence_and_Values/links/00b49518af3c2b7add000000/Decision-Making-in-Health-and-Medicine-Integrating-Evidence-and-Values.pdf](https://www.researchgate.net/profile/Paul-Glasziou/publication/37621420_Decision_Making_in_Health_and_Medicine_Integrating_Evidence_and_Values/links/00b49518af3c2b7add000000/Decision-Making-in-Health-and-Medicine-Integrating-Evidence-and-Values.pdf)
 * A Comparison of Decision Curve Analysis with Traditional Decision Analysis - <https://www.fharrell.com/post/dca/?s=03>
 * Decision Making Under Uncertainty - <https://web.stanford.edu/group/sisl/public/dmu.pdf>
+* Estimating some risk preferences to make better decisions - <https://jamesblandecon.github.io/posts/2026-02-27-eliciting-some-risk-preferences-to-make-better-decisions/>
 
 ### Courses
 
@@ -1378,6 +1393,7 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * qgam: quantile non-parametric additive models - <https://cran.r-project.org/web/packages/qgam/vignettes/qgam.html>
 * Yes! You can do that in mgcv - <https://calgary.converged.yt/>
 * gamm4: Generalized Additive Mixed Models using lme4 and mgcv - <https://cran.r-project.org/web/packages/gamm4/index.html>
+* Three Years of Daily Weight: What the Patterns Actually Are - <https://jbogomolovas2.github.io/Julius-s-Blog/posts/weight_fluctations/>
 
 #### GAMLSS
 
@@ -1410,6 +1426,9 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * WAMBS checklist in R (using brms) - <https://www.rensvandeschoot.com/tutorials/wambs-checklist-in-r-using-brms/>
 * Dangers of the Defaults: A Tutorial on the Impact of Default Priors When Using Bayesian SEM With Small Samples - <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.611963/full>
 * The Bayesian New Statistics: Hypothesis testing, estimation, meta-analysis, and power analysis from a Bayesian perspective - <https://link.springer.com/article/10.3758/s13423-016-1221-4>
+* FDA Draft Guidance for the Use of Bayesian Methods in Clinical Trials - <https://jamanetwork.com/journals/jama/fullarticle/2847012>
+* Embracing Bayesian Methods in Clinical Trials - FDA’s Long-Awaited Draft Guidance - <https://jamanetwork.com/journals/jama/fullarticle/2847011>
+* Reflections on FDA Draft Guidance on Bayesian Methods in Trials—Protecting Scientific Integrity and Evidentiary Standards - <https://jamanetwork.com/journals/jama/fullarticle/2847013>
 
 #### Bayesian and sport
 
@@ -1471,6 +1490,10 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 
 * Ordinal Regression - <https://betanalpha.github.io/assets/case_studies/ordinal_regression.html>
 * Mixed effect ordinal models - [https://drizopoulos.github.io/GLMMadaptive/articles/Ordinal_Mixed_Models.html](https://drizopoulos.github.io/GLMMadaptive/articles/Ordinal_Mixed_Models.html)
+* Information Gain From Using Ordinal Instead of Binary Outcomes - <https://www.fharrell.com/post/ordinal-info/>
+* Proportional Odds Model Power Calculations for Ordinal and Mixed Ordinal/Continuous Outcomes - <https://www.fharrell.com/post/pop/>
+* Borrowing Information Across Outcomes - <https://www.fharrell.com/post/yborrow/>
+* Ordinal Outcomes Are Superior to Binary Outcomes for Designing and Evaluating Clinical Trials in Compensated Cirrhosis - <https://pmc.ncbi.nlm.nih.gov/articles/PMC11090179/>
 
 ### Zero inflated data
 
@@ -1574,6 +1597,7 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * Synthetic data for sharing and exploration in high performance sport - <https://sportrxiv.org/index.php/server/preprint/view/394>
 * A comprehensive review on GANs for time-series signals - <https://link.springer.com/article/10.1007/s00521-022-06888-0>
 * Generating New Data Through Simulating an NFL Game - <https://www.youtube.com/watch?v=SpjFVoaFg_4>
+* Assessing the cumulative effect of long-term training load on the risk of injury in team sports - <https://bmjopensem.bmj.com/content/8/2/e001342>
 
 * Modern Data Science in R Chapter on Simulation - <https://mdsr-book.github.io/mdsr2e/ch-simulation.html>
 
