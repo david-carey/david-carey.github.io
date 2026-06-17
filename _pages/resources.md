@@ -93,6 +93,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * AI-Powered Tactical Optimization in Dynamic Team Sports: A Hierarchical Reinforcement Learning Approach - <https://www.sciencedirect.com/science/article/abs/pii/S092523122502942X>
 * Training Agents for Strategic Curling Through a Unified Reinforcement Learning Framework - <https://www.mdpi.com/2227-7390/14/3/403>
 * Offline multi-agent reinforcement learning for evaluating and optimizing football attacking strategies against low-block defences - <https://www.sciencedirect.com/science/article/pii/S3050544526000125>
+* Deep Reinforcement Learning for Optimizing Penalty Kick Strategies in Football: A Comparative Study of PPO and IPPO - <https://ieeexplore.ieee.org/abstract/document/11539925>
 
 
 ### Strategy proposal and simulation
@@ -109,6 +110,8 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Data analytics practices and reporting strategies in senior football: insights into athlete health and performance from over 200 practitioners worldwide - <https://www.tandfonline.com/doi/full/10.1080/24733938.2025.2476478>
 * The game insight group: A model for academic-industry partnerships for sports statistics innovation - <https://www.tandfonline.com/doi/pdf/10.1080/08982112.2018.1519578?casa_token=Txrmz-I3ENYAAAAA:vl_Tn49SiI-02iCzlDGKwpehJ1fkPQpEIse7DqnCaEyBwQRb53FLfCtags393hp36pHGVJ8nIItG>
 * The Effect of Basketball Analytics Investment on National Basketball Association (NBA) Team Performance
+* Data rich but knowledge poor? The Data-CAPS framework to support data-informed practice and research in high-performance sport 
+* The data dilemma: determining ownership of professional athlete data - <https://www.tandfonline.com/doi/pdf/10.1080/17511321.2026.2669717>
 
 
 ### Forecasting crowds
@@ -146,6 +149,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * An application of clustering to classify movement patterns in men’s professional grand slam hard court tennis - <https://www.tandfonline.com/doi/full/10.1080/24748668.2024.2386839#abstract>
 * Next-Event Prediction in Soccer: Assessing the Impact of Team and Player Information - <https://dtai.cs.kuleuven.be/events/MLSA25/papers/MLSA25_paper_353.pdf>
 * Analyzing player pace of play in soccer - <https://dtai.cs.kuleuven.be/sports/blog/%22aannemen-kijken-spelen%22:-analyzing-player-pace-of-play-in-soccer/?s=03>
+* Playing style identification in team sports: A systematic review from statistical dimensionality reduction to unsupervised machine learning - <https://journals.sagepub.com/doi/pdf/10.1177/17479541251372586>
 
 
 ### Forecasting player performance
@@ -227,6 +231,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * How Did the AFL National Draft Mitigate Perverse Incentives? - <https://journals.sagepub.com/doi/abs/10.1177/1527002519873128>
 * Predicting successful draft outcome in Australian Rules football: Model sensitivity is superior in neural networks when compared to logistic regression - <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298743>
   * Open data: <https://opal.latrobe.edu.au/articles/dataset/Meta_xlsx/24967014>
+* A Bayesian Approach to Estimating a National Hockey League Draft Value Pick Chart with Bounds - <https://www.ida.liu.se/research/sportsanalytics/LINHAC/LINHAC26/papers/linhac26-paper31-zhou.pdf>
 
 #### Recruiter perspectives
 
@@ -241,6 +246,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * How Long Does It Take For Three Point Shooting To Stabilize? - [https://fansided.com/2014/08/29/long-take-three-point-shooting-stabilize/](https://fansided.com/2014/08/29/long-take-three-point-shooting-stabilize/)
 * Baseball Therapy: It’s a Small Sample Size After All - [https://www.baseballprospectus.com/news/article/17659/baseball-therapy-its-a-small-sample-size-after-all/](https://www.baseballprospectus.com/news/article/17659/baseball-therapy-its-a-small-sample-size-after-all/)
 * Are Launch Angles Skills? - Analyzing Baseball Data with R, Second Edition
+* Luck vs Skill And Attack vs Defence - <https://blogarchive.statsbomb.com/articles/soccer/luck-vs-skill-and-attack-vs-defence/>
 
 #### Meta-analytics & metric evaluation
 
@@ -318,6 +324,7 @@ Basketball:
 * Can simple models predict football — and beat the odds? Lessons from the German Bundesliga - <https://journals.sagepub.com/doi/full/10.1177/22150218261416681>
 * Dynamic Bayesian forecasting of AFL match results using the Skellam distribution - <https://onlinelibrary.wiley.com/doi/10.1111/anzs.12225>
   * <https://github.com/hhau/dynbayes>
+* Pairwise-Elo rating system - <https://doi.org/10.1515/jqas-2025-0150>
 
 
 #### Tipping models
@@ -360,6 +367,7 @@ Basketball:
 * Jointly modeling choice to swing with ball contact - <https://ssp3nc3r.github.io/post/jointly-modeling-choice-to-swing-with-ball-contact/>
 * Play Call Strategies and Modeling for Target Outcomes in Football - <https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2223582#d1e124>
 * Stop Guessing: Optimizing Goalkeeper Policies for Soccer Penalty Kicks - <https://arxiv.org/pdf/2505.24629>
+* Decision Making And Expected Value - <https://blogarchive.statsbomb.com/articles/soccer/decision-making-and-expected-value/>
 
 ### Player evaluation/rating
 
@@ -393,6 +401,7 @@ Basketball:
 * Predicting and understanding shooting performance in professional biathlon: A Bayesian approach - <https://arxiv.org/html/2411.02000v1>
 * A hierarchical approach for evaluating athlete performance with an application in elite basketball - <https://www.nature.com/articles/s41598-024-51232-2>
 * Five Bowlers in Eighteen Years: The Persistence and Rarity of Death-Over Skill in the IPL - <https://www.cs.columbia.edu/~misra/death-bowling-2026.pdf>
+* Vaibhav Sooryavanshi: the beast T20 made - <https://www.espncricinfo.com/story/why-vaibhav-sooryavanshi-is-head-and-shoulders-above-the-rest-as-a-t20-batter-1535851>
 
 #### Multi-trial/test events
 
@@ -427,6 +436,8 @@ Basketball:
   * <https://github.com/leemingo/mitssac-pausa>
 * Accounting for kicking range in the AFL shot location data - <https://jamesblandecon.github.io/posts/2020-02-20-afldistance/>
 * NFL field goal attempts - <https://jamesblandecon.github.io/posts/2025-09-20-nfl-field-goal-attempts/>
+* Tabular Foundation Models for xG: Can TabPFN Score Without Training? - <https://dtai.cs.kuleuven.be/sports/blog/tabular-foundation-models-for-xg:-can-tabpfn-score-without-training/>
+* Addressing Last Mile Issues in Sports Analytics: A Case Study in Expected Goals in Soccer - <https://link.springer.com/chapter/10.1007/978-3-032-27272-0_30>
 
 #### EPV, VAEP, xThreat, Equity
 
@@ -556,7 +567,8 @@ Rugby
 * Optimizing	Baseball	Fielder	Positioning	with	Consideration	for	Adaptable	Hitters	- <https://cdn.prod.website-files.com/5f1af76ed86d6771ad48324b/65bfe4996c2c54376b78d238_193963%20-%20Optimizing%20Baseball%20Fielder%20Positioning%20with%20Consideration%20for%20Adaptable%20Hitters.pdf>
   * <https://www.youtube.com/watch?v=1aoVR1yXShs>
 * The Sacred Nine Spots - <https://arnavj.substack.com/p/the-sacred-nine-spots>
-
+* Close the gap: contextual influences on defensive dispersion in rugby league - <https://www.tandfonline.com/doi/full/10.1080/24748668.2025.2476310>
+* Metric Explainer - Drawing Pressure - <https://skillcorner.com/articles/metric-explainer-drawing-pressure>
 
 ### Ball tracking data
 
@@ -609,7 +621,7 @@ Rugby
 * Characterizing the spatial structures of competing football teams - <https://www.nature.com/articles/s41598-025-97765-y>
 * Space in competitive football: A scoping review - <https://doi.org/10.1177/17479541261417207>
 * Assessing spatiotemporal advantage in futsal finishing actions: Development and validation of the SAOS-Futsal system - <https://www.sciencedirect.com/science/article/pii/S3051268926000152#fig0005>
-
+* Measuring Off-Ball Movement Using Broadcast Tracking & Event Data - <https://www.gradientsports.com/blog/measuring-off-ball-movement-using-broadcast-tracking-event-data>
 
 #### Role assignment
 
@@ -809,6 +821,8 @@ Rugby
 * Modeling Overuse Injuries in Sport as a Mechanical Fatigue Phenomenon - <https://pubmed.ncbi.nlm.nih.gov/30001271/>
 * Multidisciplinary prediction of running-related injuries using machine learning - <https://www.nature.com/articles/s41746-026-02413-y>
 * Assessing the cumulative effect of long-term training load on the risk of injury in team sports - <https://bmjopensem.bmj.com/content/8/2/e001342>
+* Developing a Fundamental Theoretical Definition for Athletic Injury: Metaphysics, Logic, and Mathematics - <https://link.springer.com/article/10.1007/s40279-026-02418-3>
+* Towards High-Accuracy Athletic Injury Predictions Using a First-Principles Modelling Approach: Theory to (Future) Practice - <https://link.springer.com/article/10.1007/s40279-026-02435-2>
 
 
 #### Running and wearables
@@ -995,11 +1009,13 @@ Rugby
 * SportLogiQ research - <https://www.sportlogiq.com/publications/>
 * SoccerNet 2023 Challenges Results - <https://arxiv.org/pdf/2309.06006.pdf>
 * SoccerNet 2025 - <https://www.soccer-net.org/challenges/2025>
+* SoccerNet 2025 Challenges Results - <https://arxiv.org/abs/2508.19182>
 * <https://github.com/roboflow/supervision>
 * Broadcast analytics – an evaluation of video-based tracking systems with constrained player visibility - <https://www.tandfonline.com/doi/abs/10.1080/24733938.2025.2533808>
 * A Survey of Deep Learning in Sports Applications: Perception, Comprehension, and Decision - <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10938940>
 * A Comprehensive Review of Computer Vision in Sports: Open Issues, Future Trends and Research Directions - <https://www.mdpi.com/2076-3417/12/9/4429>
 * Towards Athlete Fatigue Assessment from Association Football Videos - <https://arxiv.org/pdf/2604.05636>
+* opensportslib (OpenSportsLib is a modular Python library for sports video understanding) - <https://github.com/OpenSportsLab/opensportslib>
 
 #### Player detection
 
@@ -1042,6 +1058,7 @@ Rugby
 * CAMELTrack - <https://github.com/TrackingLaboratory/CAMELTrack>
 * Multi Player Tracking in Ice Hockey with Homographic Projections - <https://arxiv.org/html/2405.13397v1>
 * SportsTrack: An Innovative Method for Tracking Athletes in Sports Scenes - <https://arxiv.org/abs/2211.07173>
+* Concurrent validity of computer-vision artificial intelligence player tracking software using broadcast footage - <https://journals.sagepub.com/doi/10.1177/22150218261445834>
 
 ##### CV + Sensor fusion for player tracking
 
@@ -1068,6 +1085,7 @@ Rugby
 * Soccer-CLIP: Vision Language Model for Soccer Action Spotting - <https://ieeexplore.ieee.org/abstract/document/10916659>
 * Semi-automated last touch detection for out-of-bounds possession decisions in football - <https://link.springer.com/article/10.1007/s12283-025-00518-3>
 * Pixels or Positions? Benchmarking Modalities in Group Activity Recognition - <https://arxiv.org/pdf/2511.12606>
+* Automatic event detection in association football using broadcast-derived tracking data - <https://link.springer.com/article/10.1007/s12283-026-00549-4>
 
 #### Pose estimation and applications
 
@@ -1198,10 +1216,15 @@ Rugby
 
 ### Functional data analysis
 
+* Functional Data Analysis with R - <https://www.taylorfrancis.com/books/mono/10.1201/9781003278726/functional-data-analysis-ciprian-crainiceanu-jeff-goldsmith-andrew-leroux-erjia-cui>
+  * <https://functionaldataanalysis.org/index.html>
 * Over 30 years of using functional data analysis in human movement. What do we know, and is there more for sports biomechanics to learn? - <https://doi.org/10.1080/14763141.2024.2398508>
 * Functional Data Analysis in Biomechanics - <https://link.springer.com/book/10.1007/978-3-031-68862-1>
 * AMultivariate Multilevel Longitudinal Functional Model for Repeatedly Observed HumanMovementData - <https://arxiv.org/pdf/2408.08481>
 * Assessment of rowing biomechanics during single sculling using functional clustering - <https://www.tandfonline.com/doi/pdf/10.1080/02640414.2026.2623564>
+* Tutorial on Bayesian Functional Regression Using Stan - <https://onlinelibrary.wiley.com/doi/10.1002/sim.70265>
+* refund: Methods for regression with functional data - <https://github.com/refunders/refund>
+* fdapace: Functional Data Analysis and Empirical Dynamics - <https://cran.r-project.org/web/packages/fdapace/index.html>
 
 ### Multi-modal time series
 
@@ -1226,7 +1249,7 @@ Rugby
 * [https://discourse.datamethods.org/](https://discourse.datamethods.org/)
 * The Truth About Linear Regression - <https://www.stat.cmu.edu/~cshalizi/TALR/>
 * What Is the Numerical Nature of Pain Relief? - <https://www.frontiersin.org/journals/pain-research/articles/10.3389/fpain.2021.756680/full?s=03>
-
+* Stepwise selection of variables in regression is Evil. - <https://freerangestats.info/blog/2024/09/14/stepwise>
 
 #### Modelling change
 
@@ -1296,6 +1319,8 @@ Rugby
 * The Risks of Misunderstanding the Term “Risk Factor”: A Primer with Suggestions to Improve Sports Medicine - <https://link.springer.com/article/10.1007/s40279-025-02378-0>
 * Estimating the Replicability of Sports and Exercise Science Research - <https://link.springer.com/article/10.1007/s40279-025-02201-w>
 * Introducing a new “Preliminary Report” submission category for small-sample intervention studies: viewpoints from external experts - <https://www.tandfonline.com/doi/full/10.1080/24733938.2026.2624922#d1e290>
+* Data rich but knowledge poor? The Data-CAPS framework to support data-informed practice and research in high-performance sport 
+* The Uptake of Preregistration, and Its Impact on the Proportion of Supported Hypotheses, in Sports Science - <https://link.springer.com/article/10.1007/s40279-026-02451-2>
 
 ### Exploratory research
 
@@ -1316,6 +1341,7 @@ Rugby
 * Importance of sample size on the quality and utility of AI-based prediction models for healthcare - <https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00021-4/fulltext>
 * A practical guide and power analysis for GLMMs: detecting among treatment variation in random effects - <https://peerj.com/articles/1226/>
 * Sample Size Justification - <https://osf.io/preprints/psyarxiv/9d3yf_v1>
+* Sample Size Calculations in R: Money vs. Power - <https://arelbundock.com/posts/money_and_power/index.html>
 
 #### Packages and tools
 
@@ -1394,6 +1420,8 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * Yes! You can do that in mgcv - <https://calgary.converged.yt/>
 * gamm4: Generalized Additive Mixed Models using lme4 and mgcv - <https://cran.r-project.org/web/packages/gamm4/index.html>
 * Three Years of Daily Weight: What the Patterns Actually Are - <https://jbogomolovas2.github.io/Julius-s-Blog/posts/weight_fluctations/>
+* Generalized Additive Models - <https://doi.org/10.1146/annurev-statistics-112723-034249>
+* Generalized additive models in brms - <https://michael-franke.github.io/Bayesian-Regression/practice-sheets/10b-GAMs.html>
 
 #### GAMLSS
 
@@ -1402,12 +1430,20 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 
 
 
+#### Temporal autocorrelation in GAMs
+
+* Additive modelling global temperature time series: revisited - <https://fromthebottomoftheheap.net/2016/03/25/additive-modeling-global-temperature-series-revisited/>
+* Including Autocorrelation Effects in GAMs - <https://tractometry.org/tractable/articles/tractable-autocorrelations.html>
+* itsadug: Interpreting Time Series and Autocorrelated Data Using GAMMs - <https://cran.r-project.org/web/packages/itsadug/index.html>
+
+
 ### Interpretable machine learning
 
 [https://christophm.github.io/interpretable-ml-book/](https://christophm.github.io/interpretable-ml-book/)
 
 ### Bayesian
 
+* Bayesian Workflow book: Website - <https://avehtari.github.io/Bayesian-Workflow/>
 * Bayesian workflow, Gelman - [https://arxiv.org/pdf/2011.01808.pdf](https://arxiv.org/pdf/2011.01808.pdf)
 * Visualization in Bayesian workflow - <https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12378>
 * Bayesian statistics and modelling - <https://www.nature.com/articles/s43586-020-00001-2>
@@ -1429,6 +1465,8 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * FDA Draft Guidance for the Use of Bayesian Methods in Clinical Trials - <https://jamanetwork.com/journals/jama/fullarticle/2847012>
 * Embracing Bayesian Methods in Clinical Trials - FDA’s Long-Awaited Draft Guidance - <https://jamanetwork.com/journals/jama/fullarticle/2847011>
 * Reflections on FDA Draft Guidance on Bayesian Methods in Trials—Protecting Scientific Integrity and Evidentiary Standards - <https://jamanetwork.com/journals/jama/fullarticle/2847013>
+* Visualize a Bayesian model in R using likelihood, prior, and posterior - <https://discourse.mc-stan.org/t/visualize-bayesian-model/33435>
+* Prior Choice Recommendations - <https://github.com/stan-dev/stan/wiki/Prior-Choice-Recommendations>
 
 #### Bayesian and sport
 
@@ -1442,8 +1480,6 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * From Prior Beliefs to Lineup Truths: Bayesian Inference for Lineup Performance - <https://assets-eu.researchsquare.com/files/rs-8714352/v1_covered_be386195-3122-4f2b-90cc-2fca24ef4278.pdf?c=1770115349>
 
 ### Mixed effect models
-
-* Notes on mixed models - <https://docs.google.com/document/d/1pxABPqUGUR1tCQvS-7KNt0mWK_CeoP4fXBhD7dhW0Wk/edit?usp=sharing>
 
 * Fitting linear mixed models in R - [http://staff.pubhealth.ku.dk/~jufo/courses/rm2018/nlmePackage.pdf](http://staff.pubhealth.ku.dk/~jufo/courses/rm2018/nlmePackage.pdf)
 * Fitting Linear Mixed-Effects Models Using lme4 - [https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)
@@ -1462,29 +1498,40 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * How hierarchical models improve point estimates of model parameters at the individual level - <https://www.sciencedirect.com/science/article/pii/S0022249616300025>
 * Why I don’t use the term “fixed and random effects” - <https://statmodeling.stat.columbia.edu/2005/01/25/why_i_dont_use/>
 * A guide to working with country-year panel data and Bayesian multilevel models - <https://www.andrewheiss.com/blog/2021/12/01/multilevel-models-panel-data-guide/?s=03#other-ways-of-dealing-with-time>
+* Model Choice and Diagnostics for Linear Mixed-Effects Models Using Statistics on Street Corners - <https://arxiv.org/pdf/1502.06988>
 
-#### Location and scale models
 
-* <https://bookdown.org/content/4857/adventures-in-covariance.html#learn-more-about-your-data-with-the-melsm.>
-* Generalized Additive Models for Location, Scale and Shape - <https://www.gamlss.com/>
 
 #### Covariance structures & temporal models
 
+* Covariance structures with glmmTMB - [https://cran.r-project.org/web/packages/glmmTMB/vignettes/covstruct.html](https://cran.r-project.org/web/packages/glmmTMB/vignettes/covstruct.html)
+* Covariance Structures with lme4 - <https://lme4.r-universe.dev/articles/lme4/covariance_structures.html>
 * Temporal analysis of variation in random effects - <https://stats.stackexchange.com/questions/19911/temporal-analysis-of-variation-in-random-effects>
 * Dealing with temporal autocorrelation - [https://www.flutterbys.com.au/stats/tut/tut8.3b.html](https://www.flutterbys.com.au/stats/tut/tut8.3b.html)
 * Guidelines for Selecting the Covariance Structure in Mixed Model Analysis - [https://support.sas.com/resources/papers/proceedings/proceedings/sugi30/198-30.pdf](https://support.sas.com/resources/papers/proceedings/proceedings/sugi30/198-30.pdf)
 * Modelling covariance structure in the analysis of repeated measures data - [https://faculty.washington.edu/heagerty/Courses/VA-longitudinal/private/Littell-StatMed2000.pdf](https://faculty.washington.edu/heagerty/Courses/VA-longitudinal/private/Littell-StatMed2000.pdf)
-* Covariance structures with glmmTMB - [https://cran.r-project.org/web/packages/glmmTMB/vignettes/covstruct.html](https://cran.r-project.org/web/packages/glmmTMB/vignettes/covstruct.html)
 * fitting mixed models with (temporal) correlations in R - [https://bbolker.github.io/mixedmodels-misc/notes/corr_braindump.html](https://bbolker.github.io/mixedmodels-misc/notes/corr_braindump.html)
 * R Code for Repeated Measures - [https://dnett.github.io/S510/24RepeatedMeasuresR.pdf](https://dnett.github.io/S510/24RepeatedMeasuresR.pdf)
 * Harrell: Modeling Longitudinal Responses using Generalized Least Squares - <https://hbiostat.org/rmsc/long> 
 * Bayesian analysis of longitudinal multilevel data using brms and rethinking - part 1 - <https://www.andreashandel.com/posts/2022-02-22-longitudinal-multilevel-bayes-1/index.html?s=03>
 * The effects of variance-covariancemisspecification in randomised controlled trials with high frequency data collection. A simulation study in sportscience - <https://sportrxiv.org/index.php/server/preprint/view/388/804>
+* Temporal autocorrelation in GAMs and the mvgam package - <https://ecogambler.netlify.app/blog/autocorrelated-gams/>
+
+
+
+### Location, shape, and scale models
+
+* <https://bookdown.org/content/4857/adventures-in-covariance.html#learn-more-about-your-data-with-the-melsm.>
+* Generalized Additive Models for Location, Scale and Shape - <https://www.gamlss.com/>
+
 
 ### Time series
 
 * MultiVariate (Dynamic) Generalized Addivite Models - <https://nicholasjclark.github.io/mvgam/index.html>
-
+* Temporal autocorrelation in GAMs and the mvgam package - <https://ecogambler.netlify.app/blog/autocorrelated-gams/>
+* Analyzing the Time Course of Pupillometric Data - <https://doi.org/10.1177/2331216519832483>
+* Introducing: fable.gam, a new forecasting option - <https://hendersontrent.github.io/posts/2026/05/fable-gam/>
+* Extending fable.gam (part one): Incorporating non-Gaussian families - <https://hendersontrent.github.io/posts/2026/05/fable-gam-family/>
 
 ### Ordinal models
 
@@ -1525,11 +1572,15 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 ### Clinical prediction models
 
 
-
 #### Precision medicine
 
 * The fundamental problem of risk prediction for individuals: health AI, uncertainty, and personalized medicine - <https://arxiv.org/abs/2506.17141>
-* Time to reality check the promises of machine learningpowered precision medicine - <https://www.thelancet.com/action/showPdf?pii=S2589-7500%2820%2930200-4>
+* Time to reality check the promises of machine learning powered precision medicine - <https://www.thelancet.com/action/showPdf?pii=S2589-7500%2820%2930200-4>
+
+#### Digital twins
+
+* Increasing acceptance of AI-generated digital twins through clinical trial applications - <https://ascpt.onlinelibrary.wiley.com/doi/10.1111/cts.13897>
+* Creating Patients’ Digital Twins with Neural Boltzmann Machines for Clinical Timeseries - <https://www.unlearn.ai/blog/creating-patients-digital-twins-with-neural-boltzmann-machines-for-clinical-timeseries>
 
 #### Developing and reporting models
 
@@ -1631,6 +1682,11 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * CVPR Sports - <https://vap.aau.dk/cvsports/>
 * [http://large-scale-sports-analytics.org](http://large-scale-sports-analytics.org)
 * LISS Football Analytics Symposium - <https://www.kuleuven.be/liss/events/liss-football-analytics-symposium>
+
+
+### Learning Bayesian Statistics Podcast
+
+* <https://learnbayesstats.com/sports-analytics>
 
 
 ### Sloan Sports Analytics Research Papers
