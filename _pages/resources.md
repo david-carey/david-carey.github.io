@@ -100,6 +100,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 
 * Insights from the Application of an Agent-Based Computer Simulation as a Coaching Tool for Top-Level Rugby Union - [https://journals.sagepub.com/doi/10.1260/1747-9541.8.3.493](https://journals.sagepub.com/doi/10.1260/1747-9541.8.3.493)
 * When to rush a ‘behind’ in Australian rules football: a dynamic programming approach - <https://www.tandfonline.com/doi/abs/10.1057/palgrave.jors.2600544>
+* An Analysis of the Basketball Endgame: When to Foul When Trailing and Leading - <https://www.stat.berkeley.edu/~aldous/157/Papers/kenter.pdf>
 
 
 ### Working in sports analytics (inc. academic collaborations)
@@ -150,6 +151,8 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Next-Event Prediction in Soccer: Assessing the Impact of Team and Player Information - <https://dtai.cs.kuleuven.be/events/MLSA25/papers/MLSA25_paper_353.pdf>
 * Analyzing player pace of play in soccer - <https://dtai.cs.kuleuven.be/sports/blog/%22aannemen-kijken-spelen%22:-analyzing-player-pace-of-play-in-soccer/?s=03>
 * Playing style identification in team sports: A systematic review from statistical dimensionality reduction to unsupervised machine learning - <https://journals.sagepub.com/doi/pdf/10.1177/17479541251372586>
+* A Gaussian Mixture Model Approach for Characterizing Playing Styles of Ice Hockey Players - <https://www.ida.liu.se/research/sportsanalytics/LINHAC/LINHAC25/papers/linhac25-paper7.pdf>
+* Identifying playing styles in football using topic modeling - <https://www.degruyterbrill.com/document/doi/10.1515/jqas-2025-0154/html>
 
 
 ### Forecasting player performance
@@ -247,6 +250,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Baseball Therapy: It’s a Small Sample Size After All - [https://www.baseballprospectus.com/news/article/17659/baseball-therapy-its-a-small-sample-size-after-all/](https://www.baseballprospectus.com/news/article/17659/baseball-therapy-its-a-small-sample-size-after-all/)
 * Are Launch Angles Skills? - Analyzing Baseball Data with R, Second Edition
 * Luck vs Skill And Attack vs Defence - <https://blogarchive.statsbomb.com/articles/soccer/luck-vs-skill-and-attack-vs-defence/>
+* Luck is Hard to Beat: The Di iculty of Sports Prediction - <https://dl.acm.org/doi/pdf/10.1145/3097983.3098045>
 
 #### Meta-analytics & metric evaluation
 
@@ -260,6 +264,7 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 
 * Exploring the difficulty of estimating win probability: a simulation study - <https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0130/html>
 * A Paradox of Blown Leads: Rethinking Win Probability in Football - <https://wsb.wharton.upenn.edu/a-paradox-of-blown-leads-rethinking-win-probability-in-football/>
+* Win Probability Probabilities - <https://web.archive.org/web/20200808064442/http://xyresearch.com/posts/win-probability-probabilities>
 
 NFL:
 
@@ -325,6 +330,7 @@ Basketball:
 * Dynamic Bayesian forecasting of AFL match results using the Skellam distribution - <https://onlinelibrary.wiley.com/doi/10.1111/anzs.12225>
   * <https://github.com/hhau/dynbayes>
 * Pairwise-Elo rating system - <https://doi.org/10.1515/jqas-2025-0150>
+* Bayesian weighted discrete-time dynamic models for association football prediction - <https://doi.org/10.1093/jrsssc/qlag032>
 
 
 #### Tipping models
@@ -438,6 +444,7 @@ Basketball:
 * NFL field goal attempts - <https://jamesblandecon.github.io/posts/2025-09-20-nfl-field-goal-attempts/>
 * Tabular Foundation Models for xG: Can TabPFN Score Without Training? - <https://dtai.cs.kuleuven.be/sports/blog/tabular-foundation-models-for-xg:-can-tabpfn-score-without-training/>
 * Addressing Last Mile Issues in Sports Analytics: A Case Study in Expected Goals in Soccer - <https://link.springer.com/chapter/10.1007/978-3-032-27272-0_30>
+* A mixed-effects spatial point process framework for modeling player shooting behavior in basketball - <https://www.degruyterbrill.com/document/doi/10.1515/jqas-2025-0163/html>
 
 #### EPV, VAEP, xThreat, Equity
 
@@ -477,6 +484,7 @@ Soccer
     * <https://github.com/UnravelSports/unravelsports>
     * A Graph Neural Network deep-dive into successful counterattacks - <https://arxiv.org/pdf/2411.17450>
 * A critical study of event-based possession state value frameworks in soccer
+* Decoding attacking success in soccer – a data-driven analysis of expected possession value in the Bundesliga - <https://www.degruyterbrill.com/document/doi/10.1515/jqas-2025-0053/html>
 
 NFL
 
@@ -523,6 +531,7 @@ Rugby
 * A generalized non-linear forecasting model for limited overs international cricket - <https://www.sciencedirect.com/science/article/abs/pii/S0169207019300068>
 * On the distribution of the number of phases per possession in 2025 Men's Six Nations rugby - <https://journals.sagepub.com/doi/full/10.1177/22150218261416294>
 * No-gi Brazilian jiu-jitsu: A Markovian analysis of elite-level combat dynamics - <https://journals.sagepub.com/doi/full/10.1177/17479541231210979>
+* A Universal Dense Football Event Representation Based on TabTransformer - <https://arxiv.org/pdf/2606.09327v1>
 
 ### Passing networks
 
@@ -622,6 +631,7 @@ Rugby
 * Space in competitive football: A scoping review - <https://doi.org/10.1177/17479541261417207>
 * Assessing spatiotemporal advantage in futsal finishing actions: Development and validation of the SAOS-Futsal system - <https://www.sciencedirect.com/science/article/pii/S3051268926000152#fig0005>
 * Measuring Off-Ball Movement Using Broadcast Tracking & Event Data - <https://www.gradientsports.com/blog/measuring-off-ball-movement-using-broadcast-tracking-event-data>
+* PathCRF: Ball-Free Soccer Event Detection via Possession Path Inference from Player Trajectories - <https://arxiv.org/abs/2602.12080>
 
 #### Role assignment
 
@@ -635,6 +645,7 @@ Rugby
 * Putting team formations in association football into context - <https://content.iospress.com/download/journal-of-sports-analytics/jsa220620?id=journal-of-sports-analytics%2Fjsa220620>
 * Spatial roles in hockey special teams - <https://www.degruyterbrill.com/document/doi/10.1515/jqas-2023-0019/html?lang=en>
 * Automatic detection of tactical states in football based on player and ball position - <https://journals.sagepub.com/doi/pdf/10.1177/22150218261432789>
+* Different formations, different patterns: An integrated approach combining entropy, machine learning, and XAI to analyze passing networks in soccer - <https://www.tandfonline.com/doi/full/10.1080/02640414.2026.2698256#abstract>
 
 
 #### NMF
@@ -786,6 +797,7 @@ Rugby
 * A reinforcement learning- enabled system for personalised sports training plan generation - <https://www.inderscienceonline.com/doi/pdf/10.1504/IJICT.2025.151069>
 * Adaptive training load optimization for track and field athletes: A reinforcement learning approach - <https://www.nature.com/articles/s41598-026-41946-w>
 * Balancing training load, rest and musculoskeletal injury risk: a mathematical modelling study in Thoroughbred racehorses - <https://arxiv.org/pdf/2603.22680>
+* The research on the generation method of sports training strategies based on multi-objective reinforcement learning - <https://link.springer.com/article/10.1007/s42452-026-09042-w>
 
 #### Injuries
 
@@ -849,6 +861,7 @@ Rugby
   * A high-level picture of biomechanical training load for runners - <https://runningwritings.com/2025/11/biomechanical-training-load-for-runners.html?s=03>
   * Predicting running-related injuries based on runner characteristics - <https://sportrxiv.org/index.php/server/preprint/view/620>
   * Machine Learning Based Estimation of Structure-Specific Load around the Ankle and Knee Joint during Running Using IMU Data - <https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1710980/abstract>
+  * Why do we run? A cross-sectional analysis of motivation profiles and training characteristics in the Garmin-RUNSAFE running health cohort study - <https://www.sciencedirect.com/science/article/pii/S1440244026002355>
 
 #### Match demands
 
@@ -1139,6 +1152,7 @@ Rugby
 
 * OpenCap - <https://nmbl.stanford.edu/wp-content/uploads/OpenCap.pdf>
   * <https://www.opencap.ai/>
+* Determining the accuracy and concurrent validity of a computer vision system for running biomechanics analysis - <https://journals.sagepub.com/doi/abs/10.1177/17479541261461886>
 
 
 ### Vision transformers
@@ -1240,6 +1254,8 @@ Rugby
 * Harrell - Statistical Problems to Document and to Avoid - [https://discourse.datamethods.org/t/author-checklist/3407](https://discourse.datamethods.org/t/author-checklist/3407)
 * Reference Collection to push back against “Common Statistical Myths” - [https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)
 * Publish your raw data and your speculations, then let other people do the analysis: track and field edition - [https://statmodeling.stat.columbia.edu/2017/08/21/publish-raw-data-speculations-let-people-analysis-track-field-edition/](https://statmodeling.stat.columbia.edu/2017/08/21/publish-raw-data-speculations-let-people-analysis-track-field-edition/)
+* Simulations in statistical workflows - <https://royalsocietypublishing.org/rsta/article-pdf/doi/10.1098/rsta.2024.0616/6141228/rsta.2024.0616.pdf>
+* Statistical workflow - <https://doi.org/10.1098/rsta.2025.0293>
 
 ### Modelling
 
@@ -1427,6 +1443,7 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 
 * Generalized Additive Models for Location, Scale and Shape - <https://www.gamlss.com/>
 * GAMLSS, NHANES, and my own personal hell - <https://blog.djnavarro.net/posts/2025-09-07_gamlss/>
+* Distributional regression using generalized additive models for location, scale and shape - <https://www.nature.com/articles/s43586-026-00498-z>
 
 
 
@@ -1605,6 +1622,16 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * Principles of Effective Data Visualization - [https://www.sciencedirect.com/science/article/pii/S2666389920301896#fig1](https://www.sciencedirect.com/science/article/pii/S2666389920301896#fig1)
 * Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing - [https://dl.acm.org/doi/pdf/10.1145/3025453.3025912](https://dl.acm.org/doi/pdf/10.1145/3025453.3025912)
 * Friends Don't Let Friends Make Bad Graphs - <https://github.com/cxli233/FriendsDontLetFriends>
+
+
+### Latent variable modelling
+
+* lavaan - <https://lavaan.ugent.be/tutorial/>
+* A Practical Introduction to Factor Analysis: Exploratory Factor Analysis - <https://stats.oarc.ucla.edu/spss/seminars/introduction-to-factor-analysis/a-practical-introduction-to-factor-analysis/>
+* Confirmatory Factor Analysis (CFA) in R with lavaan - <https://stats.oarc.ucla.edu/r/seminars/rcfa/>
+* Introduction to Structural Equation Modeling (SEM) in R with lavaan - <https://stats.oarc.ucla.edu/r/seminars/rsem/>
+* Latent Growth Models (LGM) and Measurement Invariance with R in lavaan - <https://stats.oarc.ucla.edu/r/seminars/lgm/>
+
 
 ### Dimensionality reduction & Variable selection
 
