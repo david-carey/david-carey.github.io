@@ -57,7 +57,6 @@ This is a semi-structured collection of sports analytics, statistics, data scien
 * Interview with Jim Albert: Part I - <https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2503104>
 * Interview with Jim Albert. Part II: An Inspiring Story of Teaching Statistics Through Sports Applications - <https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2543230>
 * Global landscape of sports statistics: Initial census of researchers and academics in the field - <https://journals.sagepub.com/doi/10.1177/17479541261467942>
-* Global landscape of sports statistics: Initial census of researchers and academics in the field - <https://journals.sagepub.com/doi/10.1177/17479541261467942>
 
 
 ### Communication
@@ -494,6 +493,7 @@ AFL
 * O’Shaughnessy, D. M. (2006). Possession versus position: strategic evaluation in AFL. Journal of sports science & medicine, 5(4), 533.
 * ASSESSING PLAYER PERFORMANCE IN AUSTRALIAN FOOTBALL USING SPATIAL DATA - Karl Jackson - [https://researchbank.swinburne.edu.au/file/248ec147-72d7-448c-a19d-49f01d90b12f/1/Karl%20Jackson%20Thesis.pdf](https://researchbank.swinburne.edu.au/file/248ec147-72d7-448c-a19d-49f01d90b12f/1/Karl%20Jackson%20Thesis.pdf)
 * Predicting and Understanding Australian Rules Football Using Markov Processes - [https://link.springer.com/chapter/10.1007/978-3-030-99333-7_5](https://link.springer.com/chapter/10.1007/978-3-030-99333-7_5)
+* Predicting possession outcomes using spatiotemporal data in Australian Rules football - <http://www2.stat-athens.aueb.gr/~jbn/conferences/MathSport_presentations/TRACK%20B/B2%20-%20Inplay%20Analysis/BartSpencer_Predicting%20possession%20outcomes.pdf>
 
 Soccer
 
@@ -651,6 +651,7 @@ Rugby
 * Assigning goal-probability value to high intensity runs in football - <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308749>
 * NFL Big Data Bowl - How many yards will an NFL player gain after receiving a handoff?
   * 1st place solution The Zoo - [https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/119400](https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/119400)
+    * Zoo in R - <https://opensourcefootball.com/posts/2021-05-31-computer-vision-in-r-using-torch/>
   * <https://operations.nfl.com/media/4204/bdb_ploenzke.pdf>
 * The Anatomy of Corner 3s in the NBA: What makes them efficient, how are they generated and how can defenses respond? - <https://arxiv.org/pdf/2105.12785>
 * Masked Autoencoder Pretraining for Event Classification in Elite Soccer
@@ -686,18 +687,12 @@ Rugby
 * Spatial roles in hockey special teams - <https://www.degruyterbrill.com/document/doi/10.1515/jqas-2023-0019/html?lang=en>
 * Automatic detection of tactical states in football based on player and ball position - <https://journals.sagepub.com/doi/pdf/10.1177/22150218261432789>
 * Different formations, different patterns: An integrated approach combining entropy, machine learning, and XAI to analyze passing networks in soccer - <https://www.tandfonline.com/doi/full/10.1080/02640414.2026.2698256#abstract>
+* Same formation, different styles: An exploratory study of clustering playing style of teams in 4-3-3 formation in elite soccer - <https://journals.sagepub.com/doi/full/10.1177/17479541261476911>
 
 
 #### Play retrieval/similarity
 
 * Trajectory-Based Retrieval of Similar Soccer Plays Using Time-Warping and Anchor-Based Representations - <https://link.springer.com/chapter/10.1007/978-3-032-27272-0_9>
-
-
-
-#### Play retrieval/similarity
-
-* Trajectory-Based Retrieval of Similar Soccer Plays Using Time-Warping and Anchor-Based Representations - <https://link.springer.com/chapter/10.1007/978-3-032-27272-0_9>
-
 
 
 #### NMF
@@ -756,6 +751,8 @@ Rugby
 * Trajectory Imputation in Multi-Agent Sports with Derivative-Accumulating Self-Ensemble - <https://arxiv.org/abs/2408.10878v4>
   * <https://github.com/gkswns95/midas>
 * Multimodal transformer–diffusion framework for large-scale reconstruction of soccer tracking data - <https://www.sciencedirect.com/science/article/pii/S1077314225003492>
+* NFL Big Data Bowl 2026:
+  * Physics-Informed Transformer - <https://github.com/judyz0415/nfl-big-data-bowl-2026>
 
 
 #### Game state with tracking data
@@ -823,7 +820,8 @@ Rugby
 * Predicting daily recovery during long-term endurance training using machine learning analysis - <https://link.springer.com/article/10.1007/s00421-024-05530-2>
 * Getting the Most From Your Data: Using Statistical Process Controls for Data Quality Assurance in Sport Science Data - <https://journals.lww.com/nsca-jscr/abstract/2026/02000/getting_the_most_from_your_data__using_statistical.26.aspx>
 * Do coaches believe they can predict athletes’ responses to training? An international survey of coaches’ beliefs regarding the predictability of training-induced adaptations - <https://doi.org/10.1177/17479541251361617>
-
+* Training Load Variables in Elite Youth Soccer: Is a Data Reduction Approach Consistent Across Different Age Groups? - <https://doi.org/10.1123/ijspp.2025-0050>
+* Mathematical modeling and optimization of athletic performance: tapering and periodization - <https://www.degruyterbrill.com/document/doi/10.1515/jqas-2025-0077/html>
 
 
 #### Non-invasive monitoring
@@ -916,7 +914,7 @@ Rugby
   * Machine Learning Based Estimation of Structure-Specific Load around the Ankle and Knee Joint during Running Using IMU Data - <https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1710980/abstract>
   * Why do we run? A cross-sectional analysis of motivation profiles and training characteristics in the Garmin-RUNSAFE running health cohort study - <https://www.sciencedirect.com/science/article/pii/S1440244026002355>
 * An Accelerometer-Equipped Running Watch Provides a Valid Estimate of Peak Vertical Ground Reaction Force and Cumulative Weighted Damage: A Cross-Sectional Laboratory Study - <https://onlinelibrary.wiley.com/doi/full/10.1002/ejsc.70215>
-* An Accelerometer-Equipped Running Watch Provides a Valid Estimate of Peak Vertical Ground Reaction Force and Cumulative Weighted Damage: A Cross-Sectional Laboratory Study - <https://onlinelibrary.wiley.com/doi/full/10.1002/ejsc.70215>
+
 
 #### Match demands
 
@@ -1068,6 +1066,7 @@ Rugby
 # Computer vision
 
 * EECS 4422 Computer Vision - <https://www.eecs.yorku.ca/~kosta/Courses/EECS4422/>
+* Convolutional Neural Networks (CNNs / ConvNets) notes - <https://cs231n.github.io/convolutional-networks/#conv>
 
 
 ### Annotation tools
@@ -1161,6 +1160,7 @@ Rugby
 * Semi-automated last touch detection for out-of-bounds possession decisions in football - <https://link.springer.com/article/10.1007/s12283-025-00518-3>
 * Pixels or Positions? Benchmarking Modalities in Group Activity Recognition - <https://arxiv.org/pdf/2511.12606>
 * Automatic event detection in association football using broadcast-derived tracking data - <https://link.springer.com/article/10.1007/s12283-026-00549-4>
+* BasketEvent: Understanding Who Did What and When in Basketball Videos - <https://arxiv.org/abs/2607.21267> and project: <https://zhangyu2003.github.io/BasketEvent/> and data: <https://huggingface.co/datasets/zaywas/BasketEvent> 
 
 #### Pose estimation and applications
 
@@ -1755,6 +1755,11 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * The Challenge of Using LLMs to Simulate Human Behavior: A Causal Inference Perspective - <https://arxiv.org/pdf/2312.15524v1>
 
 
+### Complex systems
+
+* The Qualitative Systems Exploration Model (QSEM): A New Framework to Support the Structural Analysis of Causal Loop Diagrams Within Participatory System Dynamics - <https://onlinelibrary.wiley.com/doi/10.1002/sdr.70015>
+* QSEM - <https://www.systemssciencelab.com/>
+
 ### Statistical software
 
 * Recognising research software in academia - <https://github.com/njtierney/talk-unsw-rse>
@@ -1779,6 +1784,7 @@ Common statistical tests are linear models (or: how to teach stats) - [https://l
 * CVPR Sports - <https://vap.aau.dk/cvsports/>
 * [http://large-scale-sports-analytics.org](http://large-scale-sports-analytics.org)
 * LISS Football Analytics Symposium - <https://www.kuleuven.be/liss/events/liss-football-analytics-symposium>
+* icSPORTS - <https://icsports.scitevents.org/>
 
 
 ### Learning Bayesian Statistics Podcast
